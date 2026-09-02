@@ -1,0 +1,9 @@
+{
+  "name": "neave-custom",
+  "version": "1.0.0",
+  "description": "This firm's own derivative and custom skills (lal-customize).",
+  "author": {
+    "name": "Neave Family Law Group, P.A."
+  },
+  "license": "Proprietary — internal firm use only"
+}
