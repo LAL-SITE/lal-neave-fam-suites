@@ -102,8 +102,8 @@
     {
       "name": "neave-custom",
       "source": "./90-firm-custom",
-      "version": "1.0.0",
-      "description": "This firm's own derivative and custom skills (lal-customize)."
+      "version": "1.3.0",
+      "description": "This firm's own skill forks (lal-customize): neave-lal-command-center, neave-lal-start-case. No duplicate-named skills — see plugin.json for what was removed and why."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "name": "neave-custom",
-  "version": "1.0.0",
-  "description": "This firm's own derivative and custom skills (lal-customize).",
+  "version": "1.3.0",
+  "description": "This firm's own skill forks (lal-customize): neave-lal-command-center and neave-lal-start-case, delivering the matter command center as a branded HTML file. The 5 skills previously carried here (case-closing, case-roadmap, drafting-core, financial-intake, output-standards) were removed 2026-11-04 because the firm's full-system upgrade now ships identically-named versions of all 5 in the base suites - keeping both would duplicate skill names and create ambiguous triggers.",
   "author": {
     "name": "Neave Family Law Group, P.A."
   },
-  "license": "Proprietary — see LICENSE"
+  "license": "Proprietary — internal firm use only"
 }
