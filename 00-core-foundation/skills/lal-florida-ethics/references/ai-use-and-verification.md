@@ -76,9 +76,9 @@ unredacted.
 
 Applies to: account numbers · routing numbers · Social Security numbers · card numbers.
 
-- **(`the paralegal`)** Mask first, then save, then upload. Label opposing-party documents
+- **(`Russ`)** Mask first, then save, then upload. Label opposing-party documents
   before uploading so ownership is never inferred.
-- **(`the senior paralegal`)** Confirm masking on every page, including exhibits and attachments,
+- **(`Marta Estevez`)** Confirm masking on every page, including exhibits and attachments,
   before anything advances.
 
 ---
@@ -343,7 +343,7 @@ memorandum, proposed order, response, or discovery document.
 >    Florida Bar, applicable rules of procedure, or any court order.
 >
 > `Angela R. Neave` · Florida Bar No. `{{BAR_NO}}`
-> `Neave Family Law Group, P.A.` · `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL` · `(954) 981-2200` · `aneave@neavefamilylaw.com`
+> `Neave Family Law Group, P.A.` · `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308` · `(954) 981-2200` · `aneave@neavefamilylaw.com`
 > Dated: `{{DATE}}`
 
 ### Where AI was NOT used
@@ -409,7 +409,7 @@ folder convention.
 
 **Degradation.** If `{{PM_SYSTEM}}` or `{{DMS}}` is not reachable through the connector, do not
 fail and do not skip the record. Emit the record inline, labeled
-`RECORD — must be filed to {{DMS}} and logged in {{PM_SYSTEM}} by the paralegal before session close`.
+`RECORD — must be filed to {{DMS}} and logged in {{PM_SYSTEM}} by Russ before session close`.
 
 ---
 

@@ -7,7 +7,7 @@ description: "Alimony assessor for Florida dissolution matters under 61.08/61.14
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. alimony assessor. Use in DOM matters when alimony is at issue. Triggers on: "run the alimony assessor," "assess alimony," "what type of alimony," "how much alimony," "alimony scenarios," "run alimony analysis," "is alimony warranted," "model alimony," or any request to assess, calculate, or model alimony in a Florida dissolution matter. Applies to initial determinations under §61.08 (2023 amended) and modification matters under §61.14. Permanent alimony is NOT available for petitions filed or pending on or after July 1, 2023. Only four forms available: temporary, bridge-the-gap, rehabilitative, durational. Built-in QC and scenario modeling. Hard stops for critical missing data. Always assign to the paralegal — attorney reviews all output before any use. DO NOT run in paternity or CS-only matters unless alimony is specifically pled.
+Neave Family Law Group, P.A. alimony assessor. Use in DOM matters when alimony is at issue. Triggers on: "run the alimony assessor," "assess alimony," "what type of alimony," "how much alimony," "alimony scenarios," "run alimony analysis," "is alimony warranted," "model alimony," or any request to assess, calculate, or model alimony in a Florida dissolution matter. Applies to initial determinations under §61.08 (2023 amended) and modification matters under §61.14. Permanent alimony is NOT available for petitions filed or pending on or after July 1, 2023. Only four forms available: temporary, bridge-the-gap, rehabilitative, durational. Built-in QC and scenario modeling. Hard stops for critical missing data. Always assign to Russ — attorney reviews all output before any use. DO NOT run in paternity or CS-only matters unless alimony is specifically pled.
 ## Florida Statute §61.08 (2023 Amended) and §61.14
 ### Internal Use Only | Subject to Attorney Review
 ### REBUILT July 21, 2026 from the April 27, 2026 build — attorney re-verification of all citations required before first production use
@@ -210,7 +210,7 @@ tax/practical notes flagged for attorney.
 - Petition date vs. July 1, 2023 confirmed and stated
 - Grable sequence position stated
 - All citations carry verification warnings
-Nothing moves to attorney without Co-Work QC and the senior paralegal review. Nothing is
+Nothing moves to attorney without Co-Work QC and Marta Estevez review. Nothing is
 filed, served, or communicated externally without attorney approval.
 
 ---

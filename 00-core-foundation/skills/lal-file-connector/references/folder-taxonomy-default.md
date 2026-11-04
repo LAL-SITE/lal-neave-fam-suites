@@ -99,7 +99,7 @@ Deeds and Titles
 Insurance Documents
 ```
 
-`[CONFIRM LOCALLY: which disclosure categories the firm's own production checklist uses, with the senior paralegal]` — categories track the disclosure rule's document list, and a firm that
+`[CONFIRM LOCALLY: which disclosure categories the firm's own production checklist uses, with Marta Estevez]` — categories track the disclosure rule's document list, and a firm that
 has built its checklist around its own headings should keep them.
 
 ⚠️ VERIFY: confirm rule and current text before relying on this. The default categories are an

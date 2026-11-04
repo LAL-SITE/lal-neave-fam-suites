@@ -39,7 +39,7 @@ Do not choose.
 
 **If the connector reports zero candidates** — stop and report:
 
-> I cannot find this matter's file in your storage. Confirm with `the intake coordinator` that the
+> I cannot find this matter's file in your storage. Confirm with `Judith` that the
 > matter has been opened in `{{PM_SYSTEM}}` and that its folder exists, or tell me where it
 > lives and I will use that.
 

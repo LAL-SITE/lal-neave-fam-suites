@@ -99,7 +99,7 @@ Required at the top of any drafted document containing at least one case citatio
 > document is filed, served, or shared. See the citation verification checklist at the end of this
 > document. Do not file without completing verification. The accuracy of no case citation in this
 > draft is guaranteed.
-> Prepared by the paralegal · reviewed by the senior paralegal · approval required from
+> Prepared by Russ · reviewed by Marta Estevez · approval required from
 > Angela R. Neave.
 
 ---
@@ -142,9 +142,9 @@ session is added to the shared repository from within a session — that is a hu
 
 ## Notes on token use in these blocks
 
-- Install-time tokens: `Neave Family Law Group, P.A.` `Angela R. Neave` `{{BAR_NO}}` `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL`
+- Install-time tokens: `Neave Family Law Group, P.A.` `Angela R. Neave` `{{BAR_NO}}` `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308`
   `(954) 981-2200` `aneave@neavefamilylaw.com` `{{PM_SYSTEM}}` `{{DMS}}` `{{RESEARCH_PROVIDER}}`
-  `{{UPLOAD_PORTAL}}` `the paralegal` `the senior paralegal` `Angela R. Neave` `the intake coordinator`
+  `{{UPLOAD_PORTAL}}` `Russ` `Marta Estevez` `Angela R. Neave` `Judith`
 - Draft-time tokens, also curly: `{{CLIENT_NAME}}` `{{CASE_NO}}` `{{JUDGE}}` `{{OPPOSING_COUNSEL}}`
   `{{COUNTY}}` `{{CIRCUIT}}` `{{DIVISION}}` `{{DATE}}`
 - `{{RESEARCH_PROVIDER}}` resolves to whatever research service the firm actually subscribes to. Never

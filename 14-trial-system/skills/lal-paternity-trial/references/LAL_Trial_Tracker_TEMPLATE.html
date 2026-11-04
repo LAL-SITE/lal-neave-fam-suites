@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LAL Trial &amp; Evidentiary Hearing Tracker</title>
+<style>
+:root{--pink:#1F3864;--orange:#B45309;--lime:#4C7A34;--teal:#2E74B5;--black:#111827;--paper:#F5F6F8;--mid:#888888;--light:#DDDDDD}
+*{box-sizing:border-box}body{font-family:Nunito,Arial,sans-serif;margin:0;background:var(--paper);color:var(--black);font-size:14px}
+.bar{display:flex;height:8px}.bar div{flex:1}.bar .p{background:var(--pink)}.bar .o{background:var(--orange)}.bar .l{background:var(--lime)}.bar .t{background:var(--teal)}
+header{background:var(--black);color:#fff;padding:16px 24px}
+header h1{margin:0;font-family:Oswald,Arial,sans-serif;font-weight:600;font-size:21px;letter-spacing:.5px}
+header h1 span{color:var(--pink)}
+header .sub{font-size:12px;color:#bbb;margin-top:4px;max-width:960px}
+.meta{display:flex;gap:10px;padding:12px 24px;background:#fff;border-bottom:1px solid var(--light);flex-wrap:wrap}
+.meta input{border:1px solid var(--light);border-radius:4px;padding:7px 9px;font-size:13px;font-family:Nunito,Arial,sans-serif}
+.meta input.wide{width:290px}
+nav{display:flex;gap:5px;padding:12px 24px 0;background:#fff}
+nav button{border:none;background:#eee;padding:9px 20px;border-radius:6px 6px 0 0;cursor:pointer;font-family:Oswald,Arial,sans-serif;font-weight:500;font-size:13px;letter-spacing:.5px;color:var(--black)}
+nav button.active{background:var(--pink);color:#fff}
+nav button:nth-child(2).active{background:var(--orange)}
+nav button:nth-child(3).active{background:var(--teal)}
+.toolbar{padding:10px 24px;display:flex;gap:8px;flex-wrap:wrap;background:#fff;border-bottom:3px solid var(--black)}
+.toolbar button{background:var(--black);color:#fff;border:none;border-radius:4px;padding:7px 14px;cursor:pointer;font-size:12.5px;font-family:Nunito,Arial,sans-serif;font-weight:700}
+.toolbar button.pink{background:var(--pink)}.toolbar button.warn{background:var(--orange)}
+.toolbar .note{font-size:11.5px;color:var(--mid);align-self:center}
+main{padding:16px 24px}
+table{width:100%;border-collapse:collapse;background:#fff;table-layout:fixed}
+th{background:var(--black);color:#fff;font-family:Oswald,Arial,sans-serif;font-weight:500;font-size:11.5px;letter-spacing:.3px;padding:8px 6px;text-align:left;vertical-align:bottom;border-bottom:3px solid var(--pink)}
+td{border:1px solid var(--light);padding:0;vertical-align:top}
+td [contenteditable]{width:100%;min-height:34px;padding:6px;border:none;outline:none;font:inherit;font-size:12.5px;background:transparent;display:block}
+td [contenteditable]:focus{background:#FFF6FB;outline:2px solid var(--pink)}
+td select{width:100%;border:none;padding:6px 2px;font-size:12px;background:transparent;font-family:Nunito,Arial,sans-serif}
+tr:nth-child(even) td{background:#faf9f6}
+td .flag-Y{background:#FFE9F4}
+select.status-Admitted{color:#1F7A33;font-weight:700}select.status-Denied{color:var(--orange);font-weight:700}
+.del{color:var(--pink);cursor:pointer;text-align:center;font-weight:700}
+.legend{font-size:12px;color:#555;margin:8px 0 12px;line-height:1.5;border-left:4px solid var(--teal);padding-left:10px}
+footer{padding:14px 24px;font-size:10.5px;color:var(--mid);line-height:1.5}
+footer b{color:var(--black)}
+@media print{nav,.toolbar,.del-col{display:none}}
+</style>
+</head>
+<body>
+<div class="bar"><div class="p"></div><div class="o"></div><div class="l"></div><div class="t"></div></div>
+<header>
+  <h1>[FIRM NAME] <span>&nbsp;|&nbsp; TRIAL &amp; EVIDENTIARY HEARING TRACKER</span></h1>
+  <div class="sub">Internal work product — attorney-client privileged. Lives in the matter's Trial/Hearing folder + Claude Project. Not filed. Auto-saves in this browser; Export a JSON snapshot to {{DMS}} after every session.</div>
+</header>
+<div class="meta">
+  <input class="wide" id="m_matter" placeholder="Matter Name / Case No.">
+  <input id="m_trialdate" placeholder="Trial / Hearing Date(s)">
+  <input id="m_judge" placeholder="Judge / GM / HO">
+  <input id="m_format" placeholder="In person / Zoom">
+  <input class="wide" id="m_order" placeholder="Governing Trial Order (filing # / date)">
+</div>
+<nav>
+  <button data-tab="exhibits" class="active">EXHIBITS</button>
+  <button data-tab="witnesses">WITNESSES</button>
+  <button data-tab="deadlines">DEADLINES</button>
+</nav>
+<div class="toolbar">
+  <button class="pink" onclick="addRow()">+ Add Row</button>
+  <button onclick="exportJSON()">Export JSON (save to {{DMS}})</button>
+  <button onclick="importJSON()">Import JSON</button>
+  <button onclick="exportCSV()">Export CSV</button>
+  <button onclick="window.print()">Print</button>
+  <button class="warn" onclick="clearTab()">Clear Tab</button>
+  <span class="note" id="savenote">Auto-saved locally.</span>
+</div>
+<main>
+  <div class="legend" id="legend"></div>
+  <div id="tablewrap"></div>
+</main>
+<div class="bar"><div class="p"></div><div class="o"></div><div class="l"></div><div class="t"></div></div>
+<footer><b>[Firm Name]</b> — Trial Prep Suite<br>
+Deadlines mirror the the Trial Order Intake skill Deadline Ladder; exhibits/witnesses mirror the filed lists. Every deadline cites the order ¶/page. Rule refs: 12.407 (child witness) · 12.410 (subpoena) · 2.420/2.425 (redaction) · 2.530/12.451 (remote testimony) · 12.490 (GM review) · § 90.803(6)/90.902(11) (business records) · § 90.956 (summaries — written notice required).</footer>
+<script>
+const SCHEMAS={
+ exhibits:{legend:"One row per exhibit. Description must be SPECIFIC (doc type, date, source) — strict-disclosure orders deem vague items inadmissible. Charts/summaries under § 90.956 need written notice + underlying data made available. Keep in sync with the filed Exhibit List and folders 01/03.",
+  cols:[["ex","Ex. #",50],["desc","Description (specific — date, source, doc type)",240],["issue","Issue",70,["","CS","ED","TS","Alimony","Fees","Contempt","Other"]],["src","Source / File Location",150],["spons","Sponsoring Witness",110],["found","Foundation / Predicate",160],["obj","Objection Anticipated",120],["redact","Redacted 2.420/2.425",70,["","Y","N","N/A"]],["onlist","On Filed List",60,["","Y","N"]],["exch","Exchanged (date)",80],["mark","Pre-Mark Label",70],["offered","Offered",60,["","Y","N"]],["status","Result",85,["","Pending","Admitted","Denied","Withdrawn"]],["notes","Notes / Attorney Flags",160]]},
+ witnesses:{legend:"One row per witness. Expected Testimony is MANDATORY under strict-disclosure orders — vague entries risk exclusion. Child witnesses require prior court order (Rule 12.407). Subpoena issuance requires same-day Notice of Issuance to all parties (Rule 12.410(a)(2)).",
+  cols:[["num","#",40],["name","Witness Name",130],["role","Role",100,["","Party","Fact","Expert","Records Custodian","GAL","Attorney (fees)"]],["contact","Contact (addr/email/phone)",170],["testimony","Expected Testimony (concise, specific)",240],["expert","Expert Designated",80,["","Y","N","N/A"]],["onlist","On Filed List",60,["","Y","N"]],["subp","Subpoena Needed",70,["","Y","N"]],["served","Subpoena Served (date)",90],["appear","Appearance",100,["","In person","Zoom (2.530/12.451)","Phone"]],["child","Child Witness",80,["","N","Y-FLAG"]],["prep","Prep Session (date)",80],["notes","Notes / Attorney Flags",150]]},
+ deadlines:{legend:"Mirror of the Deadline Ladder from the Trial Order Intake skill. Every hard deadline gets T-14 / T-7 / T-3 warning rows. Every date cites the order ¶/page. Sort by date; update Done as items complete.",
+  cols:[["date","Due Date",90],["type","Type",100,["","Hard","Warn-14","Warn-7","Warn-3","Internal Task"]],["desc","Deadline / Task",250],["cite","Order Cite (¶/p.)",90],["owner","Owner",100,["","Attorney","Paralegal","Legal Assistant","Client","Other"]],["sb","In {{PM_SYSTEM}}",70,["","Y","N"]],["done","Done",60,["","Y","N"]],["notes","Notes",180]]}};
+let cur="exhibits";
+const KEY="lal_trial_tracker_v1";
+function load(){try{return JSON.parse(localStorage.getItem(KEY))||{}}catch(e){return{}}}
+function saveAll(){const d=load();d[cur]=readRows();d.meta=readMeta();localStorage.setItem(KEY,JSON.stringify(d));
+ document.getElementById("savenote").textContent="Auto-saved "+new Date().toLocaleTimeString();}
+function readMeta(){const m={};document.querySelectorAll(".meta input").forEach(i=>m[i.id]=i.value);return m}
+function writeMeta(m){if(!m)return;Object.entries(m).forEach(([k,v])=>{const el=document.getElementById(k);if(el)el.value=v})}
+function readRows(){const rows=[];document.querySelectorAll("#tbl tbody tr").forEach(tr=>{const r={};SCHEMAS[cur].cols.forEach((c,i)=>{const cell=tr.cells[i].firstElementChild;r[c[0]]=cell.tagName==="SELECT"?cell.value:cell.innerText.trim()});rows.push(r)});return rows}
+function render(){const s=SCHEMAS[cur];document.getElementById("legend").textContent=s.legend;
+ const data=(load()[cur])||[{}];
+ let h='<table id="tbl"><thead><tr>'+s.cols.map(c=>`<th style="width:${c[2]}px">${c[1]}</th>`).join("")+'<th class="del-col" style="width:30px"></th></tr></thead><tbody>';
+ data.forEach(r=>h+=rowHTML(r));h+="</tbody></table>";
+ document.getElementById("tablewrap").innerHTML=h;attach();}
+function attach(){document.querySelectorAll("#tbl [contenteditable]").forEach(el=>el.oninput=saveAll);
+ document.querySelectorAll("#tbl select").forEach(el=>{el.onchange=e=>{styleSel(e.target);saveAll()};styleSel(el)})}
+function styleSel(sel){sel.className="";if(sel.value==="Admitted")sel.classList.add("status-Admitted");if(sel.value==="Denied")sel.classList.add("status-Denied");
+ sel.closest("td").classList.toggle("flag-Y",sel.value==="Y-FLAG")}
+function rowHTML(r){const s=SCHEMAS[cur];let h="<tr>";s.cols.forEach(c=>{const v=r[c[0]]||"";
+ if(c[3]){h+=`<td><select>${c[3].map(o=>`<option ${o===v?"selected":""}>${o}</option>`).join("")}</select></td>`}
+ else{h+=`<td><div contenteditable="true">${String(v).replace(/</g,"&lt;")}</div></td>`}});
+ h+=`<td class="del del-col" onclick="this.closest('tr').remove();saveAll()">×</td></tr>`;return h}
+function addRow(){document.querySelector("#tbl tbody").insertAdjacentHTML("beforeend",rowHTML({}));attach();saveAll()}
+function clearTab(){if(confirm("Clear all rows on this tab?")){const d=load();d[cur]=[{}];localStorage.setItem(KEY,JSON.stringify(d));render()}}
+function exportJSON(){saveAll();const d=load();const name=(d.meta&&d.meta.m_matter||"Matter").replace(/[^\w-]+/g,"_");
+ dl(new Blob([JSON.stringify(d,null,1)],{type:"application/json"}),`${name}_TrialTracker_${new Date().toISOString().slice(0,10)}.json`)}
+function importJSON(){const inp=document.createElement("input");inp.type="file";inp.accept=".json";
+ inp.onchange=()=>{const rd=new FileReader();rd.onload=()=>{localStorage.setItem(KEY,rd.result);writeMeta(load().meta);render()};rd.readAsText(inp.files[0])};inp.click()}
+function exportCSV(){saveAll();const s=SCHEMAS[cur];const rows=readRows();
+ const esc=v=>'"'+String(v).replace(/"/g,'""')+'"';
+ const csv=[s.cols.map(c=>esc(c[1])).join(",")].concat(rows.map(r=>s.cols.map(c=>esc(r[c[0]]||"")).join(","))).join("\r\n");
+ dl(new Blob([csv],{type:"text/csv"}),cur+"_export.csv")}
+function dl(blob,name){const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=name;a.click()}
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{saveAll();cur=b.dataset.tab;
+ document.querySelectorAll("nav button").forEach(x=>x.classList.toggle("active",x===b));render()});
+document.querySelectorAll(".meta input").forEach(i=>i.oninput=saveAll);
+writeMeta(load().meta);render();
+</script>
+</body>
+</html>

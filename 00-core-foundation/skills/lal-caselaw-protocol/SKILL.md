@@ -271,7 +271,7 @@ warning is handled in two places — not inline, so the draft stays clean, but i
 > document is filed, served, or shared. See the citation verification checklist at the end of this
 > document. Do not file without completing verification. The accuracy of no case citation in this
 > draft is guaranteed.
-> Prepared by the paralegal · reviewed by the senior paralegal · approval required from
+> Prepared by Russ · reviewed by Marta Estevez · approval required from
 > Angela R. Neave.
 
 **At the end of every drafted document containing case citations:**
@@ -294,11 +294,11 @@ warning is handled in two places — not inline, so the draft stays clean, but i
 > [CONFIRM LOCALLY: whether this jurisdiction requires a separate accuracy certification on the
 > filing itself, and in what form — with the clerk and with Angela R. Neave]
 
-Both blocks are required whenever even one case is cited. Neither is removed by the paralegal;
+Both blocks are required whenever even one case is cited. Neither is removed by Russ;
 only Angela R. Neave clears them, after verification.
 
 Signature-block details, certificate-of-service format, and filing mechanics come from
-Angela R. Neave / {{BAR_NO}} / 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL / (954) 981-2200 / aneave@neavefamilylaw.com at install time,
+Angela R. Neave / {{BAR_NO}} / 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308 / (954) 981-2200 / aneave@neavefamilylaw.com at install time,
 and are [CONFIRM LOCALLY: current e-filing and service requirements — with the clerk of court in
 {{COUNTY}} County].
 
@@ -363,7 +363,7 @@ internal consistency, building timelines. The division of labor is simple and it
 
 | Work | Owner |
 |---|---|
-| Issue-spotting, framing, drafting, organizing | Model, with the paralegal |
+| Issue-spotting, framing, drafting, organizing | Model, with Russ |
 | Sourcing caselaw | Authorized repository only |
 | Verifying every citation | Angela R. Neave |
 | Clearing a draft for filing | Angela R. Neave |

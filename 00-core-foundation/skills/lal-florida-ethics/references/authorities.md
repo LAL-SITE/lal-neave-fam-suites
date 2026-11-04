@@ -53,7 +53,7 @@ available in this corpus. If a rule number is needed, `Angela R. Neave` supplies
 ## 3. AUTHORIZATION IS NOT AUTOMATIC
 
 AI-directed workflow stages do not constitute attorney authorization. A workflow, skill, or
-checklist telling `the paralegal` to run a stage has no effect unless `Angela R. Neave`
+checklist telling `Russ` to run a stage has no effect unless `Angela R. Neave`
 authorized that work on that matter. **The tool suggests; the attorney authorizes.**
 
 ---

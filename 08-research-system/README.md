@@ -1,8 +1,8 @@
 # Research System — Legal Authority Lab
 
-**Suite:** Research System
-**List price:** $899
-**Version:** 1.0.0
+**Suite:** Research System  
+**List price:** $899  
+**Version:** 1.0.0  
 **Publisher:** Legal Authority Lab — legalauthoritylab.com
 
 Substantive Florida family law research with library-first order of operations and caselaw protocol enforcement.

@@ -230,7 +230,7 @@ The four rules that are violated most often:
    phrasings of the withdrawal mechanic. Pick one and delete the rest. A letter shipped with
    competing option blocks is named in the source as the most common formatting error.
 4. **The signer is specified by the spec, and it is deliberate.** The retainer transmittal is
-   attorney-signed; the welcome message is signed by `the paralegal`. That split is intentional.
+   attorney-signed; the welcome message is signed by `Russ`. That split is intentional.
    Formal bench correspondence is attorney-signed with no exception. Every opposing-counsel
    sub-type is attorney-signed. A representation-ending communication defaults to attorney
    signature and requires an explicit override to go out over any other signature.
@@ -424,7 +424,7 @@ instructs the buyer to apply their own.
 
 ```
 Neave Family Law Group, P.A. LETTERHEAD — apply the firm's own letterhead template to this document.
-Position: top of page one. Content: firm name, 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL, (954) 981-2200,
+Position: top of page one. Content: firm name, 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308, (954) 981-2200,
 aneave@neavefamilylaw.com. Continuation pages per the firm's own template.
 ```
 

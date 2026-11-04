@@ -1,0 +1,10 @@
+{
+  "name": "lal-name-change-suite",
+  "version": "1.1.0",
+  "description": "Name Change Suite — Complete Florida §68.07 name change practice: master router, drafting engine with validated document builders, client correspondence engine, QC gate. Adult, minor, family, and name restoration. Florida family law. Built inside a real, active family law firm.",
+  "author": {
+    "name": "Legal Authority Lab",
+    "url": "https://legalauthoritylab.com"
+  },
+  "license": "Proprietary — see LICENSE"
+}

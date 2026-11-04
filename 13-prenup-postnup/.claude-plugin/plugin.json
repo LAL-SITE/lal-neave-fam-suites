@@ -1,0 +1,10 @@
+{
+  "name": "lal-prenup-suite",
+  "version": "1.1.0",
+  "description": "Prenup & Postnup Suite — Prenuptial and postnuptial agreements both directions: drafting (§61.079 prenups, contract-law postnups) and review/enforceability analysis in all four contexts (pre-execution and divorce-context, prenup and postnup). Florida family law. Built inside a real, active family law firm.",
+  "author": {
+    "name": "Legal Authority Lab",
+    "url": "https://legalauthoritylab.com"
+  },
+  "license": "Proprietary — see LICENSE"
+}

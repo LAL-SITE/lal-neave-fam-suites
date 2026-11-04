@@ -132,7 +132,7 @@ accident:
 > finished.
 
 **CL-3 opener, EXECUTED (M04) — round-2 find; this sub-type is no longer template-only.**
-Sent as an email rather than a letter, on a **still-pending** case, by the paralegal
+Sent as an email rather than a letter, on a **still-pending** case, by Russ
 over Angela R. Neave's copy. Note the structure: the mechanic comes first and the scope
 recital is used as the *justification* for it, which is the reverse of the system
 template's order:
@@ -624,7 +624,7 @@ Neave Family Law Group, P.A.
 By: ______________________________
 Angela R. Neave
 Florida Bar No. {{BAR_NO}}
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200
 Service E-Mail: aneave@neavefamilylaw.com
 
@@ -633,7 +633,7 @@ and
 By: ______________________________
 Angela R. Neave
 Florida Bar No. {{BAR_NO}}
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200
 Service E-Mail: aneave@neavefamilylaw.com
 ```
@@ -649,8 +649,8 @@ Role-line variants: CL-9 signs as mediator; CL-10 signs as `Guardian ad Litem`.
 - **T-FORM-C is signed by one attorney only**, unlike the executed letters where both
   appearing attorneys signed. Both patterns are firm-approved; the count follows who
   appeared, not house style.
-- **M04 was signed by the paralegal, not by an attorney.** The executed limited-scope
-  end-of-representation notice went out over the paralegal's name and title, with
+- **M04 was signed by Russ, not by an attorney.** The executed limited-scope
+  end-of-representation notice went out over Russ's name and title, with
   Angela R. Neave copied. This is the only representation-ending communication in the
   corpus not signed by a lawyer.
   > **FLAGGED FOR ATTORNEY DECISION.** A communication that announces the firm is ceasing

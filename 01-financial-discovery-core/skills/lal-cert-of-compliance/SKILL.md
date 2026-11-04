@@ -5,7 +5,7 @@ description: "Drafts the Certificate of Compliance for Rule 12.285 mandatory dis
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. Certificate of Compliance drafter for Florida Rule 12.285 mandatory disclosure. Use this skill immediately whenever the paralegal needs to draft a Certificate of Compliance confirming that mandatory disclosure has been served. Triggers on: "draft the cert of compliance," "certificate of compliance," "cert of compliance," "mandatory disclosure is complete," "we served disclosure — draft the cert," "client disclosure is done," "draft the 12.285 certificate," "we need to file the cert," "disclosure is served — generate the cert," or any request to prepare the Certificate of Compliance for filing after mandatory disclosure has been produced. the paralegal drafts using the tracker and served documents as reference. Output goes to Angela R. Neave to review and sign before filing. Never filed without attorney approval. Always assign to the paralegal for drafting — attorney for signing.
+Neave Family Law Group, P.A. Certificate of Compliance drafter for Florida Rule 12.285 mandatory disclosure. Use this skill immediately whenever Russ needs to draft a Certificate of Compliance confirming that mandatory disclosure has been served. Triggers on: "draft the cert of compliance," "certificate of compliance," "cert of compliance," "mandatory disclosure is complete," "we served disclosure — draft the cert," "client disclosure is done," "draft the 12.285 certificate," "we need to file the cert," "disclosure is served — generate the cert," or any request to prepare the Certificate of Compliance for filing after mandatory disclosure has been produced. Russ drafts using the tracker and served documents as reference. Output goes to Angela R. Neave to review and sign before filing. Never filed without attorney approval. Always assign to Russ for drafting — attorney for signing.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -36,12 +36,12 @@ below that conflicts with them.
 ---
 
 # Neave Family Law Group, P.A. Certificate of Compliance — Rule 12.285
-## Staff Lane: the paralegal drafts | Angela R. Neave signs | Files via {{PM_SYSTEM}}
+## Staff Lane: Russ drafts | Angela R. Neave signs | Files via {{PM_SYSTEM}}
 ## Triggers After: Client mandatory disclosure is served and tracker confirms complete
 
 This skill drafts the Certificate of Compliance confirming that the client
 has served mandatory automatic disclosure pursuant to Florida Family Law
-Rule of Procedure 12.285. the paralegal runs this skill after the disco tracker
+Rule of Procedure 12.285. Russ runs this skill after the disco tracker
 confirms all required items have been served. Output is a court-ready draft
 that goes directly to Angela R. Neave for review and signature before filing.
 
@@ -49,7 +49,7 @@ that goes directly to Angela R. Neave for review and signature before filing.
 
 ## BEFORE DRAFTING — CONFIRM PREREQUISITES
 
-the paralegal must confirm ALL of the following before this skill runs:
+Russ must confirm ALL of the following before this skill runs:
 
 **From the Disco Tracker (Section 2 — Mandatory Disclosure Status):**
 
@@ -71,7 +71,7 @@ the paralegal must confirm ALL of the following before this skill runs:
 | Loan Applications / Credit Reports | Prior 24 months — all served |
 
 If ANY required item is marked Missing or Partial in the tracker,
-**do not draft the Certificate**. Flag to the senior paralegal — the cert cannot be
+**do not draft the Certificate**. Flag to Marta Estevez — the cert cannot be
 filed until disclosure is complete or the item is noted as N/A with
 a valid reason.
 
@@ -233,15 +233,15 @@ Respondent], [OPPOSING PARTY NAME], via the Florida Courts E-Filing Portal
 
 ---
 
-## STEP 3 — the paralegal'S CHECKLIST BEFORE SENDING TO ATTORNEY
+## STEP 3 — Russ'S CHECKLIST BEFORE SENDING TO ATTORNEY
 
-Before the paralegal sends the draft to Angela R. Neave, she confirms:
+Before Russ sends the draft to Angela R. Neave, she confirms:
 
 - [ ] Case caption matches the operative pleading exactly — party names, case number, court, circuit, division
 - [ ] Client role (Petitioner / Respondent) is correct throughout — no reversals
 - [ ] Every item served is listed with the correct date
 - [ ] Every inapplicable item has a paragraph with the specific reason stated
-- [ ] No items are listed as served if the paralegal cannot confirm service from the tracker
+- [ ] No items are listed as served if Russ cannot confirm service from the tracker
 - [ ] Correct pronouns used for the client throughout
 - [ ] Correct attorney name in signature block — Angela R. Neave, not both
 - [ ] Correct attorney email and bar number in signature block
@@ -252,11 +252,11 @@ Before the paralegal sends the draft to Angela R. Neave, she confirms:
 
 ## STEP 4 — SEND TO ATTORNEY FOR REVIEW
 
-the paralegal sends the draft to Angela R. Neave via {{PM_SYSTEM}} with the following note:
+Russ sends the draft to Angela R. Neave via {{PM_SYSTEM}} with the following note:
 
 ```
 TO: [Angela R. Neave]
-FROM: the paralegal
+FROM: Russ
 RE: [Matter Name] — Certificate of Compliance — Ready for Review
 
 Draft Certificate of Compliance attached. Disco tracker confirms all
@@ -272,21 +272,21 @@ Service dates confirmed from tracker: [Yes]
 
 ## GUARDRAILS
 
-the paralegal does not file the Certificate. Filing is attorney function only.
+Russ does not file the Certificate. Filing is attorney function only.
 The signed cert goes from Angela R. Neave directly to the e-portal.
 
-the paralegal does not draft the Certificate if any required item is still missing
+Russ does not draft the Certificate if any required item is still missing
 or partial in the tracker unless Angela R. Neave has specifically authorized
 her to proceed and note the item as N/A with a reason.
 
-the paralegal does not guess at service dates. Every date in the cert must be
+Russ does not guess at service dates. Every date in the cert must be
 confirmed from the tracker or from the served document itself.
 
-the paralegal does not use this skill to certify opposing party compliance.
+Russ does not use this skill to certify opposing party compliance.
 This cert covers client production only. Opposing party compliance issues
 go to lal-advanced-discovery for deficiency letter or motion to compel.
 
-All drafting time is logged in {{PM_SYSTEM}} before the paralegal closes the session.
+All drafting time is logged in {{PM_SYSTEM}} before Russ closes the session.
 
 ---
 
@@ -294,8 +294,8 @@ All drafting time is logged in {{PM_SYSTEM}} before the paralegal closes the ses
 
 | Who | Does What |
 |---|---|
-| the paralegal | Confirms tracker is complete, gathers drafting info, produces draft cert, runs self-checklist, saves to {{PM_SYSTEM}} DRAFTS, sends to attorney with note |
-| the senior paralegal | Reviews the paralegal's work before it goes to attorney if the senior paralegal is in the lane |
+| Russ | Confirms tracker is complete, gathers drafting info, produces draft cert, runs self-checklist, saves to {{PM_SYSTEM}} DRAFTS, sends to attorney with note |
+| Marta Estevez | Reviews Russ's work before it goes to attorney if Marta Estevez is in the lane |
 | Angela R. Neave | Reviews draft, signs, files via Florida e-portal |
 
 ---
@@ -365,3 +365,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

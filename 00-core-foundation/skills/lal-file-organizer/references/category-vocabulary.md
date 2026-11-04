@@ -210,7 +210,7 @@ routing is category-to-slot, and the slot label is configuration.
    existence.** File the executed copy in Reports and Agreements; leave drafts
    in Drafts. Never delete a draft.
 4. **A document with two plausible destinations is flagged, not split.** One
-   document, one destination, chosen by `the senior paralegal`.
+   document, one destination, chosen by `Marta Estevez`.
 5. **A category with no configured destination is an install-time error.** At
    run time it means the vocabulary and folder configuration have drifted apart
    — stop, flag it to `Angela R. Neave`, and leave the document in place.

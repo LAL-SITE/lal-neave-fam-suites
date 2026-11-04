@@ -5,7 +5,7 @@ description: "Pre-discovery document intake gate. Use when documents arrive on a
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. pre-discovery document intake skill for the paralegal. Use this skill immediately whenever a new matter is ready for discovery document processing, documents have arrived via {{UPLOAD_PORTAL}} into {{DMS}}, or the paralegal needs to audit, rename, and organize client and opposing party documents before any discovery stage skill runs. Triggers on: "documents are in {{DMS}}," "{{UPLOAD_PORTAL}} docs are ready," "organize the disco folder," "documents came in," "prep the discovery folder," "rename the client docs," "set up the DISCO folders," "documents need to be sorted," "what came in for this matter," "run the disco intake," or any request to audit, sort, rename, or organize incoming financial or discovery documents before Stage 2 fires. This skill MUST run before any lal-discovery workflow skill. It is the document prep gate — nothing goes to the senior paralegal or the discovery stages until this skill confirms the folders are clean, named correctly, and organized.
+Neave Family Law Group, P.A. pre-discovery document intake skill for Russ. Use this skill immediately whenever a new matter is ready for discovery document processing, documents have arrived via {{UPLOAD_PORTAL}} into {{DMS}}, or Russ needs to audit, rename, and organize client and opposing party documents before any discovery stage skill runs. Triggers on: "documents are in {{DMS}}," "{{UPLOAD_PORTAL}} docs are ready," "organize the disco folder," "documents came in," "prep the discovery folder," "rename the client docs," "set up the DISCO folders," "documents need to be sorted," "what came in for this matter," "run the disco intake," or any request to audit, sort, rename, or organize incoming financial or discovery documents before Stage 2 fires. This skill MUST run before any lal-discovery workflow skill. It is the document prep gate — nothing goes to Marta Estevez or the discovery stages until this skill confirms the folders are clean, named correctly, and organized.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -36,24 +36,24 @@ below that conflicts with them.
 ---
 
 # Neave Family Law Group, P.A. Discovery Document Intake Prep
-## Staff Lane: the paralegal | Runs in: Claude Cowork (Desktop App)
+## Staff Lane: Russ | Runs in: Claude Cowork (Desktop App)
 ## Triggers Before: All lal-discovery-router and Stage workflow skills
 
 This skill prepares incoming client and opposing party financial documents for
-the Neave Family Law Group, P.A. discovery workflow. the paralegal runs this in Claude Cowork, pointing Claude
+the Neave Family Law Group, P.A. discovery workflow. Russ runs this in Claude Cowork, pointing Claude
 at the client's {{DMS}} matter folder. Claude audits what arrived, renames
 every document to Neave Family Law Group, P.A. naming standards aligned with Florida Rule 12.285
 mandatory disclosure categories, sorts documents into the correct DISCO
 subfolders, flags anything missing, and saves everything ready for Stage 2.
 
-No documents go to the senior paralegal or the discovery stage skills until this skill
+No documents go to Marta Estevez or the discovery stage skills until this skill
 produces a clean Intake Confirmation.
 
 ---
 
 ## BEFORE YOU START — COWORK SETUP
 
-the paralegal, this skill runs in **Claude Cowork on the Desktop App**, not in the
+Russ, this skill runs in **Claude Cowork on the Desktop App**, not in the
 browser. If you are reading this in the browser, switch to the Desktop app,
 open Cowork, and start a new session there.
 
@@ -86,14 +86,14 @@ The matter folder in {{DMS}} mirrors {{PM_SYSTEM}} exactly:
 
 ## STEP 1 — CONFIRM CASE IDENTITY
 
-Before touching any documents, confirm the following with the paralegal:
+Before touching any documents, confirm the following with Russ:
 
 - **Client first name** (used as party identifier in all file naming)
 - **Opposing party first name** (used as party identifier in all file naming)
 - **Which party is H and which is W** — confirm before sorting begins
 - **Documents arrived for:** Client only / OP only / Both
 
-If the paralegal is unsure which party is which, stop and confirm with the senior paralegal before
+If Russ is unsure which party is which, stop and confirm with Marta Estevez before
 proceeding. Misrouting a document to the wrong DISCO folder creates errors
 that are hard to catch downstream.
 
@@ -123,7 +123,7 @@ UNIDENTIFIED / UNCLEAR: [#]
 [Current filename] — [Why unclear]
 ```
 
-Ask the paralegal to confirm the inventory before proceeding to renaming.
+Ask Russ to confirm the inventory before proceeding to renaming.
 
 ---
 
@@ -190,7 +190,7 @@ document to the correct category — do not invent new categories.
 
 **Institution** — Name of the bank, employer, or issuer. Use a clean short
 version — BofA not BankofAmerica, WellsFargo not Wells Fargo Bank NA.
-If unknown from the filename, mark as Unknown and flag for the paralegal to confirm.
+If unknown from the filename, mark as Unknown and flag for Russ to confirm.
 
 **Period** — Use MonYYYY for a single month (Jan2025) or
 MonYYYY-MonYYYY for a range (Jan2025-Jun2025). For annual documents
@@ -224,19 +224,19 @@ specific one and note it in the Intake Confirmation.
 
 If a document cannot be identified well enough to name or sort correctly,
 do not guess. Place it in a **REVIEW NEEDED** holding folder inside the
-matter root and flag it for the paralegal to review before the session closes.
+matter root and flag it for Russ to review before the session closes.
 
 ---
 
 ## STEP 6 — PRODUCE THE INTAKE CONFIRMATION
 
 Once all documents are renamed and sorted, deliver the Intake Confirmation
-to the paralegal. This is what she sends to the senior paralegal to signal the file is ready for
+to Russ. This is what she sends to Marta Estevez to signal the file is ready for
 Stage 2.
 
 ```
 DISCO INTAKE CONFIRMATION — [Matter Name] — [Date]
-Prepared by: the paralegal | Reviewed in: Claude Cowork
+Prepared by: Russ | Reviewed in: Claude Cowork
 
 DISCO - CLIENT — [Total # documents]
   Brokerage Accounts: [#]
@@ -259,25 +259,25 @@ MISSING / NOT YET RECEIVED:
   [List each 12.285 category with no documents — client and OP separately]
   [Flag any category required by Rule 12.285 that is empty]
 
-REVIEW NEEDED (the paralegal to resolve before Stage 2):
+REVIEW NEEDED (Russ to resolve before Stage 2):
   [List any documents placed in REVIEW NEEDED folder with reason]
 
 READY FOR STAGE 2: YES / NO
   If NO — list what must be resolved first
 ```
 
-the paralegal saves this confirmation to the **NOTES** folder in the matter and
-sends a copy to the senior paralegal in {{PM_SYSTEM}} before closing the Cowork session.
+Russ saves this confirmation to the **NOTES** folder in the matter and
+sends a copy to Marta Estevez in {{PM_SYSTEM}} before closing the Cowork session.
 
 ---
 
 ## GUARDRAILS
 
-Do not rename or move documents without the paralegal confirming the party
+Do not rename or move documents without Russ confirming the party
 identity in Step 1. A misrouted document that reaches the FA crosscheck
 skill under the wrong party name creates errors that are hard to catch.
 
-Do not proceed to Step 5 without the paralegal confirming the document inventory
+Do not proceed to Step 5 without Russ confirming the document inventory
 in Step 2. If something in the inventory looks wrong — extra documents,
 wrong party name in a filename, documents that don't match the matter —
 stop and flag it before sorting.
@@ -287,9 +287,9 @@ document doesn't fit, use Other Account Statements or Other Liabilities
 and note it in the Intake Confirmation.
 
 Do not mark the file READY FOR STAGE 2 if there are unresolved items in
-the REVIEW NEEDED folder. the senior paralegal needs a clean file before Stage 2 fires.
+the REVIEW NEEDED folder. Marta Estevez needs a clean file before Stage 2 fires.
 
-Time is tracked in {{PM_SYSTEM}}. the paralegal logs this task under the matter before
+Time is tracked in {{PM_SYSTEM}}. Russ logs this task under the matter before
 closing the session — document intake and organization, time spent.
 
 ---
@@ -298,8 +298,8 @@ closing the session — document intake and organization, time spent.
 
 | Who | Does What |
 |---|---|
-| the paralegal | Runs this skill in Cowork, confirms inventory, saves Intake Confirmation to NOTES, logs time in {{PM_SYSTEM}} |
-| the senior paralegal | Receives Intake Confirmation, clears the paralegal to move to Stage 2 |
+| Russ | Runs this skill in Cowork, confirms inventory, saves Intake Confirmation to NOTES, logs time in {{PM_SYSTEM}} |
+| Marta Estevez | Receives Intake Confirmation, clears Russ to move to Stage 2 |
 | Angela R. Neave | Not involved until Stage 2 output is ready for review |
 EOF
 
@@ -326,3 +326,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

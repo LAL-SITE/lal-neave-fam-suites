@@ -1,8 +1,8 @@
 # Drafting — Advanced — Legal Authority Lab
 
-**Suite:** Drafting — Advanced
-**List price:** $2,500
-**Version:** 1.0.1
+**Suite:** Drafting — Advanced  
+**List price:** $2,500  
+**Version:** 1.0.1  
 **Publisher:** Legal Authority Lab — legalauthoritylab.com
 
 Full matter-lifecycle drafting: dissolution, modification, paternity, injunctions, options panel, clause library.

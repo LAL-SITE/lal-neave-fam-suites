@@ -5,7 +5,7 @@ description: "Deep scan for undisclosed accounts and hidden financial activity. 
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. deep scan for undisclosed accounts and hidden financial activity. Use after bank, brokerage, and credit card statements are in the file — typically alongside or after the Stage 4 FA cross-check. Triggers on: "run the deep scan," "scan for undisclosed accounts," "are there hidden accounts," "where is the money going," "check for missing accounts," "trace the transfers," "missing statement periods," "what accounts do we not have," or any request to detect accounts, transfers, or income streams that do not appear on a party's Financial Affidavit or disclosure. Runs on either party. Produces the Deep Scan Findings Chart and a discovery follow-up list. Findings are leads for discovery — never accusations. Always assign to the paralegal; output goes to the senior paralegal, then Angela R. Neave.
+Neave Family Law Group, P.A. deep scan for undisclosed accounts and hidden financial activity. Use after bank, brokerage, and credit card statements are in the file — typically alongside or after the Stage 4 FA cross-check. Triggers on: "run the deep scan," "scan for undisclosed accounts," "are there hidden accounts," "where is the money going," "check for missing accounts," "trace the transfers," "missing statement periods," "what accounts do we not have," or any request to detect accounts, transfers, or income streams that do not appear on a party's Financial Affidavit or disclosure. Runs on either party. Produces the Deep Scan Findings Chart and a discovery follow-up list. Findings are leads for discovery — never accusations. Always assign to Russ; output goes to Marta Estevez, then Angela R. Neave.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -99,6 +99,6 @@ Below the chart, two required sections:
 - Every finding cites the exact document and page/line it came from.
 - No caselaw. If legal significance needs authority, route to lal-legal-research
   under lal-caselaw-protocol.
-- QC gate: run lal-disco-qc before the chart moves to the senior paralegal.
+- QC gate: run lal-disco-qc before the chart moves to Marta Estevez.
 - Save to NOTES in the {{DMS}} matter folder via lal-file-connector; update the
   disco tracker and the command center; log time in {{PM_SYSTEM}}.

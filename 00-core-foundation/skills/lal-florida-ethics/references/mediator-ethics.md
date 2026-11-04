@@ -204,5 +204,5 @@ before relying on this.
 |---|---|---|
 | **Mediation operations suite** | Route the workflow there; use this file as the ethics layer | Answer from this file alone and state that the operational mediation workflow is not installed |
 | **File connector** | Read caucus and session material through the connector, **labeled by source** | Ask for the documents by name and by which side they came from. **Never summarize unlabeled mixed material** — source ambiguity in a caucus context is a confidentiality risk, not an inconvenience |
-| **Case management / tracker** | Log the flag and the risk classification | Deliver inline; `the paralegal` records in `{{PM_SYSTEM}}` before session close |
+| **Case management / tracker** | Log the flag and the risk classification | Deliver inline; `Russ` records in `{{PM_SYSTEM}}` before session close |
 | **Any suite covering conflicts screening** | Route hybrid-role conflict analysis there | Hard stop to `Angela R. Neave` per `coverage-and-limits.md` |

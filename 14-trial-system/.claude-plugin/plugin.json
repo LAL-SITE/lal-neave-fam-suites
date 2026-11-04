@@ -1,0 +1,10 @@
+{
+  "name": "lal-trial-system",
+  "version": "1.1.0",
+  "description": "Trial & Evidentiary Hearing System — the complete litigation-to-trial lane: trial order intake and deadline control, notice for trial, witness/exhibit lists, pretrial stipulation, objection review, motions in limine, protective orders, incoming motion response, subpoenas, court reporter, fee affidavits, trial charts, witness prep, trial notebook, proposed final judgment, continuance and Zoom motions, GM/HO exceptions, caselaw needs, and the trial/hearing reference library. Florida family law. Built inside a real, active family law firm.",
+  "author": {
+    "name": "Legal Authority Lab",
+    "url": "https://legalauthoritylab.com"
+  },
+  "license": "Proprietary — see LICENSE"
+}

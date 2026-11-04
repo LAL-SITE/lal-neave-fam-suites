@@ -103,7 +103,7 @@ deliverable.
 > WHAT HAPPENS NOW — YOUR FIRST 7 DAYS
 > 1. Within 24 hours: We will send you a separate Welcome message with your intake
 >    form and {{CLIENT_UPLOAD_TOOL}} upload links.
-> 2. Within 48 hours: the paralegal will reach out through the
+> 2. Within 48 hours: Russ will reach out through the
 >    portal to introduce themselves and confirm your portal access.
 > 3. Within 5 business days: Your attorney will review your file and either
 >    schedule an intake call with you, or send your first substantive document for
@@ -115,15 +115,15 @@ billing questions do not land on the attorney.
 
 > YOUR TEAM
 > • Attorney: Angela R. Neave
-> • Day-to-day contact: the paralegal
-> • the intake coordinator (scheduling, billing questions)
+> • Day-to-day contact: Russ
+> • Judith (scheduling, billing questions)
 > • Main office: (954) 981-2200
 
 ### MODULE: billing-and-trust
 > BILLING
 > Your trust account has been credited with your initial payment. You will receive
 > monthly statements through the portal showing time entries, costs, and any draws
-> against trust. If you have questions about billing, contact the intake coordinator at
+> against trust. If you have questions about billing, contact Judith at
 > aneave@neavefamilylaw.com.
 
 Dollar figures appear in the source as a fill-in. Do not populate until the trust
@@ -146,7 +146,7 @@ The library contains no alternate close for this type.
 
 ## Signature block
 
-Attorney signs the retainer transmittal. (Contrast: the paralegal signs the
+Attorney signs the retainer transmittal. (Contrast: Russ signs the
 welcome message.)
 
 > Sincerely,
@@ -195,7 +195,7 @@ welcome message.)
   correspondence, and any state-specific trust notification wording.
 - Statement cadence — the source assumes monthly.
 - Whether whoever handles billing at the buyer's firm is a separate role, or
-  whether billing routes to the paralegal.
+  whether billing routes to Russ.
   [CONFIRM LOCALLY: which role handles this at your firm]
 - Whether the buyer's engagement letter requires any jurisdiction-specific
   disclosure (fee arbitration notice, right-to-cancel period, client bill of

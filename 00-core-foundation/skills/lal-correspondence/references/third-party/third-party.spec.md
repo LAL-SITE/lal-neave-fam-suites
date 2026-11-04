@@ -467,7 +467,7 @@ __________________________________
 Angela R. Neave
 Florida Bar No. {{BAR_NO}}
 Neave Family Law Group, P.A.
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200 | aneave@neavefamilylaw.com
 
 cc: File
@@ -492,7 +492,7 @@ _________________________
 {{CLIENT_NAME}}
 
 Neave Family Law Group, P.A.
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200
 Service E-Mail: aneave@neavefamilylaw.com
 
@@ -594,7 +594,7 @@ aneave@neavefamilylaw.com
 - [CONFIRM LOCALLY: whether this circuit/division expects a preservation letter before
   filing or treats it as premature — with local counsel]
 - [CONFIRM LOCALLY: certified-mail vs. e-service norms for third-party custodians in
-  this county — with the intake coordinator]
+  this county — with Judith]
 - [CONFIRM LOCALLY: whether pre-service outreach to an unrepresented party is
   customary before your division's judge — with Angela R. Neave]
 - [CONFIRM LOCALLY: response-deadline day count acceptable in this circuit for

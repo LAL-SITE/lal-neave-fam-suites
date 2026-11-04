@@ -18,7 +18,7 @@ structural default the buyer may override.
 | 1 | Practice name, exactly as it should appear | `Neave Family Law Group, P.A.` | HARD | |
 | 2 | Signing attorney name, with post-nominal | `Angela R. Neave` | HARD | |
 | 3 | Florida Bar number | `{{BAR_NO}}` | HARD | Rendered only over an attorney's name |
-| 4 | Mailing address | `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL` | HARD | |
+| 4 | Mailing address | `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308` | HARD | |
 | 5 | Phone | `(954) 981-2200` | HARD | |
 | 6 | Email | `aneave@neavefamilylaw.com` | HARD | |
 | 7 | Website, as displayed | `{{BRAND_WEBSITE}}` | SOFT | Omit the line if blank; never invent |
@@ -31,10 +31,10 @@ output.
 
 | # | Field | Token | Required |
 |---|---|---|---|
-| 9 | Who drafts | `the paralegal` | HARD |
-| 10 | Who reviews before advancing | `the senior paralegal` | HARD |
+| 9 | Who drafts | `Russ` | HARD |
+| 10 | Who reviews before advancing | `Marta Estevez` | HARD |
 | 11 | Who approves anything leaving the practice | `Angela R. Neave` | HARD |
-| 12 | Who handles intake | `the intake coordinator` | HARD |
+| 12 | Who handles intake | `Judith` | HARD |
 
 ## Group 3 — Systems (4 fields)
 

@@ -355,9 +355,9 @@ the one at the keyboard, her instruction IS the sign-off, and asking again is no
 
 | Role | Responsibility |
 |---|---|
-| **Drafter** (the paralegal or the senior paralegal) | Runs the gate on their own draft. Fixes everything they can resolve without legal judgment. |
-| **the senior paralegal** | Confirms docket, deadlines, hearing reservations, service routes, and e-Portal packet before the gate clears. |
-| **the paralegal** | Confirms exhibits exist and are attached, redactions are intact, and discovery references are accurate. |
+| **Drafter** (Russ or Marta Estevez) | Runs the gate on their own draft. Fixes everything they can resolve without legal judgment. |
+| **Marta Estevez** | Confirms docket, deadlines, hearing reservations, service routes, and e-Portal packet before the gate clears. |
+| **Russ** | Confirms exhibits exist and are attached, redactions are intact, and discovery references are accurate. |
 | **Angela R. Neave** | Resolves every item under FOR ATTORNEY JUDGMENT. Verifies all citations. Signs off. |
 | **Angela R. Neave** | Final approval on high-exposure filings, GAL work, and anything flagged in Screen 6. |
 
@@ -446,3 +446,4 @@ Two rules, from the first keystroke:
    contain, present highlighted ALTERNATIVES — never assume and draft one version
    as if decided. Never strip flags at draft stage; only `lal-finalize-draft`
    strips, after the attorney resolves them.
+

@@ -37,14 +37,14 @@ party and the role is carried in the signature. Neutral and advocate roles never
 | Trigger | Spec | Sub-type | Signer | P |
 |---|---|---|---|---|
 | Retainer countersigned **and** initial payment deposited to trust | retainer-transmittal | Retainer transmittal under firm cover, executed copy attached | attorney | **T** |
-| Matter opened and active | client-welcome-engagement | Welcome / engagement | `the paralegal` | M/T |
+| Matter opened and active | client-welcome-engagement | Welcome / engagement | `Russ` | M/T |
 | Portal and upload tooling provisioned | client-welcome-engagement | Portal and upload setup, sent as companion | attorney | M/T |
 | Intake call scheduled | client-welcome-engagement | Intake-call preparation | attorney | T |
 
 **Sequence and timing are load-bearing.** Transmittal within four hours of countersignature and
 trust deposit; welcome within twenty-four hours; portal setup within forty-eight; intake prep
 within twenty-four hours of the call being scheduled. The transmittal is attorney-signed and the
-welcome is signed by `the paralegal` — that split is deliberate.
+welcome is signed by `Russ` — that split is deliberate.
 
 **Never send the welcome with unprovisioned or placeholder upload links.** Named in the source as
 the single most common onboarding error. Confirm intake forms are provisioned before the welcome
@@ -64,10 +64,10 @@ acknowledges these need different sequences and does not write them.
 
 | Trigger | Spec | Sub-type | Signer | P |
 |---|---|---|---|---|
-| Fixed monthly cadence | client-status-update | Monthly status | attorney reviews; `the paralegal` may draft | **T** |
+| Fixed monthly cadence | client-status-update | Monthly status | attorney reviews; `Russ` may draft | **T** |
 | An offer or counter lands and the client must decide | client-status-update | Settlement posture update | **attorney only** | M/T |
 | Notice of hearing received | client-status-update | Hearing / court-date confirmation | attorney | **T** |
-| A client production has been reviewed and items remain outstanding | client-status-update **or** billing-deadline | Document-status / outstanding-items update | `the paralegal` under attorney review | **M** |
+| A client production has been reviewed and items remain outstanding | client-status-update **or** billing-deadline | Document-status / outstanding-items update | `Russ` under attorney review | **M** |
 | Financial and document review complete; per-issue authorization needed | client-status-update | Settlement recommendation with per-issue Yes/No decision checklist | **attorney only** | **M** |
 
 The last two are live sub-types the masters do not describe. The document-status update is the most
@@ -86,16 +86,16 @@ than monthly.
 
 | Trigger | Spec | Sub-type | Signer | P |
 |---|---|---|---|---|
-| A production is partly complete and a specific item is missing | billing-deadline | Document chase | attorney, or `the paralegal` under review | **M** |
+| A production is partly complete and a specific item is missing | billing-deadline | Document chase | attorney, or `Russ` under review | **M** |
 | An item appears in production that is not on the affidavit; or a payment stream cannot be characterized | billing-deadline | Explanation request on a specific transaction or account | attorney | **M** |
-| A certificate, form, or class completion is outstanding | billing-deadline | Deliverable chase | `the paralegal` | **T** |
+| A certificate, form, or class completion is outstanding | billing-deadline | Deliverable chase | `Russ` | **T** |
 | A balance merely has to be stated at closure | billing-deadline / closing | One-line balance or trust status | attorney | **T** |
 | A balance must be reconciled against agreements and then disposed of | billing-deadline | Fee accounting and balance disposition | **attorney only** | **M** |
 | A signature is outstanding | — | — | — | **NONE** |
 | A court-ordered client deadline was missed | — | — | — | **NONE** |
 | Mid-matter past due; trust replenishment; payment-plan default; any refund | — | — | — | **NONE** |
 
-`[CONFIRM LOCALLY: who signs a document chase — attorney or the paralegal under review, with Angela R. Neave]`
+`[CONFIRM LOCALLY: who signs a document chase — attorney or Russ under review, with Angela R. Neave]`
 
 **The document chase is deliberately deadline-free** and frames the consequence as positional
 advantage lost. No source provides a stated deadline date, a second- or final-notice escalation, a

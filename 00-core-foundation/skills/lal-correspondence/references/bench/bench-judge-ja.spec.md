@@ -422,12 +422,12 @@ only, and the approval trigger is `REQUIRED` on all eight templates.
 JA email, matter-sourced, staff-signed:
 > Best regards,
 >
-> the paralegal
+> Russ
 > Neave Family Law Group, P.A.
 > aneave@neavefamilylaw.com
 > Neave Family Law Group, P.A. website
 > (954) 981-2200
-> 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+> 2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 >
 > [confidentiality footer]
 

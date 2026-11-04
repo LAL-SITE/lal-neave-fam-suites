@@ -36,7 +36,7 @@ below that conflicts with them.
 ---
 
 # Neave Family Law Group, P.A. Opposing Party Discovery — Initial Review
-## Staff Lane: the paralegal runs | the senior paralegal reviews | Angela R. Neave/Angela R. Neave receives flagged memo
+## Staff Lane: Russ runs | Marta Estevez reviews | Angela R. Neave/Angela R. Neave receives flagged memo
 ## Triggers After: OP disclosure documents arrive via {{UPLOAD_PORTAL}} or direct production
 ## Runs Before: Stage 3/6 (OP FA Preliminary Review), any deficiency letter
 
@@ -66,7 +66,7 @@ gaps with assumptions.
 
 ## BEFORE RUNNING — CONFIRM WHAT IS AVAILABLE
 
-the paralegal confirms the following before this skill runs. If items are missing,
+Russ confirms the following before this skill runs. If items are missing,
 note them and proceed with what is available — do not hold the review.
 
 | Item | Available? | Notes |
@@ -106,7 +106,7 @@ At the bottom of the inventory, note:
   (if known)
 
 If no documents have been received from the OP, state that explicitly and
-stop — flag immediately to the senior paralegal and Angela R. Neave. Do not proceed to further sections.
+stop — flag immediately to Marta Estevez and Angela R. Neave. Do not proceed to further sections.
 
 ---
 
@@ -255,8 +255,8 @@ Continue for all concerns identified.
 ### Part B — Potential Next Steps
 
 List specific potential actions for attorney review and decision. These are
-options for the attorney — not conclusions. the paralegal does not select the next
-step. the senior paralegal and Angela R. Neave/Angela R. Neave decide.
+options for the attorney — not conclusions. Russ does not select the next
+step. Marta Estevez and Angela R. Neave/Angela R. Neave decide.
 
 Potential next steps to flag as applicable:
 
@@ -269,7 +269,7 @@ Potential next steps to flag as applicable:
 | Flag for Stage 4/6 — OP FA Cross-Check | | |
 | Flag for Stage 5 — Income Analysis | | |
 | Flag for lal-advanced-discovery — targeted RFPs or subpoenas | | |
-| Flag for the senior paralegal / Angela R. Neave — substantive legal issue requiring attorney decision | | |
+| Flag for Marta Estevez / Angela R. Neave — substantive legal issue requiring attorney decision | | |
 
 ---
 
@@ -296,17 +296,17 @@ No editorial commentary.
 
 ## AFTER THIS SKILL RUNS
 
-the paralegal does the following before closing:
+Russ does the following before closing:
 
 - [ ] Disco tracker Section 2 updated with OP compliance status for each
       12.285 category
 - [ ] Disco tracker Section 3 updated with all OP documents logged
 - [ ] Disco tracker Section 6 updated with all identified OP outstanding items
-- [ ] Output sent to the senior paralegal for review before advancing to Stage 3/6
+- [ ] Output sent to Marta Estevez for review before advancing to Stage 3/6
 - [ ] Time logged in {{PM_SYSTEM}}
 
-the senior paralegal reviews the output and either:
-- Authorizes the paralegal to advance to Stage 3/6 (OP FA Preliminary Review), or
+Marta Estevez reviews the output and either:
+- Authorizes Russ to advance to Stage 3/6 (OP FA Preliminary Review), or
 - Routes the concern list to Angela R. Neave/Angela R. Neave for a deficiency or enforcement decision
   before Stage 3/6 runs
 
@@ -316,27 +316,27 @@ the senior paralegal reviews the output and either:
 
 | Who | Does What |
 |---|---|
-| the paralegal | Confirms uploaded documents, runs this skill, updates disco tracker, saves output, logs time in {{PM_SYSTEM}} |
-| the senior paralegal | Reviews output, decides whether to advance to Stage 3/6 or route to Angela R. Neave/Angela R. Neave first |
+| Russ | Confirms uploaded documents, runs this skill, updates disco tracker, saves output, logs time in {{PM_SYSTEM}} |
+| Marta Estevez | Reviews output, decides whether to advance to Stage 3/6 or route to Angela R. Neave/Angela R. Neave first |
 | Angela R. Neave | Reviews flagged concerns, decides on deficiency letter or motion to compel, authorizes next stage |
 
 ---
 
 ## GUARDRAILS
 
-the paralegal does not decide whether a deficiency letter should be sent. She flags
+Russ does not decide whether a deficiency letter should be sent. She flags
 the gap and identifies it as a potential next step — the decision belongs
-to the senior paralegal and Angela R. Neave/Angela R. Neave.
+to Marta Estevez and Angela R. Neave/Angela R. Neave.
 
-the paralegal does not mark any 12.285 category as N/A unless the OP FA or the
+Russ does not mark any 12.285 category as N/A unless the OP FA or the
 documents themselves provide a basis for that determination. When in doubt,
 mark Unconfirmable and flag.
 
-the paralegal does not advance to Stage 3/6 without the senior paralegal's review of this output.
+Russ does not advance to Stage 3/6 without Marta Estevez's review of this output.
 The OP Disco Review is the gate that feeds Stage 3/6 — not a standalone
 task.
 
-the paralegal does not conduct the full FA Cross-Check here. Section 4 is a
+Russ does not conduct the full FA Cross-Check here. Section 4 is a
 preliminary flag pass only. The detailed comparison runs in Stage 4/6.
 
 This skill covers opposing party production only. Client disclosure status
@@ -369,3 +369,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

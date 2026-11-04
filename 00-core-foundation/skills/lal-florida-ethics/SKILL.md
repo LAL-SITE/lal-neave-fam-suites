@@ -111,7 +111,7 @@ the assessment says so.**
 Full trigger list, output structure, and the copy-ready flag template live in
 `references/approval-gates.md`. The gate in short:
 
-**Routing is fixed:** `the paralegal` produces → `the senior paralegal` performs substantive QA →
+**Routing is fixed:** `Russ` produces → `Marta Estevez` performs substantive QA →
 `Angela R. Neave` reviews, verifies, signs. **Nothing bypasses the lane.** Attorney review at a
 checkpoint must be substantive — methodology, underlying data, independent judgment — not a
 formatting pass.
@@ -229,8 +229,8 @@ Never error. Never silently omit. Always state which path you took.
 
 | Dependency | If installed | If not installed |
 |---|---|---|
-| **File connector** | Read the matter file through the connector abstraction | Ask `the paralegal` to paste or attach the specific documents. Assess only what you can actually see, and say so |
-| **Case management / tracker** | Log the assessment, the risk level, and the flag to the tracker | Deliver the assessment inline and state: "No tracker installed — `the paralegal` must record this in `{{PM_SYSTEM}}` before closing" |
+| **File connector** | Read the matter file through the connector abstraction | Ask `Russ` to paste or attach the specific documents. Assess only what you can actually see, and say so |
+| **Case management / tracker** | Log the assessment, the risk level, and the flag to the tracker | Deliver the assessment inline and state: "No tracker installed — `Russ` must record this in `{{PM_SYSTEM}}` before closing" |
 | **Judicial procedures** | Route the AI-disclosure question there for the assigned judge and division | Emit `[CONFIRM LOCALLY: current AI disclosure and certification requirement, with the assigned judge's chambers and the circuit administrative orders page]` and hold the filing |
 | **Caselaw / authority protocol** | Defer to it for anything touching case law | This skill cites no case law. Answer from rules, statutes, and Bar ethics opinions, and say that case law is out of scope here |
 | **Correspondence** | Route attorney-approved outbound text there | Produce draft text marked `DRAFT — attorney review required before sending` |
@@ -260,7 +260,7 @@ cannot reach a document, say which document and ask for it.
 
 1. **(all)** Confirm the approved business/enterprise-tier platform before any client information
    is entered.
-2. **(`the paralegal`)** Mask financial identifiers to last-four form *before* upload, save,
+2. **(`Russ`)** Mask financial identifiers to last-four form *before* upload, save,
    prompt, or transmission. Label opposing-party documents before uploading.
 3. **(assistant)** Work from the file first. Templates supply structure and format, never facts.
 4. **(assistant)** No citation from memory. Attach the verify warning to every authority.
@@ -270,7 +270,7 @@ cannot reach a document, say which document and ask for it.
 7. **(assistant)** End every substantive output with Draft / Missing Facts / Attorney Review Notes.
 8. **(assistant)** Raise the flag and hold on any approval-gate trigger.
 9. **(assistant)** On any § 5 domain, emit the routing statement and stop. Write no analysis.
-10. **(`the senior paralegal`)** Run the full twelve-step verification workflow. Send back on any
+10. **(`Marta Estevez`)** Run the full twelve-step verification workflow. Send back on any
     failure — a document does not go forward with a note.
 11. **(`Angela R. Neave`)** Confirm the circuit AI order and the assigned judge's standing order
     **before drafting begins**, not at signature.

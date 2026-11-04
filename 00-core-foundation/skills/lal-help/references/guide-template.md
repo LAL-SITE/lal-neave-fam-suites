@@ -21,7 +21,7 @@ WHAT THIS COVERS:
 this guide does NOT cover, if a reader could reasonably expect it to.>
 
 WHO DOES THIS:
-<Role tokens only. the paralegal drafts; the senior paralegal reviews;
+<Role tokens only. Russ drafts; Marta Estevez reviews;
 Angela R. Neave approves. Never a job title, never a name. Add: "Roles are
 defaults, not gates — anyone may run this. If you hold Angela R. Neave, you
 approve your own output at the approval step.">
@@ -171,7 +171,7 @@ Two topic-specific additions, added only where the guide's subject reaches them:
 STEP 4: File the completed petition
   → Submit through the county's e-filing portal.
   → Where: [CONFIRM LOCALLY: this county's e-filing portal and whether the clerk
-    requires a cover sheet, with the intake coordinator]
+    requires a cover sheet, with Judith]
   → Done looks like: a filing confirmation with a stamp date.
   → ⚠️ This step is not sourced from installed reference material. Confirm before
     relying on it.

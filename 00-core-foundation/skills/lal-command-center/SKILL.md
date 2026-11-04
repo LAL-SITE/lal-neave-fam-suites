@@ -192,7 +192,7 @@ its date, and the service method), `computationBasis` (the counting rule actuall
 - **Record the counting rule you applied**, including whether the period was under 7 days,
   whether the last day rolled off a weekend or holiday, and whether days were added for the
   service method. Confirm the clerk's observed-holiday calendar locally —
-  `[CONFIRM LOCALLY: clerk-observed closures and holiday calendar, with the intake coordinator]`.
+  `[CONFIRM LOCALLY: clerk-observed closures and holiday calendar, with Judith]`.
 - **Every authority carries the verify warning.** Rules amend on independent cycles.
 - **Jurisdictional and non-extendable dates are flagged on creation**, not on approach.
 - **Order-created deadlines outrank rule defaults.** A date set by a trial or hearing order
@@ -218,7 +218,7 @@ Required: `id`, `raisedBySkill`, `severity`, `description`, `raisedAt`. On close
 | Severity | Meaning | Who may resolve |
 |---|---|---|
 | `informational` | Recorded for context; no action gated on it | Any role |
-| `attorney-review` | Work may continue; `Angela R. Neave` must see it before the affected item advances | `the senior paralegal` may triage; `Angela R. Neave` closes |
+| `attorney-review` | Work may continue; `Angela R. Neave` must see it before the affected item advances | `Marta Estevez` may triage; `Angela R. Neave` closes |
 | `urgent` | Affected work stops until resolved | `Angela R. Neave` only |
 | `jurisdictional-risk` | A right, defense, or deadline may already be at risk | `Angela R. Neave` only |
 

@@ -14,7 +14,7 @@ runs every time regardless of what is written here.
 
 **Pattern built:** {{DATE}} of installation
 **Last verified by a human:** [CONFIRM LOCALLY: record the date this was actually checked]
-**Verified by:** the paralegal — [CONFIRM LOCALLY: record who checked it]
+**Verified by:** Russ — [CONFIRM LOCALLY: record who checked it]
 
 ---
 

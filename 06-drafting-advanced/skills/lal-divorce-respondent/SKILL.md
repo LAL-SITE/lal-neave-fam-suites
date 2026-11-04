@@ -68,12 +68,12 @@ Confirm service date before anything else.
 
 ## PHASE 1A — URGENT INTAKE
 
-**the intake coordinator — Day 1:**
+**Judith — Day 1:**
 - [ ] Run `lal-retainer-builder`
 - [ ] Set party role: Respondent. Docket 20-day deadline in {{PM_SYSTEM}} as alert.
 - [ ] Send portal welcome + intake forms
 
-**the senior paralegal — Same or next business day:**
+**Marta Estevez — Same or next business day:**
 - [ ] Run `lal-onboarding` → Case Memo flags "ANSWER DUE [DATE]"
 - [ ] Pull petition from clerk's portal or client upload. Read it fully.
 - [ ] Check for any pending TRO or temporary relief hearing → escalate to Angela R. Neave immediately if yes
@@ -162,7 +162,7 @@ respond. → Proceed to Track 4 for discovery and litigation.
 
 ## TRACK 4 — FULL CONTESTED
 
-Discovery stages run in order (the paralegal owns Stages 2–8):
+Discovery stages run in order (Russ owns Stages 2–8):
 
 | Stage | Task | Skill |
 |---|---|---|
@@ -240,7 +240,7 @@ parties co-sign and appear at final hearing.
 - [ ] Response track confirmed by Angela R. Neave
 - [ ] Answer (+ Counter-Petition if applicable) drafted, Angela R. Neave reviewed, filed timely
 - [ ] Financial Affidavit + UCCJEA filed (if children)
-- [ ] Discovery scope confirmed (the paralegal)
+- [ ] Discovery scope confirmed (Russ)
 - [ ] MSA/PP reviewed or drafted
 - [ ] Mediation completed (if applicable)
 - [ ] Final Judgment drafted, Angela R. Neave reviewed, entered
@@ -317,3 +317,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

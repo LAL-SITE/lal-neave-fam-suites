@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Legal Authority Lab — Florida family law skill suites. Core Foundation ships with every package; each numbered suite is a separately purchased plugin.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "lal-core-foundation",
       "source": "./00-core-foundation",
       "version": "1.2.0",
-      "description": "Core Foundation — Foundation layer every suite depends on: installer, file connector, start-case, command center, brand kit, correspondence, caselaw protocol, help, file organizer, judicial procedures, Florida ethics. Florida family law. Built inside a real, active family law firm."
+      "description": "Core Foundation — Foundation layer every suite depends on: installer, install-verify, file connector, start-case, command center, brand kit, correspondence, caselaw protocol, help, file organizer, judicial procedures, Florida ethics, adversarial verification rules. Florida family law. Built inside a real, active family law firm."
     },
     {
       "name": "lal-financial-discovery-core",
@@ -34,16 +34,70 @@
       "description": "Mediation & Settlement — Advocate — Advocate-side mediation: prep engine (ED chart, scenarios, proposals, mediator summary), live session command center, MSA drafting, parenting plan. Florida family law. Built inside a real, active family law firm."
     },
     {
+      "name": "lal-mediator-neutral",
+      "source": "./04-mediator-neutral",
+      "version": "1.1.0",
+      "description": "Mediator — Neutral — Neutral mediator command center: session open, caucus notes, offer log, agreement drafting, report, closeout. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-drafting-core",
+      "source": "./05-drafting-core",
+      "version": "1.1.0",
+      "description": "Drafting — Core — Notices, basic motions, ancillary proposed orders, responses, pre-filing compliance checks, AI disclosure block, court formatting standard. Florida family law. Built inside a real, active family law firm."
+    },
+    {
       "name": "lal-drafting-advanced",
       "source": "./06-drafting-advanced",
       "version": "1.1.0",
       "description": "Drafting — Advanced — Full matter-lifecycle drafting: dissolution, modification, paternity, injunctions, options panel, clause library. Florida family law. Built inside a real, active family law firm."
     },
     {
+      "name": "lal-gal-system",
+      "source": "./07-gal-system",
+      "version": "1.1.0",
+      "description": "GAL System — Guardian ad Litem practice: appointment through final report — intake, tracker, interviews, chronology, reports, documents, QC. Florida family law. Built inside a real, active family law firm."
+    },
+    {
       "name": "lal-research-system",
       "source": "./08-research-system",
       "version": "1.1.0",
       "description": "Research System — Substantive Florida family law research with library-first order of operations and caselaw protocol enforcement. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-roadmap-case-management",
+      "source": "./09-roadmap-case-management",
+      "version": "1.1.0",
+      "description": "Roadmap & Case Management — Versioned case roadmap, controlled case closing with attorney-approval hard stop, branded case memo. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-contempt-system",
+      "source": "./10-contempt-system",
+      "version": "1.1.0",
+      "description": "Contempt System — Both sides of contempt/enforcement: movant four-element build and respondent defense. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-firm-operations",
+      "source": "./11-firm-operations",
+      "version": "1.1.0",
+      "description": "Firm Operations System — Firm infrastructure: full case launch, client onboarding, retainer builder, lead consult prep, session orchestrator. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-name-change-suite",
+      "source": "./12-name-change",
+      "version": "1.1.0",
+      "description": "Name Change Suite — Complete Florida §68.07 name change practice: master router, drafting engine with validated document builders, client correspondence engine, QC gate. Adult, minor, family, and name restoration. Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-prenup-suite",
+      "source": "./13-prenup-postnup",
+      "version": "1.1.0",
+      "description": "Prenup & Postnup Suite — Prenuptial and postnuptial agreements both directions: drafting (§61.079 prenups, contract-law postnups) and review/enforceability analysis in all four contexts (pre-execution and divorce-context, prenup and postnup). Florida family law. Built inside a real, active family law firm."
+    },
+    {
+      "name": "lal-trial-system",
+      "source": "./14-trial-system",
+      "version": "1.1.0",
+      "description": "Trial & Evidentiary Hearing System — the complete litigation-to-trial lane: trial order intake and deadline control, notice for trial, witness/exhibit lists, pretrial stipulation, objection review, motions in limine, protective orders, incoming motion response, subpoenas, court reporter, fee affidavits, trial charts, witness prep, trial notebook, proposed final judgment, continuance and Zoom motio"
     },
     {
       "name": "neave-custom",

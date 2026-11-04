@@ -35,7 +35,7 @@ activities, and all other major decisions affecting the child(ren).TIME-SHARING 
 Option 1 – Week-On / Week-Off
 The parties shall exercise equal time-sharing on a week-on/week-off basis. The exchange shall occur
 every __________________ at ________ a.m./p.m.
-The parent beginning their time-sharing shall pick up the child(ren) from the other parent's residence or
+The parent beginning their time-sharing shall pick up the child(ren) from the other parent’s residence or
 designated exchange location.
 Option 2 – 2-2-3 Rotating Schedule
 The parties shall follow a 2-2-3 rotating schedule as follows:
@@ -82,7 +82,7 @@ Option 3 – Shared Transportation
 The parties shall share transportation responsibilities as follows:
 Any deviation from this arrangement shall be confirmed in writing.
 EXCHANGE LOCATION AND PROTOCOL
-Option 1 – School-Based ExchangeExchanges shall occur at the child(ren)'s school when school is in session. The parent ending time-sharing shall ensure timely drop-off, and the parent beginning time-sharing shall retrieve the child(ren)
+Option 1 – School-Based ExchangeExchanges shall occur at the child(ren)’s school when school is in session. The parent ending time-sharing shall ensure timely drop-off, and the parent beginning time-sharing shall retrieve the child(ren)
 from school.
 When school is not in session, exchanges shall occur at:
 Option 2 – Neutral Location
@@ -91,7 +91,7 @@ The parties shall be punctual and shall limit communication to matters necessary
 Option 3 – Residence-Based Exchange
 All exchanges shall occur at the residence of the parent ending time-sharing. The receiving parent shall
 retrieve the child(ren) at the designated time.
-Neither parent shall enter the other parent's residence without permission.
+Neither parent shall enter the other parent’s residence without permission.
 COMMUNICATION BETWEEN PARENTS
 Option 1 – General Communication
 The parties shall communicate respectfully regarding all matters affecting the minor child(ren). Each
@@ -108,7 +108,7 @@ response.
 COMMUNICATION WITH CHILD
 Option 1 – Reasonable Contact
 Each parent shall have reasonable telephone and electronic contact with the minor child(ren) during
-the other parent's time-sharing.
+the other parent’s time-sharing.
 Option 2 – Scheduled ContactThe parent not exercising time-sharing may have communication with the child(ren) as follows:
 Option 3 – Unrestricted Contact
 The child(ren) may communicate freely with either parent at any time.
@@ -118,7 +118,7 @@ The parties shall mutually agree in writing on all extracurricular activities th
 commitment or significant expense.
 Option 2 – Enrollment by Either Parent
 Each parent may enroll the child(ren) in extracurricular activities during their time-sharing, provided
-such activities do not substantially interfere with the other parent's time-sharing.
+such activities do not substantially interfere with the other parent’s time-sharing.
 Option 3 – Cost Threshold Control
 Any extracurricular activity with a cost exceeding $________ shall require mutual written agreement.
 MEDICAL AND MENTAL HEALTH CARE

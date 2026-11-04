@@ -28,10 +28,10 @@ At the end of any task involving multiple documents, include a section titled **
 
 - Exact filename and folder location
 - Why it failed (password-protected, corrupted, image quality too poor for OCR, unsupported format, cloud-only file that failed to download, etc.)
-- Recommended fix (request a new copy from client, ask the paralegal for the password, rescan at higher resolution, etc.)
+- Recommended fix (request a new copy from client, ask Russ for the password, rescan at higher resolution, etc.)
 
 If every file was readable, state: "All files were read successfully." Never silently skip an unreadable file. Never guess at the contents of a file that could not be read.
 
 ## Rule 3 — Unexpected results require suggestions
 
-If the outcome of any document task differs from what was expected — fewer documents than the tracker says, a statement period missing, a category with zero documents, totals that do not reconcile, duplicates, or documents that do not match the matter — do not just report the discrepancy. Always add a **"Suggestions"** section with concrete next steps (e.g., "the Chase statements for Mar–May 2025 are missing; suggest checking FILED DOCUMENTS - Client for misfiled copies, then adding to the deficiency list for the paralegal").
+If the outcome of any document task differs from what was expected — fewer documents than the tracker says, a statement period missing, a category with zero documents, totals that do not reconcile, duplicates, or documents that do not match the matter — do not just report the discrepancy. Always add a **"Suggestions"** section with concrete next steps (e.g., "the Chase statements for Mar–May 2025 are missing; suggest checking FILED DOCUMENTS - Client for misfiled copies, then adding to the deficiency list for Russ").

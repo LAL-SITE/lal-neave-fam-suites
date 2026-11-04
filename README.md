@@ -1,24 +1,18 @@
-# lal-neave-fam-suites
+# Neave Family Law Group, P.A. — Legal Authority Lab Plugin Marketplace
 
-Private Claude plugin marketplace for **Neave Family Law Group, P.A.**, built by
-Legal Authority Lab.
+Private GitHub repository for Neave Family Law Group, P.A.'s licensed LAL
+systems. Firm identity is already baked in. LAL has granted this firm's
+GitHub account read access.
 
-Start here: **[BUYER-RUNBOOK.md](./BUYER-RUNBOOK.md)** — install and verification
-steps for the firm's Claude admin and attorneys.
+## Contents
 
-## What's in this repo
+This repository ships the **full current LAL Florida family law system** —
+Core Foundation plus all fourteen numbered suites — as of 2026-11-04, plus an
+empty `90-firm-custom/` scaffold reserved for this firm's own skill
+derivatives (see `lal-customize` in Core Foundation).
 
-- `00-core-foundation/` — free with every purchase; installer, file connector,
-  command center, brand kit, correspondence, caselaw protocol, judicial
-  procedures, Florida ethics, and other foundation skills every suite depends on.
-- `01-financial-discovery-core/`, `02-financial-discovery-advanced/`,
-  `03-mediation-advocate/`, `06-drafting-advanced/`, `08-research-system/` —
-  purchased suites, each a separate Claude plugin.
-- `90-firm-custom/` — this firm's own derivative and custom skills, created
-  with `lal-customize`. Starts empty.
-- `.claude-plugin/marketplace.json` — the marketplace manifest listing every
-  plugin above.
+See `BUYER-RUNBOOK.md` for install steps. See `.claude-plugin/marketplace.json`
+for the exact plugin list and versions.
 
-## Support
-
-Legal Authority Lab — legalauthoritylab.com
+Working calculations and drafts for attorney review. Not legal advice;
+nothing here is cleared for filing without attorney sign-off.

@@ -20,7 +20,7 @@ Optional Clause Options
 This Parenting Plan is entered in connection with a dissolution of marriage action.
 This Parenting Plan is entered in connection with a paternity action.
 This Parenting Plan is entered in connection with a supplemental petition for modification.
-One parent's residential address shall remain confidential pursuant to prior court order, and only
+One parent’s residential address shall remain confidential pursuant to prior court order, and only
 mailing and contact information shall be stated in this Parenting Plan.
 Ideas, Thoughts, and Tips
 Use full legal names and complete birth dates. If there are multiple children with different needs, this
@@ -102,14 +102,14 @@ The therapist shall have discretion to make therapeutic recommendations related 
 related services, and the parties shall comply with reasonable therapeutic recommendations
 unless otherwise agreed or ordered by the Court.
 Either parent may independently register the minor child for an extracurricular activity during that
-parent's time-sharing if that parent pays one hundred percent of the cost and the activity does
-not interfere with the other parent's time-sharing.
+parent’s time-sharing if that parent pays one hundred percent of the cost and the activity does
+not interfere with the other parent’s time-sharing.
 One parent shall have sole authority to enroll the child in extracurricular activities, subject to any
 cost-sharing or transportation provisions otherwise stated in this Parenting Plan.
 Ideas, Thoughts, and Tips
 Do not default to shared parental responsibility with vague language and pretend you solved
 anything. Spell out who decides what when the parties are likely to fight about school, therapy,
-doctors, religion, sports, or discipline. "Shared" without procedure is just conflict with nicer branding.
+doctors, religion, sports, or discipline. “Shared” without procedure is just conflict with nicer branding.
 V. DAY-TO-DAY DECISIONS AND EMERGENCY AUTHORITY
 Basic Clause Options
 Each parent shall make decisions regarding the day-to-day care and control of the minor child or
@@ -120,14 +120,14 @@ the emergency decision shall notify the other parent as soon as reasonably possi
 provide all reasonably available information concerning the emergency.
 Optional Clause Options
 In the event of illness, urgent care treatment, or an unexpected medical need arising during a
-parent's time-sharing, that parent may obtain ordinary and necessary treatment for the child, but
+parent’s time-sharing, that parent may obtain ordinary and necessary treatment for the child, but
 shall notify the other parent promptly and provide the other parent with an opportunity to attend if
 reasonably possible.
 Both parents shall have equal authority to make emergency medical decisions during a declared
 emergency, while non-emergency medical decisions shall continue to follow the decision-making
 provisions otherwise set forth in this Parenting Plan.
 Ideas, Thoughts, and Tips
-This section should work even on the family's worst day. If the child is sick, injured, hospitalized, or
+This section should work even on the family’s worst day. If the child is sick, injured, hospitalized, or
 stuck in a storm, the plan should tell the parents what happens next instead of inviting a fresh legal
 circus.
 VI. INFORMATION SHARING AND ACCESS TO RECORDS
@@ -135,9 +135,9 @@ Basic Clause Options
 Unless prohibited by law, each parent shall have equal rights to inspect and receive medical,
 dental, mental health, school, daycare, governmental, and law enforcement records concerning
 the minor child or children.
-Each parent shall have equal and independent authority to confer with the minor child's school,
+Each parent shall have equal and independent authority to confer with the minor child’s school,
 daycare, healthcare providers, therapists, counselors, tutors, and other programs or providers
-regarding the child's educational, physical, emotional, and social development.
+regarding the child’s educational, physical, emotional, and social development.
 Each parent shall cooperate in sharing information concerning the health, education, and welfare
 of the minor child or children.
 Each parent shall sign any releases, authorizations, or other documents reasonably necessary to
@@ -147,7 +147,7 @@ activity, and similar records relating to the minor child or children.
 Optional Clause Options
 Each parent shall be responsible for obtaining records and reports directly from schools,
 healthcare providers, and other providers, and shall not unreasonably interfere with the other
-parent's access to such records or providers.
+parent’s access to such records or providers.
 Each parent shall have a continuing obligation to provide the other parent with his or her current
 residential address, mailing address, telephone number, and email address.
 Each parent shall notify the other parent in writing within twenty-four hours of any change in
@@ -156,13 +156,13 @@ Each parent shall give written notice by certified mail or registered mail of an
 residence, mailing address, name, marital status, employer, work address, or work telephone
 number at least thirty days before the change, unless the parent did not know and could not
 reasonably have known of the change in time, in which case notice shall be given within twenty-four hours after learning of the change.
-The parents shall execute all necessary releases authorizing the child's individual therapist and
+The parents shall execute all necessary releases authorizing the child’s individual therapist and
 family therapist to communicate with one another for treatment planning purposes, and
 authorizing limited disclosure to the parents and, if applicable, the Guardian ad Litem, concerning
 attendance, participation, compliance, and general treatment progress, but not the content of
 therapy sessions.
 Both parents, and the maternal and paternal grandparents, shall be listed as emergency contacts
-with the child's school and medical providers.
+with the child’s school and medical providers.
 The parties shall cooperate in providing access to DCF, CPS, school, medical, counseling, and
 related records where such access is necessary to implement this Parenting Plan or resolve
 disputes relating to the child.
@@ -177,7 +177,7 @@ Basic Clause Options
 The parties acknowledge that the minor child or children have the right to a meaningful
 relationship with both parents, and each parent shall foster and encourage a positive and loving
 relationship between the minor child or children and the other parent.
-Neither parent shall do anything to hamper the natural development of the minor child's love and
+Neither parent shall do anything to hamper the natural development of the minor child’s love and
 respect for the other parent.
 The parents shall communicate appropriately, whether verbally or in writing, and without
 harassment.
@@ -186,7 +186,7 @@ efforts to cooperate with the other parent in carrying out this Parenting Plan.
 Neither parent shall use the minor child or children as a messenger to convey information, ask
 questions, transfer money, or communicate schedule changes.
 Neither parent shall ask the minor child or children to keep secrets from the other parent.
-Neither parent shall question the minor child or children about the other parent's private life.
+Neither parent shall question the minor child or children about the other parent’s private life.
 Neither parent shall discuss litigation, finances, child support, or other adult matters with the
 minor child or children in a manner that is degrading, undermining, or emotionally harmful.
 Optional Clause OptionsEach parent shall behave appropriately and positively during exchanges and shall not create
@@ -201,14 +201,14 @@ or undermine the other parent.
 Neither parent shall discourage time-sharing by inappropriate attitudes, hostility, or displays of
 negative feelings toward the other parent.
 The parents shall not use therapy as a forum to litigate or rehash legal disputes.
-Neither parent shall interfere with, discourage, or undermine the child's participation in therapy or
-the therapeutic process, nor disparage therapy, the therapist, or the other parent in the child's
+Neither parent shall interfere with, discourage, or undermine the child’s participation in therapy or
+the therapeutic process, nor disparage therapy, the therapist, or the other parent in the child’s
 presence.
 Ideas, Thoughts, and Tips
 This is the behavior section. It is where you draft against games, triangulation, passive-aggressive
 nonsense, and emotional contamination of the child. If the family is high conflict, this section should
 be stronger, not softer.
-VIII. CHILD'S RIGHTS / PROTECTION OF CHILD FROM
+VIII. CHILD’S RIGHTS / PROTECTION OF CHILD FROM
 CONFLICT
 Basic Clause Options
 The minor child or children shall have the right to love both parents without fear of anger, guilt,
@@ -221,11 +221,11 @@ The minor child or children shall not be used as a messenger, a spy, a bargainin
 source of information about the other parent.
 The minor child or children shall have the right not to hear disparaging, belittling, alienating, or
 insulting comments by one parent about the other parent.
-The minor child or children shall have the right not to be questioned about the other parent's
+The minor child or children shall have the right not to be questioned about the other parent’s
 private life.
 Optional Clause Options
 The minor child or children shall have the right to enjoy and maintain a relationship with each
-parent's extended family without being told that one family is better than the other.
+parent’s extended family without being told that one family is better than the other.
 The minor child or children shall have the right to maintain age-appropriate activities and
 friendships without fear of losing time with either parent.The minor child or children shall have the right to be free from guilt, secrecy, divided loyalty, or
 being placed into an adult role in the family conflict.
@@ -314,8 +314,8 @@ Existing activities of the child shall continue unless otherwise agreed in writi
 Court.
 The child shall have a minimum weekly parenting-time block with each parent, regardless of
 work-schedule fluctuations, as follows: [INSERT TERMS].
-Where a parent's work schedule rotates, the time-sharing schedule shall be based upon the
-parent's rotating work schedule attached hereto, and the parties shall exchange updated work
+Where a parent’s work schedule rotates, the time-sharing schedule shall be based upon the
+parent’s rotating work schedule attached hereto, and the parties shall exchange updated work
 schedules by [DATE / DAY OF WEEK / NUMBER OF DAYS].
 If one parent does not timely object in writing to a written schedule request or proposed change
 within twenty-four hours, the request shall be deemed agreed.
@@ -336,12 +336,12 @@ In odd years Father shall have precedence when holidays overlap, and in even yea
 shall have precedence.
 The parties may trade holidays in a given year by mutual written agreement, and such trade shall
 not alter the allocation of holidays in future years.
-Mother shall have Mother's Day every year from Friday after school, or 9:00 a.m. if school is not
+Mother shall have Mother’s Day every year from Friday after school, or 9:00 a.m. if school is not
 in session, until Monday morning school dropoff, or 9:00 a.m. if school is not in session.
-Mother shall have Mother's Day every year from 9:00 a.m. until 5:00 p.m.
-Father shall have Father's Day every year from Friday after school, or 9:00 a.m. if school is not in
+Mother shall have Mother’s Day every year from 9:00 a.m. until 5:00 p.m.
+Father shall have Father’s Day every year from Friday after school, or 9:00 a.m. if school is not in
 session, until Monday morning school dropoff, or 9:00 a.m. if school is not in session.
-Father shall have Father's Day every year from 9:00 a.m. until 5:00 p.m.
+Father shall have Father’s Day every year from 9:00 a.m. until 5:00 p.m.
 Thanksgiving Break shall be exercised by Mother in even years and Father in odd years.
 Thanksgiving Break shall be exercised by Mother in odd years and Father in even years.
 Thanksgiving Break shall run from release from school before the break until school resumes
@@ -369,7 +369,7 @@ half. In even years Father shall have the first half and Mother shall have the s
 In odd years Father shall have the first half of Winter Break and Mother shall have the second
 half. In even years Mother shall have the first half and Father shall have the second half.
 The first half of Winter Break shall always include Christmas Eve and Christmas Day, and the
-second half shall always include New Year's Eve and New Year's Day.
+second half shall always include New Year’s Eve and New Year’s Day.
 Winter Break shall be divided by counting the number of overnights from the day school lets out
 until the day school resumes, dividing those overnights in half, and awarding the extra overnight
 in odd years to Father and in even years to Mother.
@@ -383,20 +383,20 @@ Independence Day shall alternate annually.
 If Independence Day falls on Friday, Saturday, Sunday, or Monday, the holiday shall include the
 full weekend. If Independence Day falls on Tuesday, Wednesday, or Thursday, the holiday shall
 run from July 3 at 9:00 a.m. until July 5 at 9:00 a.m.
-If school is not in session on a Monday or Friday attached to Father's weekend, Father's time-sharing shall be extended through that long weekend.
-The child's birthday shall alternate annually between the parents.
-The child's birthday shall follow the regular time-sharing schedule, except that the non-time-sharing parent shall have up to two hours with the child on the child's birthday.
-On each parent's birthday, the child shall be with that parent from after school, or 7:00 p.m. if
+If school is not in session on a Monday or Friday attached to Father’s weekend, Father’s time-sharing shall be extended through that long weekend.
+The child’s birthday shall alternate annually between the parents.
+The child’s birthday shall follow the regular time-sharing schedule, except that the non-time-sharing parent shall have up to two hours with the child on the child’s birthday.
+On each parent’s birthday, the child shall be with that parent from after school, or 7:00 p.m. if
 school is not in session, until school dropoff the next day, or until 7:00 p.m. the following day if
 school is not in session.
-On each parent's birthday falling on a school night, that parent shall have up to two hours with
+On each parent’s birthday falling on a school night, that parent shall have up to two hours with
 the child.Jewish holidays, Halloween, Veterans Day, and other special holidays may be specifically
 scheduled as follows: [INSERT TERMS].
 No holiday time-sharing shall apply, and the regular time-sharing schedule shall control
 throughout the year.
 Ideas, Thoughts, and Tips
-Holiday drafting needs exact times, exact exchange points, and exact precedence rules. "We'll work it
-out" sounds civilized until Thanksgiving hits and everyone suddenly becomes a constitutional scholar.
+Holiday drafting needs exact times, exact exchange points, and exact precedence rules. “We’ll work it
+out” sounds civilized until Thanksgiving hits and everyone suddenly becomes a constitutional scholar.
 If a holiday is emotionally loaded for this family, spell it out with surgical clarity.
 XII. SUMMER AND SCHOOL BREAK SCHEDULES
 Required Clause Options
@@ -408,7 +408,7 @@ During summer, the parties shall alternate weeks, exchanging the child on Sunday
 Each parent shall be entitled to two uninterrupted non-consecutive weeks of vacation time with
 the child each summer.
 Each parent shall be entitled to one uninterrupted two-week period of summer time-sharing,
-which shall not interfere with the other parent's holiday time and shall not be used to create
+which shall not interfere with the other parent’s holiday time and shall not be used to create
 uninterrupted time-sharing beyond two consecutive weeks.
 Each parent shall be entitled to two weeks of summer vacation, either consecutive or separate, in
 addition to the regular schedule.
@@ -459,7 +459,7 @@ Exchanges shall occur at a fire station, police station, or other mutually agree
 Exchanges shall occur at a public location within ten minutes of the residence of the parent then
 exercising time-sharing.
 The parties shall exchange the child by no-contact vehicle exchange, and neither parent shall be
-required to physically approach the other parent's vehicle.
+required to physically approach the other parent’s vehicle.
 The parties may use a mutually agreed third-party exchange coordinator or supervisor for
 exchanges.
 A parent shall not personally transport the child and all transportation shall be handled by the
@@ -467,7 +467,7 @@ other parent.
 Father shall provide all transportation.
 The child shall be returned with all personal effects, clothing, school materials, medication, and
 other necessary items that came with the child at the beginning of the time-sharing period.
-If a parent's time-sharing ends when school resumes and the child will not be returned to school
+If a parent’s time-sharing ends when school resumes and the child will not be returned to school
 as expected, that parent shall immediately notify the other parent and the school.No child under the age of [AGE] shall be left unsupervised, and supervision shall be by a
 responsible adult approved or permitted under this Parenting Plan.
 Ideas, Thoughts, and Tips
@@ -477,7 +477,7 @@ exchange language. Do not draft for the fantasy version of the family if the fac
 XIV. TRAVEL, PASSPORTS, AND ITINERARIES
 Clause Options
 Either parent may travel within the State of Florida or within the United States with the child
-during that parent's time-sharing, subject to the notice and itinerary provisions set forth below.
+during that parent’s time-sharing, subject to the notice and itinerary provisions set forth below.
 The traveling parent shall provide written notice at least seven days before out-of-state travel.
 The traveling parent shall provide written notice at least fourteen days before out-of-state travel.
 The traveling parent shall provide written notice at least fifteen days before out-of-state travel.
@@ -488,7 +488,7 @@ The itinerary shall be provided at least forty-eight hours before departure.
 The itinerary shall be provided at least five days before travel.
 The itinerary shall be provided at least seven days before travel.
 The itinerary shall be provided at least fourteen days before travel.
-Either parent may travel internationally with the child during that parent's time-sharing, provided
+Either parent may travel internationally with the child during that parent’s time-sharing, provided
 the requirements below are satisfied.
 The traveling parent shall provide written notice and a detailed itinerary at least thirty days before
 international travel, including destinations, lodging information, travel dates, flight information if
@@ -504,17 +504,17 @@ similarly limited travel route.
 Travel for funerals or family emergencies may occur on shorter notice. Family emergencies may
 include inpatient hospitalization, hospice placement, death, or disappearance of a parent,
 grandparent, sibling, aunt, uncle, niece, or nephew.
-If a parent's time-sharing is interrupted by permitted emergency travel, that parent shall receive
+If a parent’s time-sharing is interrupted by permitted emergency travel, that parent shall receive
 makeup time-sharing.
 The parties shall cooperate in obtaining, renewing, and executing all documents necessary for a
 United States passport for the child.
 The parties shall cooperate in obtaining, renewing, and executing all documents necessary for
-foreign passports for the child.Father shall execute all documents necessary to renew the child's Brazilian passport and obtain
-the child's Swiss passport.
+foreign passports for the child.Father shall execute all documents necessary to renew the child’s Brazilian passport and obtain
+the child’s Swiss passport.
 Mother shall bear sole responsibility for specific foreign passport fees, application expenses,
 airfare, lodging, and lost wages associated with passport procurement for a foreign passport.
-Father shall retain possession of the child's United States passport.
-Mother shall retain possession of the child's Brazilian passport and Swiss passport and shall
+Father shall retain possession of the child’s United States passport.
+Mother shall retain possession of the child’s Brazilian passport and Swiss passport and shall
 keep them secured in a locked waterproof and fireproof safe.
 When international travel is planned, the parties shall exchange the necessary passports at the
 next exchange of the child.
@@ -545,7 +545,7 @@ If a parent is running late or early for a non-school-day exchange, that parent 
 promptly with the other parent.
 The parties shall be as flexible as reasonably possible regarding slightly early or late pickups and
 dropoffs.
-"Slightly early or late" shall mean up to thirty minutes.
+“Slightly early or late” shall mean up to thirty minutes.
 Each parent shall check Talking Parents at least twice daily, by 10:00 a.m. and 6:00 p.m.
 Each parent shall respond to non-emergency communications within twenty-four hours.
 Each parent shall respond to emergency communications within thirty minutes.The parties shall activate the paid version of Talking Parents within seven days of entry of this
@@ -583,38 +583,38 @@ Telephone or video communication shall occur between 7:00 p.m. and 8:30 p.m.
 During uninterrupted summer vacation or extended travel, the child shall have at least three
 telephone or electronic communications per week with the non-time-sharing parent.
 During an emergency, if physical time-sharing is not possible, the non-time-sharing parent shall
-have daily virtual access of at least thirty minutes unless the child's condition prevents it.
+have daily virtual access of at least thirty minutes unless the child’s condition prevents it.
 After an emergency involving the child, the non-time-sharing parent shall be afforded FaceTime
 or similar video access with the child as soon as reasonably appropriate.
 Restrictions on electronic devices may be used as discipline, but neither parent shall impose
-discipline in a manner that prevents or substantially interferes with the child's communication with
+discipline in a manner that prevents or substantially interferes with the child’s communication with
 the other parent.Each parent shall be responsible for his or her own communication expenses, including phone or
 internet charges, unless otherwise agreed.
 Ideas, Thoughts, and Tips
 Communication with the child should be workable, not performative. If one parent historically blocks
 calls, draft exact windows. If the child is very young, you may need shorter, predictable,
-developmentally appropriate contact instead of "call anytime" fantasy language.
+developmentally appropriate contact instead of “call anytime” fantasy language.
 XVII. EDUCATION AND SCHOOL-RELATED ISSUES
 Basic Clause Options
 The parents shall jointly make major educational decisions for the child unless otherwise
 specifically provided herein.
 Optional Clause Options
-The child's school boundary and school registration address shall be Father's address.
-The child's school boundary and school registration address shall be Mother's address.
+The child’s school boundary and school registration address shall be Father’s address.
+The child’s school boundary and school registration address shall be Mother’s address.
 For school purposes, the child shall be deemed to reside equally with both parents.
 The parties shall apply for charter schools and magnet programs located approximately halfway
 between their homes, at no cost, and the child shall attend the highest-rated school among those
 schools that accept the child.
 If no midpoint charter or magnet school accepts the child, the child shall attend the higher-rated
-public school zoned for either parent's address.
-"Highest-rated school" shall first be determined by the GreatSchools.org overall rating as of
+public school zoned for either parent’s address.
+“Highest-rated school” shall first be determined by the GreatSchools.org overall rating as of
 January 1 of the applicable academic year. If such ratings are unavailable or tied, the parties
 shall use the most recent Florida Department of Education accountability grade. If still tied or
 unavailable, the child shall attend the school closest in driving distance to the geographic
-midpoint between the parties' homes.
+midpoint between the parties’ homes.
 If the parties cannot agree on school selection after application and review, the matter shall be
 submitted to mediation, and the child shall remain in the current school pending resolution.
-The parent exercising evening time-sharing shall ensure the child's homework, projects, and
+The parent exercising evening time-sharing shall ensure the child’s homework, projects, and
 school assignments are timely completed.
 School-related information, homework requirements, school notices, extracurricular notices, and
 school events shall be communicated to the other parent within a reasonable time after receipt.
@@ -623,9 +623,9 @@ communications shall be shared within forty-eight hours of receipt.
 School notices shall be shared within seventy-two hours of receipt.
 The child shall remain in the current school absent written agreement of the parties or further
 order of the Court.
-Neither parent shall unilaterally withdraw, transfer, or change the child's school without the
+Neither parent shall unilaterally withdraw, transfer, or change the child’s school without the
 written agreement of the other parent or court order.
-Any written request for a school change shall require a written "yes" or "no" response by the
+Any written request for a school change shall require a written “yes” or “no” response by the
 other parent within [NUMBER] hours or days.
 The child shall continue in private school if currently enrolled, unless the parties otherwise agree
 in writing or the Court orders otherwise.The child shall attend the better-rated school under the school-choice analysis stated herein.
@@ -636,17 +636,17 @@ Education is a major fight zone in family cases. School continuity, private-scho
 nonsense.
 XVIII. MEDICAL, DENTAL, MENTAL HEALTH, AND INSURANCE
 Basic Clause Options
-Each parent shall have access to the child's medical, dental, mental health, counseling, and
+Each parent shall have access to the child’s medical, dental, mental health, counseling, and
 therapy providers and records.
 Optional Clause Options
 Both parents shall be informed of all doctor, dental, orthodontic, therapy, counseling, specialist,
 and similar appointments and shall be given an opportunity to attend if reasonably possible.
 The child may continue routine appointments with current providers, including routine illness
 visits, school-required vaccinations, vision care, dental care, and similar ordinary care.
-Either parent may take the child to urgent care or the doctor if the child is ill during that parent's
+Either parent may take the child to urgent care or the doctor if the child is ill during that parent’s
 time-sharing, but shall notify the other parent promptly and give the other parent an opportunity
 to attend if reasonably possible.
-A parent shall notify the other parent by text message of the child's symptoms, urgent medical
+A parent shall notify the other parent by text message of the child’s symptoms, urgent medical
 concerns, or same-day appointments as soon as reasonably possible.
 Mother shall maintain health insurance for the child so long as such coverage remains
 reasonably available at a reasonable cost.
@@ -666,9 +666,9 @@ The parties and the child shall participate in family therapy, and the therapist
 appropriate structure of sessions.
 The parties shall not attend therapy together in person unless expressly recommended by the
 therapist, but may participate by Zoom or similar platform as directed by the therapist.
-Unless otherwise agreed in writing, the costs of the child's individual therapy and family therapy
+Unless otherwise agreed in writing, the costs of the child’s individual therapy and family therapy
 shall be shared equally.All necessary medical expenses not covered in full by insurance shall be shared pro rata based
-upon the parties' respective incomes.
+upon the parties’ respective incomes.
 Father shall pay seventy percent and Mother shall pay thirty percent of agreed medical and
 related expenses.
 Medication prescribed to the child shall travel with the child between households, and each
@@ -688,17 +688,17 @@ Optional Clause Options
 The costs of mutually agreed extracurricular activities, including uniforms, equipment, fees, and
 related expenses, shall be paid equally, fifty percent by Mother and fifty percent by Father.
 The costs of mutually agreed extracurricular activities shall be shared pro rata based on the
-parties' incomes.
+parties’ incomes.
 Father shall pay seventy percent and Mother shall pay thirty percent of agreed extracurricular
 expenses.
-If one parent enrolls the child in an activity without the other parent's agreement, the enrolling
+If one parent enrolls the child in an activity without the other parent’s agreement, the enrolling
 parent shall be solely responsible for the cost unless otherwise agreed.
-Either parent may sign the child up for activities during that parent's own time-sharing, provided
-the activity does not interfere with the other parent's time-sharing.
+Either parent may sign the child up for activities during that parent’s own time-sharing, provided
+the activity does not interfere with the other parent’s time-sharing.
 Time-sharing shall take priority over extracurricular activities unless the parents agree otherwise
 in writing.
 The parent with the child shall transport the child to and from mutually agreed activities and shall
-provide any uniforms and equipment in that parent's possession.
+provide any uniforms and equipment in that parent’s possession.
 Both parents shall have the right to attend extracurricular activities, school performances, sports
 events, and important social events involving the child.
 The parent seeking reimbursement for an extracurricular expense shall provide written notice
@@ -711,20 +711,20 @@ the reimbursement claim.
 Tutoring, sports, music, camps, and enrichment programs shall be treated as extracurricular
 activities under this section.
 The parent with the child may select a summer camp provider so long as the cost is reasonable
-and the other parent's consent shall not be unreasonably withheld.
+and the other parent’s consent shall not be unreasonably withheld.
 Summer camp shall require written approval of both parents.
 Ideas, Thoughts, and Tips
-Activities sound easy until one parent signs the child up for six things that blow up the other parent's
+Activities sound easy until one parent signs the child up for six things that blow up the other parent’s
 schedule and wallet. Decide whether you want mutual agreement, unilateral options at the enrolling
-parent's cost, or a hybrid system. Then say it clearly.
+parent’s cost, or a hybrid system. Then say it clearly.
 XX. CHILDCARE, BABYSITTERS, AND RIGHT OF FIRST REFUSAL
 Required Clause Options
-Each parent may use childcare providers of that parent's choosing during that parent's time-sharing,
+Each parent may use childcare providers of that parent’s choosing during that parent’s time-sharing,
 subject to the provisions below.
 Optional Clause Options
 Before using a childcare provider for any period exceeding eight hours, the parent needing
 childcare shall first offer the other parent the opportunity to care for the child.
-Before using a babysitter or other caregiver for any overnight period during that parent's time-sharing, the parent shall first offer the other parent the opportunity to care for the child.
+Before using a babysitter or other caregiver for any overnight period during that parent’s time-sharing, the parent shall first offer the other parent the opportunity to care for the child.
 Before using childcare during work hours, including beforecare or aftercare necessitated by
 employment, the parent needing such childcare shall first offer the other parent the opportunity to
 provide care, unless otherwise specifically stated herein.
@@ -733,7 +733,7 @@ create a claim for makeup time by the parent foregoing time-sharing.
 The immediate family members of the parties, excluding specifically prohibited persons, and live-in significant others shall be deemed approved childcare providers.
 Any paid or hired third-party childcare provider shall be agreed to in writing.
 The parties shall background check any paid or hired third-party childcare provider.
-Any person caring for or transporting the child shall hold a valid driver's license and shall not
+Any person caring for or transporting the child shall hold a valid driver’s license and shall not
 have prior DUI arrests or convictions or arrests for child abuse or sexual misconduct.
 The name, address, and telephone number of any childcare provider shall be provided to the
 other parent in writing at least twenty-four hours before childcare begins unless there is an
@@ -742,9 +742,9 @@ Contact information for paid babysitters shall be exchanged before the caregiver
 Childcare providers may include family members, licensed daycare providers, babysitters,
 nannies, aftercare providers, camp personnel, and other responsible adults approved or
 permitted under this Parenting Plan.
-Sleepovers at a friend's home shall not be deemed childcare for purposes of triggering right of
+Sleepovers at a friend’s home shall not be deemed childcare for purposes of triggering right of
 first refusal.Ideas, Thoughts, and Tips
-This section gets messy fast because parents often use "childcare" to hide gatekeeping or control.
+This section gets messy fast because parents often use “childcare” to hide gatekeeping or control.
 Decide whether the issue is true first-option access, ordinary babysitting, work-related care, overnight
 absences, or mistrust of third parties. Draft to the actual problem instead of using generic right-of-first-refusal language and hoping for the best.
 XXI. SAFETY, HEALTH, AND BEHAVIORAL RESTRICTIONS
@@ -773,25 +773,25 @@ No child under the age of [AGE] shall be left alone or unsupervised in a home, v
 place.
 The child shall not be transported by any person who is impaired, unlicensed, or otherwise
 prohibited under this Parenting Plan.
-Overnight romantic guests shall not be present during a parent's time-sharing while the child is
+Overnight romantic guests shall not be present during a parent’s time-sharing while the child is
 present.
 No person with a history of domestic violence, child abuse, sexual misconduct, or substance
 abuse shall supervise or transport the child absent written agreement or further order of the
 Court.
 Ideas, Thoughts, and Tips
-This is where you draft for actual risk instead of vague "best interests" wallpaper. Substance issues,
+This is where you draft for actual risk instead of vague “best interests” wallpaper. Substance issues,
 firearms, unsafe partners, inappropriate discipline, medication misuse, and supervision problems
 need clean language. If the danger is real, do not hide behind soft wording.XXII. SPECIAL EVENTS, RELIGIOUS EVENTS, AND FAMILY
 EVENTS
 Required Clause Options
-The parties shall work amicably and reasonably to accommodate the child's attendance at significant
+The parties shall work amicably and reasonably to accommodate the child’s attendance at significant
 family events, religious events, reunions, funerals, weddings, and similar events that may occur
-during the other parent's scheduled time-sharing.
+during the other parent’s scheduled time-sharing.
 Optional Clause Options
 Except in emergencies, the parent requesting accommodation for a special event shall provide at
-least forty-eight hours' notice and shall be responsible for transportation unless otherwise
+least forty-eight hours’ notice and shall be responsible for transportation unless otherwise
 agreed.
-In the event of the death of a member of a parent's family, including a grandparent, aunt, uncle,
+In the event of the death of a member of a parent’s family, including a grandparent, aunt, uncle,
 cousin, or similar family member, the child shall be with that parent for a bereavement period of
 up to five days, including the date of the funeral.
 The parties shall ensure the child attends agreed birthday parties, school events, family reunions,
@@ -831,7 +831,7 @@ mental or physical incapacity beginning before majority, or for a dependent chil
 eighteen and nineteen who remains in high school with a reasonable expectation of graduation
 before age nineteen.
 Support obligations shall survive the death of the obligor to the extent permitted by law and may
-be enforceable against the obligor's estate where appropriate.
+be enforceable against the obligor’s estate where appropriate.
 The parties acknowledge that due to the equal or near-equal time-sharing schedule, child
 support is waived at this time, subject to further order of the Court.
 Ideas, Thoughts, and Tips
@@ -845,7 +845,7 @@ below.
 Optional Clause Options
 Uncovered medical, dental, orthodontic, counseling, psychological, psychiatric, therapy,
 prescription, eyeglass, contact lens, hospital, and similar expenses shall be shared equally.
-Uncovered expenses shall be shared pro rata based on the parties' incomes.
+Uncovered expenses shall be shared pro rata based on the parties’ incomes.
 The parent incurring the expense shall provide proof of payment or notice of the expense within
 five days.
 The parent incurring the expense shall provide proof of payment or notice of the expense within
@@ -859,7 +859,7 @@ The parents shall make every effort to use in-network providers and shall discus
 before using out-of-network providers for non-emergency care.The parties shall enter into payment plans for orthodontic or other substantial expenses and pay
 providers directly when possible.
 For aftercare, camp, preschool, or VPK expenses agreed to in writing, the parties shall pay their
-shares directly to the provider. If one party pays the other party's share after a default of more
+shares directly to the provider. If one party pays the other party’s share after a default of more
 than three days, reimbursement shall be made within forty-eight hours.
 The costs of preschool, VPK, aftercare, school breaks, and camp shall be shared equally unless
 otherwise stated herein.
@@ -882,9 +882,9 @@ Optional Clause Options
 The child shall be designated as residing with Father for school purposes.
 The child shall be designated as residing with Mother for school purposes.
 The child shall be designated as residing with both parents for school purposes.
-The child's school designation shall be tied to Father's address so long as Father remains in his
+The child’s school designation shall be tied to Father’s address so long as Father remains in his
 current school district.
-The child's school designation shall be tied to Mother's address so long as Mother remains in her
+The child’s school designation shall be tied to Mother’s address so long as Mother remains in her
 current school district.
 School designation shall not be changed absent written agreement of the parties or further order
 of the Court.
@@ -899,7 +899,7 @@ Optional Clause Options
 The child shall be designated as residing the majority of the time with Father.
 The child shall be designated as residing the majority of the time with Mother.
 The child shall be designated as residing the majority of the time with both parents.
-This designation shall not affect either parent's rights and responsibilities under this Parenting
+This designation shall not affect either parent’s rights and responsibilities under this Parenting
 Plan and shall not control school designation unless expressly stated elsewhere herein.
 Ideas, Thoughts, and Tips
 This is often more of an administrative clause than a parenting clause, but it matters for forms,
@@ -917,13 +917,13 @@ a verified Petition to Relocate as required by law.
 Failure to comply with section 61.13001 may subject the relocating parent to contempt,
 proceedings to compel the return of the child, and consideration of the violation in any future
 modification or time-sharing determination.
-Any move by either parent that changes the child's practical school, transportation, or exchange
+Any move by either parent that changes the child’s practical school, transportation, or exchange
 logistics by more than ten miles shall require advance written notice and good-faith discussion,
 even if the move does not constitute statutory relocation.
-Neither parent shall move the child's primary residence out of the tri-county area during a
+Neither parent shall move the child’s primary residence out of the tri-county area during a
 declared emergency without written agreement of the other parent or court order.
 Ideas, Thoughts, and Tips
-Parents love to pretend that a "small move" changing school, exchange burdens, or commute realities
+Parents love to pretend that a “small move” changing school, exchange burdens, or commute realities
 is not a big deal. The court may care about mileage, but families feel logistics.XXVIII. NOTICE OF CHANGE OF ADDRESS, EMPLOYMENT, OR
 CONTACT INFORMATION
 Basic Clause Options
@@ -939,7 +939,7 @@ shall be given within twenty-four hours after learning of the change.
 Each parent shall notify the Court in writing within seven days of any such change.
 Each parent shall also provide written notice of any change in marital status or legal name.
 Each parent shall provide written notice of any significant change in the persons residing in that
-parent's household if such change materially affects the child.
+parent’s household if such change materially affects the child.
 Ideas, Thoughts, and Tips
 This section is administrative, but do not make it weak. Contact changes become service issues,
 emergency issues, and school issues fast. If one parent is chronically slippery, stronger notice
@@ -982,7 +982,7 @@ party shall provide written notice identifying the disputed issue and allow [NUM
 response before initiating litigation.
 Ideas, Thoughts, and Tips
 This section should not become a loophole for endless delay. Require mediation for non-emergencies, but do not draft it so broadly that one parent can block urgent relief by shouting
-"mediation" while the house burns.
+“mediation” while the house burns.
 XXXI. MISCELLANEOUS ENFORCEMENT AND GENERAL
 PROVISIONS
 Required Clause Options
@@ -995,15 +995,15 @@ If any provision of this Parenting Plan is held invalid or unenforceable, the re
 shall remain in full force and effect.This Parenting Plan shall be enforceable in contract in addition to all remedies available to
 enforce any judgment or order incorporating it.
 In any action to enforce or interpret this Parenting Plan, the prevailing party may be entitled to
-recover attorney's fees and costs as permitted by law or agreement.
+recover attorney’s fees and costs as permitted by law or agreement.
 The parties shall comply with NHTSA guidelines and all applicable law regarding car seats and
 booster seats.
 Each parent shall ensure that the child attends scheduled events, parties, practices, and other
-agreed child-related commitments during that parent's time-sharing.
+agreed child-related commitments during that parent’s time-sharing.
 Each party shall execute any additional documents reasonably necessary to implement the intent
 of this Parenting Plan.
 Residence-visit language: each parent shall permit reasonable inspection or confirmation of
-sleeping accommodations if the adequacy of the child's living arrangements is specifically at
+sleeping accommodations if the adequacy of the child’s living arrangements is specifically at
 issue and such inspection is agreed or ordered.
 Ideas, Thoughts, and Tips
 This is the drawer where useful legal tools live. Do not dump junk here just because it does not fit
@@ -1049,7 +1049,7 @@ Required Clause Options
 The parties shall exchange and maintain essential child-related documents and information as set
 forth below.
 Optional Clause Options
-The parties shall provide each other with a copy of the child's Social Security card within seven
+The parties shall provide each other with a copy of the child’s Social Security card within seven
 days of execution of this Parenting Plan.
 The parties shall provide each other with copies of insurance cards, policy information,
 passports, and other essential records reasonably necessary for the care of the child.

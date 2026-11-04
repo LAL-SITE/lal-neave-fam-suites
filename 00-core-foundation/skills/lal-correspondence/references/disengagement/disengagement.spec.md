@@ -437,7 +437,7 @@ Neave Family Law Group, P.A.
 By: ______________________________
 Angela R. Neave
 Florida Bar No. {{BAR_NO}}
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200
 Service E-Mail: aneave@neavefamilylaw.com
 
@@ -446,7 +446,7 @@ and
 By: ______________________________
 Angela R. Neave
 Florida Bar No. {{BAR_NO}}
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 (954) 981-2200
 Service E-Mail: aneave@neavefamilylaw.com
 ```
@@ -461,7 +461,7 @@ Neave Family Law Group, P.A.
 ```
 
 **Recommendation, flagged as such:** a firm-initiated disengagement should be signed by
-Angela R. Neave, not by the paralegal, and should carry the delivery legend and a
+Angela R. Neave, not by Russ, and should carry the delivery legend and a
 retained proof of transmission. The corpus does not state this; it is inferred from the
 closing workflow's requirement to save the sent communication and any proof of mailing.
 
@@ -494,8 +494,8 @@ closing workflow's requirement to save the sent communication and any proof of m
   `## ATTORNEY-SUPPLY BLOCK` and its hard stop. A disengagement product without it is not
   fit for sale in Florida, and the skill must refuse to send rather than approximate it.
   ⚠️ VERIFY: confirm rule and current text before relying on this.
-- **the paralegal signed the one new executed representation-ending communication
-  (M04).** It went out over the paralegal's name with Angela R. Neave copied. Whether a
+- **Russ signed the one new executed representation-ending communication
+  (M04).** It went out over Russ's name with Angela R. Neave copied. Whether a
   non-attorney may sign a communication that ends the firm's status as attorney of record is
   an attorney decision. Default the skill to attorney signature and require an explicit
   override.

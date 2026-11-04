@@ -36,7 +36,7 @@ Either parent may make emergency decisions affecting the health or safety of the
 
 Unless otherwise prohibited by law, both parents shall have access to medical, dental, school, and other records concerning the minor child(ren). Both parents shall have equal rights to inspect and receive governmental agency and law enforcement records concerning the minor child(ren).
 
-Both parents shall be listed as emergency contacts for the minor child(ren) with the child(ren)'s school, daycare, and medical providers.
+Both parents shall be listed as emergency contacts for the minor child(ren) with the child(ren)’s school, daycare, and medical providers.
 
 Each parent shall keep the other parent informed of his or her current residential address, mailing address, telephone number, and email address. Each parent shall notify the other parent in writing within twenty-four (24) hours of any change in contact information.
 
@@ -60,7 +60,7 @@ Holiday Schedule:
 
 The holiday schedule shall take precedence over the regular time-sharing schedule.
 
-Mother's Day shall be with Mother every year. Father's Day shall be with Father every year.
+Mother’s Day shall be with Mother every year. Father’s Day shall be with Father every year.
 
 Thanksgiving Break shall be with Mother in even-numbered years and Father in odd-numbered years.
 
@@ -94,7 +94,7 @@ For school registration and boundary purposes, the minor child(ren) shall be des
 
 Each parent shall have the right to obtain school records, communicate with school personnel, and attend school events, conferences, and activities.
 
-Each parent shall ensure that the minor child(ren)'s homework, school assignments, and school materials are completed and returned during that parent's time-sharing as appropriate.
+Each parent shall ensure that the minor child(ren)’s homework, school assignments, and school materials are completed and returned during that parent’s time-sharing as appropriate.
 
 **X. COMMUNICATION**
 
@@ -122,11 +122,11 @@ The parents shall mutually agree on extracurricular activities for the minor chi
 
 The costs of mutually agreed extracurricular activities, including uniforms and equipment, shall be paid as follows:
 
-Each parent shall have the right to attend the minor child(ren)'s extracurricular activities and events.
+Each parent shall have the right to attend the minor child(ren)’s extracurricular activities and events.
 
 **XIII. CHILDCARE AND RIGHT OF FIRST REFUSAL**
 
-If either parent is unable to care for the minor child(ren) for a substantial period of time during that parent's time-sharing, that parent shall first offer the other parent the opportunity to care for the minor child(ren) before using a third-party childcare provider.
+If either parent is unable to care for the minor child(ren) for a substantial period of time during that parent’s time-sharing, that parent shall first offer the other parent the opportunity to care for the minor child(ren) before using a third-party childcare provider.
 
 The details of this provision shall be as follows:
 

@@ -469,7 +469,7 @@ Additional notes from the matter-sourced letters:
 - Settlement posture updates require attorney drafting and attorney signature.
   This is not a staff-sendable document under any circumstance.
 - Never predict an outcome. Range it.
-- Monthly status: the paralegal may draft from the running case file, but
+- Monthly status: Russ may draft from the running case file, but
   Angela R. Neave reviews and approves before send.
 - Hearing confirmations: verify courthouse address, parking, and division-specific
   procedure before sending — these vary by judge and county.

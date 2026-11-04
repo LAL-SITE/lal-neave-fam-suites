@@ -56,7 +56,7 @@ Fla. R. Gen. Prac. & Jud. Admin. 2.514.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 `[CONFIRM LOCALLY: the assigned clerk's published holiday calendar, loaded annually, with
-the intake coordinator]` — clerk-observed closures count as legal holidays and are the most common
+Judith]` — clerk-observed closures count as legal holidays and are the most common
 source of a quietly wrong last day.
 
 **Days added for e-mail service is unsettled in the sources.** One source records that 5 days
@@ -97,7 +97,7 @@ hedged between `12.070(j)` and `12.070(l)` for the service window. One file cann
 and uncertain about subdivisions of one rule, so no `12.070` subdivision letter is asserted
 anywhere here. The periods are consistent across sources; the subdivision letters are not.
 `[CONFIRM LOCALLY: the current 12.070 subdivision letter for waiver of service before citing it in
-any filing, with the senior paralegal]`
+any filing, with Marta Estevez]`
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 Where a vendor serves but does not file the return, the deadline chain breaks silently. Track who
@@ -111,12 +111,12 @@ files it.
 Authority: Fla. Fam. L. R. P. 12.070. **Subdivision uncertain**: sources in the corpus cite both
 `12.070(j)` and `12.070(l)` for the 120-day window. The period is consistent at 120 days in both.
 `[CONFIRM LOCALLY: the current subdivision letter before citing in any filing, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: filing of the pleading directed to a respondent.
 Basis: 120 days, calendar-day counting, last day rolls forward.
 Jurisdictional: `yes` — on expiry the court must direct service by a date certain, dismiss
 without prejudice, or drop the party. Extendable: `yes`, for good cause or excusable neglect.
-Owner: `the paralegal` → `the senior paralegal`.
+Owner: `Russ` → `Marta Estevez`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Response to petition — 20 days**
@@ -126,7 +126,7 @@ publication.
 Basis: 20 days, calendar-day counting, last day rolls forward; add 5 if served by mail alone.
 Jurisdictional: `yes` — grounds not raised are waived and a default becomes available.
 Extendable: `only-before-expiry` in the ordinary case; a party may plead at any time **before** a
-default is entered. Owner: `Angela R. Neave`; `the paralegal` prepares.
+default is entered. Owner: `Angela R. Neave`; `Russ` prepares.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Response to counterpetition or crosspetition — 20 days**
@@ -141,29 +141,29 @@ Owner: `Angela R. Neave`.
 Authority: Fla. Fam. L. R. P. 12.140(a)(2).
 Runs from: notice of the court's action.
 Basis: 10 days, calendar-day counting, last day rolls forward.
-Jurisdictional: `yes`. Extendable: `only-before-expiry`. Owner: `the paralegal` →
+Jurisdictional: `yes`. Extendable: `only-before-expiry`. Owner: `Russ` →
 `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Responsive pleading after a more definite statement is ordered — 10 days**
 Authority: Fla. Fam. L. R. P. 12.140(a)(2). Runs from: service of the more definite statement.
 Basis: 10 days, calendar-day counting. Jurisdictional: `yes`. Extendable:
-`only-before-expiry`. Owner: `the paralegal`.
+`only-before-expiry`. Owner: `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Response to an amended pleading — 10 days**
 Authority: Fla. Fam. L. R. P. 12.190(a), unless the court orders otherwise.
 Runs from: service of the amended pleading. Basis: 10 days, calendar-day counting.
-Jurisdictional: `no`. Extendable: `yes`. Owner: `the paralegal` → `Angela R. Neave`.
+Jurisdictional: `no`. Extendable: `yes`. Owner: `Russ` → `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Action at issue — 20 days**
 Authority: Fla. Fam. L. R. P. 12.440 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: confirm which subdivision of Rule 12.440 governs this deadline, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: service of the last pleading, where no
 motions are directed to it. Basis: 20 days, calendar-day counting. Jurisdictional: `no` — it is a
-readiness marker, not a forfeiture. Extendable: not applicable. Owner: `the senior paralegal`.
+readiness marker, not a forfeiture. Extendable: not applicable. Owner: `Marta Estevez`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 ---
@@ -175,7 +175,7 @@ about the subdivision lettering of 12.285, and the rule has been renumbered on i
 cycle. **The periods below are consistent across sources; the subdivision letters are not, and no
 subdivision letter in this section is asserted.** Treat every `12.285(...)` below as unconfirmed.
 `[CONFIRM LOCALLY: the current 12.285 subdivision letter for each period before citing it in a
-filing, with the senior paralegal]`
+filing, with Marta Estevez]`
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Mandatory disclosure served — 45 days**
@@ -183,14 +183,14 @@ Authority: Fla. Fam. L. R. P. 12.285(b)(2). **Subdivision conflict in the source
 places the 45-day period at 12.285(d), which in the rule text reviewed addresses disclosure for
 temporary financial relief. The 45-day period itself is consistent across sources.
 `[CONFIRM LOCALLY: the current subdivision letter before citing in a filing, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: service of the initial pleading on the respondent.
 Basis: 45 days, calendar-day counting, last day rolls forward.
 Jurisdictional: `no`, but consequential — documents not served within the rule's periods before a
 nonfinal hearing, or in violation of a pretrial order, are **inadmissible** at that hearing
 absent a good-cause finding (12.285(g)). Extendable: `yes` — by agreement, or by a motion to
 enlarge filed **before** the due date, which the court must grant for good cause (12.285(h)).
-Owner: `the paralegal` with the client contact.
+Owner: `Russ` with the client contact.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Objection to mandatory disclosure — at least 5 days before the due date**
@@ -206,41 +206,41 @@ object at all is an attorney decision, and meritless objections carry a mandator
 Authority: Fla. Fam. L. R. P. 12.285(b)(1)(A). Runs backward from: the hearing.
 Basis: 10 days, calendar-day counting, counted backward. Jurisdictional: `no`, but late
 documents are inadmissible absent good cause. Extendable: `unknown` — treat as no.
-Owner: `the paralegal`.
+Owner: `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Temporary financial relief hearing — responding party not seeking relief — at least 5 days
 before**
 Authority: Fla. Fam. L. R. P. 12.285(b)(1)(B). Runs backward from: the hearing.
 Basis: fewer than 7 days — weekends and legal holidays not counted; counted backward.
-Jurisdictional: `no`, same admissibility consequence. Owner: `the paralegal`.
+Jurisdictional: `no`, same admissibility consequence. Owner: `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Certificate of compliance — on service of disclosure**
 Authority: Fla. Fam. L. R. P. 12.285(j); Florida Supreme Court Approved Form 12.932.
 Runs from: service of the mandatory disclosure. No numeric period; the obligation attaches to the
 service event. It is sworn, must identify the documents with particularity, and must certify the
-service date. Jurisdictional: `no`. Owner: `the paralegal` drafts; `Angela R. Neave` signs
+service date. Jurisdictional: `no`. Owner: `Russ` drafts; `Angela R. Neave` signs
 and files. Confirm the current form version on the official forms index before use.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Child support guidelines worksheet — at or before the hearing**
 Authority: Fla. Fam. L. R. P. 12.285(k); Form 12.902(e). Runs backward from: the hearing to
 establish or modify support. Jurisdictional: `yes` in effect — the requirement cannot be waived.
-Extendable: `no`. Owner: `the paralegal` → `the senior paralegal`.
+Extendable: `no`. Owner: `Russ` → `Marta Estevez`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Continuing duty to supplement — no fixed date**
 Authority: Fla. Fam. L. R. P. 12.285(f). Trigger: any material change in financial status.
 Write this as a deadline object with `dueDate: null` and `status: "open"`, `notes` recording that
 the duty is continuing. It is the one legitimate open-ended entry in the register.
-Owner: client contact → `the paralegal`.
+Owner: client contact → `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Financial affidavit in enforcement or contempt — 10 days**
 Authority: Fla. Fam. L. R. P. 12.287. Runs from: written request. Basis: 10 days, calendar-day
 counting. Serve the affidavit and file the notice of compliance. Jurisdictional: `no`.
-Owner: `the paralegal` → `Angela R. Neave`.
+Owner: `Russ` → `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 ---
@@ -253,13 +253,13 @@ Authority: Fla. Fam. L. R. P. 12.340(c). Runs from: service of the interrogatori
 Basis: 30 or 45 days, calendar-day counting, last day rolls forward; add 5 if served by mail
 alone. Record in `computationBasis` **which posture you used and why** — the two are not
 interchangeable. Jurisdictional: `no`. Extendable: `yes`, by agreement or order.
-Owner: `the paralegal` → `Angela R. Neave`.
+Owner: `Russ` → `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Response to request to produce — 30 days, or 45 for a respondent**
 Authority: Fla. Fam. L. R. P. 12.350(b). Runs from: service of the request; respondent or
 third-party defendant, 45 days from service of process. Basis: as above. Jurisdictional: `no`.
-Extendable: `yes`. Owner: `the paralegal` → `Angela R. Neave`.
+Extendable: `yes`. Owner: `Russ` → `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Response to request for admission — 30 days, or not required before 45 for a respondent**
@@ -277,7 +277,7 @@ Write this one with a flag at creation, not on approach.
 Authority: Fla. Fam. L. R. P. 12.351(b). 15 days if served by mail.
 Runs backward from: issuance of the subpoena. Basis: 10 or 15 days, calendar-day counting,
 counted backward. Any party's objection inside the same window blocks production pending
-resolution. Jurisdictional: `no`. Owner: `the paralegal` → `the senior paralegal`.
+resolution. Jurisdictional: `no`. Owner: `Russ` → `Marta Estevez`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Assertion of privilege after inadvertent disclosure — `[CONFIRM LOCALLY: the applicable period, with Angela R. Neave]`**
@@ -312,7 +312,7 @@ request after 30 days. Jurisdictional: `no`. Owner: `Angela R. Neave`.
 
 **Notice of pretrial conference — 20 days**
 Authority: Fla. Fam. L. R. P. 12.200(c). Case management conferences require reasonable notice;
-pretrial conferences require 20 days. Jurisdictional: `no`. Owner: `the paralegal` calendars.
+pretrial conferences require 20 days. Jurisdictional: `no`. Owner: `Russ` calendars.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Objection to the mediator's compensation rate — 15 days**
@@ -323,14 +323,14 @@ Basis: 15 days, calendar-day counting. Jurisdictional: `no`. Owner: `Angela R. N
 **Mediation completed — 75 days**
 Authority: Fla. Fam. L. R. P. 12.740(e), unless the court orders otherwise.
 Runs from: the first mediation conference. Basis: 75 days, calendar-day counting.
-Jurisdictional: `no`. Extendable: `yes`, by order. Owner: `the senior paralegal`.
+Jurisdictional: `no`. Extendable: `yes`, by order. Owner: `Marta Estevez`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Objection to referral to a general magistrate — 10 days**
 Authority: Fla. Fam. L. R. P. 12.490 — subdivision unconfirmed. Rule 12.490 has been amended and
 renumbered, and the subdivision letter recorded in the sources cannot be stood behind.
 `[CONFIRM LOCALLY: the current 12.490 subdivision letter for the objection period, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: service of the order of referral. If the
 hearing is set sooner than 10 days, before the hearing begins. If the referral is served within
 the first 20 days after process, the window extends to the responsive-pleading due date.
@@ -342,7 +342,7 @@ Extendable: `no`. Owner: `Angela R. Neave`.
 **Motion to vacate a general magistrate's recommended order — 15 days**
 Authority: Fla. Fam. L. R. P. 12.490 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: the current 12.490 subdivision letters for the motion-to-vacate, hearing, and
-ruling periods, with the senior paralegal]`
+ruling periods, with Marta Estevez]`
 Runs from: entry of the recommended order.
 Cross-motion within 5 days. The motion must be **heard within 30 days of filing**, ruling within
 30 days after the hearing, and the movant must seek a hearing date when filing — so write three
@@ -353,7 +353,7 @@ otherwise lost. Extendable: `no`. Owner: `Angela R. Neave`.
 **Exceptions to a special magistrate's report — 10 days**
 Authority: Fla. Fam. L. R. P. 12.492 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: the current 12.492 subdivision letter for exceptions and cross-exceptions, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: service of the report. Cross-exceptions
 within 5 days of the filing of exceptions. Basis: 10 days, calendar-day counting; the 5-day
 cross-exception period is under 7 days, so weekends and legal holidays are not counted.
@@ -371,7 +371,7 @@ rule, and vary by judge and division. Cite the order as the authority. Failure t
 "subjects the party or attorney to appropriate court sanctions" (Fla. Fam. L. R. P. 12.440 —
 subdivision unconfirmed).
 `[CONFIRM LOCALLY: confirm which subdivision of Rule 12.440 governs this deadline, with
-the senior paralegal]`
+Marta Estevez]`
 `[CONFIRM LOCALLY: the assigned judge's written procedures and division practice, with
 Angela R. Neave]`
 ⚠️ VERIFY: confirm rule and current text before relying on this.
@@ -385,31 +385,31 @@ and no subdivision letter has been inferred or "corrected."
 **Pretrial exchange — 72 hours before the pretrial conference, or 30 days before trial**
 Authority: Fla. Fam. L. R. P. 12.440 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: confirm which subdivision of Rule 12.440 governs this deadline, with
-the senior paralegal]`
+Marta Estevez]`
 Reciprocal exchange and filing of documents, witness
 list, issues, undisposed motions, and time estimate. Runs backward from the conference or trial —
 whichever the order fixes. Basis: 72 hours is an **hours** period (2.514(a)(3)); 30 days is
 calendar-day counting; both counted backward. Jurisdictional: `no`, but sanctions and exclusion
-of untimely disclosure follow. Owner: `the paralegal` → `Angela R. Neave`.
+of untimely disclosure follow. Owner: `Russ` → `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Notice of trial where a default has been entered — not less than 10 days**
 Authority: Fla. Fam. L. R. P. 12.440 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: confirm which subdivision of Rule 12.440 governs this deadline, with
-the senior paralegal]`
+Marta Estevez]`
 Runs backward from trial. Basis: 10 days, calendar-day
-counting, counted backward. Owner: `the paralegal`.
+counting, counted backward. Owner: `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Proposed order furnished to all parties — no less than 24 hours before submission**
 Authority: Fla. Fam. L. R. P. 12.080 — subdivision unconfirmed — where the court so requires.
 `[CONFIRM LOCALLY: the current 12.080 subdivision letter, and whether the assigned division imposes
 this requirement at all, with Angela R. Neave]`
-Hours period. Owner: `the paralegal`.
+Hours period. Owner: `Russ`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
 **Notice for any motion not heard ex parte — a reasonable time before the hearing**
-Authority: Fla. Fam. L. R. P. 12.090(c). No numeric period. Owner: `the paralegal` →
+Authority: Fla. Fam. L. R. P. 12.090(c). No numeric period. Owner: `Russ` →
 `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
@@ -433,7 +433,7 @@ reviewed states 15 days in both relevant subdivisions.
 **Motion to alter or amend a judgment — not later than 15 days**
 Authority: Fla. Fam. L. R. P. 12.530 — subdivision unconfirmed.
 `[CONFIRM LOCALLY: the current 12.530 subdivision letter for a motion to alter or amend, with
-the senior paralegal]`
+Marta Estevez]`
 Runs from: entry of the judgment. Owner: `Angela R. Neave`.
 ⚠️ VERIFY: confirm rule and current text before relying on this.
 
@@ -477,7 +477,7 @@ Marked as gaps rather than filled with values the sources did not support.
   ⚠️ VERIFY: confirm rule and current text before relying on this.
 - **Name change fingerprinting and background-check timing.** Governed by § 68.07, Fla. Stat.,
   and administered locally. `[CONFIRM LOCALLY: ORI and fingerprint processing timing, with
-  the intake coordinator]`
+  Judith]`
   ⚠️ VERIFY: confirm rule and current text before relying on this.
 - **Emergency motion thresholds and timing.** Set by circuit administrative order and variable.
   One source in the corpus mis-cites a family rule as a civil rule on this point.

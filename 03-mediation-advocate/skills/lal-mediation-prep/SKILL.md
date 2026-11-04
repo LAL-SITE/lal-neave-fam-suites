@@ -135,8 +135,8 @@ Draft the client's proposal set as clean, service-ready documents:
 - Each proposal states its expiration and reservation-of-rights language
 - Format: Word first for attorney markup; PDF version on approval for transmission
 
-**HARD STOP: no proposal leaves the firm without explicit attorney approval.** the paralegal
-drafts, the senior paralegal reviews, Angela R. Neave approves. If the attorney is running the skill,
+**HARD STOP: no proposal leaves the firm without explicit attorney approval.** Russ
+drafts, Marta Estevez reviews, Angela R. Neave approves. If the attorney is running the skill,
 their direction is the approval.
 
 ---

@@ -54,5 +54,5 @@ ACCEPTED longer than the clerk's normal turnaround, flag it.
 
 Before any statement like "the motion is pending" or "the answer was filed":
 check the folders. If the folders and the tracker disagree, report the conflict
-with both pieces of evidence and route to the senior paralegal — never pick one
+with both pieces of evidence and route to Marta Estevez — never pick one
 silently.

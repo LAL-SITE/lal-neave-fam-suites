@@ -55,7 +55,7 @@ readable. An index entry that points at a missing or unreadable file is a FAIL n
 file.
 
 **4. Token bake.** Scan installed skills and text references for unresolved identity
-tokens (`Neave Family Law Group, P.A.`, `Angela R. Neave`, `{{BAR_NO}}`, `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL`,
+tokens (`Neave Family Law Group, P.A.`, `Angela R. Neave`, `{{BAR_NO}}`, `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308`,
 `(954) 981-2200`, `aneave@neavefamilylaw.com`, `{{PM_SYSTEM}}`, `{{DMS}}`, `{{RESEARCH_PROVIDER}}`,
 `{{UPLOAD_PORTAL}}`, `the firm template library`, role tokens). Token-documentation files are
 exempt. Bracket tokens (`[CLIENT NAME]`, `[CASE NO.]`) are draft-time and are SUPPOSED to

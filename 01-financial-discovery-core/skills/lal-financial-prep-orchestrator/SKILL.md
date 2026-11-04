@@ -5,7 +5,7 @@ description: "Single-pass client financial prep. Use to build the FA draft AND t
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. Cowork-native client-side financial prep workflow. Use this skill IMMEDIATELY whenever the paralegal, the senior paralegal, or Angela R. Neave needs to prepare a client's Financial Affidavit AND a client communication requesting items still missing — in a single Cowork pass. Triggers on: "client cowork financial prep," "FA prep," "build the FA," "build the FA and tell me what's missing," "prep the FA and ask the client for what we don't have," "do the financial prep for [client]," "draft the FA and the request letter," "what do we still need from the client," "FA + missing items email," or any variation. ORCHESTRATES lal-fa-builder + lal-brand-kit with a document-attribution audit and gap analysis so a single Cowork session produces the complete pre-call package — FA Long Form 12.902(c) DRAFT plus a brand-kit client request email. Run before any individual FA-related skill once intake and initial discovery are in.
+Neave Family Law Group, P.A. Cowork-native client-side financial prep workflow. Use this skill IMMEDIATELY whenever Russ, Marta Estevez, or Angela R. Neave needs to prepare a client's Financial Affidavit AND a client communication requesting items still missing — in a single Cowork pass. Triggers on: "client cowork financial prep," "FA prep," "build the FA," "build the FA and tell me what's missing," "prep the FA and ask the client for what we don't have," "do the financial prep for [client]," "draft the FA and the request letter," "what do we still need from the client," "FA + missing items email," or any variation. ORCHESTRATES lal-fa-builder + lal-brand-kit with a document-attribution audit and gap analysis so a single Cowork session produces the complete pre-call package — FA Long Form 12.902(c) DRAFT plus a brand-kit client request email. Run before any individual FA-related skill once intake and initial discovery are in.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -47,7 +47,7 @@ The reason this is one skill instead of three separate skills is that the FA bui
 
 This skill runs in Cowork. It is internal work product. Nothing produced by this skill is filed, sent to the client, or shared with opposing counsel without explicit attorney review and sign-off.
 
-Default assignment: the paralegal (legal assistant) for routine matters where the discovery folder is already organized; the senior paralegal (lead paralegal) when the matter is mid-flight and requires judgment on what items are gaps versus deliberate omissions. Output goes to the attorney for review.
+Default assignment: Russ (legal assistant) for routine matters where the discovery folder is already organized; Marta Estevez (lead paralegal) when the matter is mid-flight and requires judgment on what items are gaps versus deliberate omissions. Output goes to the attorney for review.
 
 Scope OUT: do not run this skill if the FA has already been finalized and filed, or if the matter does not yet have at least one completed intake form. If documents have arrived but are not yet sorted in {{DMS}}, run `lal-disco-intake-prep` first.
 
@@ -119,7 +119,7 @@ The email translates Stage 4's punch list into a short, plain-English client com
 
 Email structure for this skill specifically:
 
-- Field block at top: DATE / TO / FROM / RE / MATTER (FROM should reflect the actual sending lane — the senior paralegal for routine pre-call paralegal communications, the paralegal for disco-only items, attorney for strategy items)
+- Field block at top: DATE / TO / FROM / RE / MATTER (FROM should reflect the actual sending lane — Marta Estevez for routine pre-call paralegal communications, Russ for disco-only items, attorney for strategy items)
 - Salutation
 - Two or three short paragraphs explaining what was drafted, what the biggest gap is, and what timeline the client should expect
 - A clearly labeled "TIME-SENSITIVE — please bring or send before [next call date]" section with numbered items and indented sub-bullets
@@ -144,7 +144,7 @@ Optionally also save PDF previews with the same filename and `.pdf` extension; t
 
 Update the discovery tracker (`lal-disco-tracker`) with the items being requested in the email and the date the request is going out. The tracker becomes the running record of what is outstanding.
 
-Hand-off rule: the paralegal or the senior paralegal completes this skill and routes BOTH outputs to the attorney via {{PM_SYSTEM}} for review. Nothing leaves the firm to the client without attorney sign-off.
+Hand-off rule: Russ or Marta Estevez completes this skill and routes BOTH outputs to the attorney via {{PM_SYSTEM}} for review. Nothing leaves the firm to the client without attorney sign-off.
 
 ## Pre-Filing Audit Checklist
 
@@ -217,3 +217,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

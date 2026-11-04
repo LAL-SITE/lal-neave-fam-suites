@@ -1,8 +1,8 @@
 # Mediation & Settlement — Advocate — Legal Authority Lab
 
-**Suite:** Mediation & Settlement — Advocate
-**List price:** $4,000
-**Version:** 1.0.1
+**Suite:** Mediation & Settlement — Advocate  
+**List price:** $4,000  
+**Version:** 1.0.1  
 **Publisher:** Legal Authority Lab — legalauthoritylab.com
 
 Advocate-side mediation: prep engine (ED chart, scenarios, proposals, mediator summary), live session command center, MSA drafting, parenting plan.

@@ -173,7 +173,7 @@ mismatched matter folders are how privileged content crosses between cases.
 
 > I cannot find a matter folder for this client in the bound storage. Either it has not been
 > created yet, or it is named differently than the configured pattern. Confirm with
-> `the intake coordinator` that the matter has been opened in `{{PM_SYSTEM}}` and that its folder
+> `Judith` that the matter has been opened in `{{PM_SYSTEM}}` and that its folder
 > exists, or paste the folder's location and I will use it.
 
 **Once resolved, the root locks for the session.** All operations run beneath it. This
@@ -295,7 +295,7 @@ Every skill that produces a deliverable saves through here.
 4. Never reuse a version number. Never overwrite. Never delete.
 ```
 
-The point of versioning is that `the senior paralegal` and `Angela R. Neave` can see
+The point of versioning is that `Marta Estevez` and `Angela R. Neave` can see
 iterations. An overwritten draft destroys the review record.
 
 **If the provider cannot list before writing** — some cannot, reliably — the matrix's
@@ -318,7 +318,7 @@ And tell the operator:
 
 > Saved: `<filename>` → <slot, in plain words>
 > <locator, where the provider supplies one>
-> `the senior paralegal` review required before this leaves the firm.
+> `Marta Estevez` review required before this leaves the firm.
 
 Where the provider supplies a clickable locator, always include it. Where it does not, say
 where the file is in words. Never report a save without saying where it landed.

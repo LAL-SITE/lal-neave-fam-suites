@@ -5,7 +5,7 @@ description: "Discovery output QC. Run after every discovery stage and before ou
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. discovery output quality control skill for the paralegal. Use this skill immediately after every discovery stage is complete and before any output moves up the staff lane. Triggers on: "QC this stage," "check my output," "review the memo," "is this ready for the senior paralegal," "QC the FA review," "check the crosscheck chart," "QC the income analysis," "review the gap chart," "check the ED chart," "is this stage done," "ready to send to the senior paralegal," or any request to review, check, or validate discovery stage output before it moves to the senior paralegal or Angela R. Neave. Also triggers automatically after any stage skill produces output — the paralegal should not advance to the next stage or send output up the lane without running this skill first. the paralegal fixes errors she can resolve herself. Substantive issues that require legal judgment generate a flagged memo that goes directly to the senior paralegal and Angela R. Neave. Always assign to the paralegal.
+Neave Family Law Group, P.A. discovery output quality control skill for Russ. Use this skill immediately after every discovery stage is complete and before any output moves up the staff lane. Triggers on: "QC this stage," "check my output," "review the memo," "is this ready for Marta Estevez," "QC the FA review," "check the crosscheck chart," "QC the income analysis," "review the gap chart," "check the ED chart," "is this stage done," "ready to send to Marta Estevez," or any request to review, check, or validate discovery stage output before it moves to Marta Estevez or Angela R. Neave. Also triggers automatically after any stage skill produces output — Russ should not advance to the next stage or send output up the lane without running this skill first. Russ fixes errors she can resolve herself. Substantive issues that require legal judgment generate a flagged memo that goes directly to Marta Estevez and Angela R. Neave. Always assign to Russ.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -36,40 +36,40 @@ below that conflicts with them.
 ---
 
 # Neave Family Law Group, P.A. Discovery Output Quality Control
-## Staff Lane: the paralegal | Runs After: Every Discovery Stage
-## Gates Before: Output moves to the senior paralegal or Angela R. Neave
+## Staff Lane: Russ | Runs After: Every Discovery Stage
+## Gates Before: Output moves to Marta Estevez or Angela R. Neave
 
-This skill is the paralegal's mandatory QC gate. Every discovery stage output —
+This skill is Russ's mandatory QC gate. Every discovery stage output —
 Stage 2 through Stage 8 — gets checked here before it moves up the lane.
-the paralegal either fixes it herself or generates a flagged memo for the senior paralegal and Angela R. Neave.
+Russ either fixes it herself or generates a flagged memo for Marta Estevez and Angela R. Neave.
 Nothing advances without clearing this gate.
 
 ---
 
 ## HOW THIS SKILL WORKS
 
-When the paralegal triggers this skill, she pastes or references the stage output
+When Russ triggers this skill, she pastes or references the stage output
 to be reviewed and identifies which stage it is. Claude runs the applicable
-QC checklist for that stage, categorizes every issue found, and tells the paralegal
+QC checklist for that stage, categorizes every issue found, and tells Russ
 exactly what to do with each one.
 
 **Two outcome categories:**
 
-**the paralegal Fixes** — Naming errors, math errors, missing party details, wrong
+**Russ Fixes** — Naming errors, math errors, missing party details, wrong
 dates, formatting problems, 12.285 category mismatches, incomplete fields,
-unclear language. the paralegal corrects and reruns the stage output before sending up.
+unclear language. Russ corrects and reruns the stage output before sending up.
 
-**Flagged Memo to the senior paralegal and Angela R. Neave** — Substantive inconsistencies between the
+**Flagged Memo to Marta Estevez and Angela R. Neave** — Substantive inconsistencies between the
 FA and documents, income figures that don't reconcile, undisclosed accounts,
 asset or liability discrepancies that affect case value, anything requiring
-legal judgment or attorney strategy input. the paralegal cannot resolve these — they
+legal judgment or attorney strategy input. Russ cannot resolve these — they
 go up immediately.
 
 ---
 
 ## STEP 1 — IDENTIFY THE STAGE
 
-the paralegal confirms which stage output is being reviewed:
+Russ confirms which stage output is being reviewed:
 
 - Stage 2 — Case Summary Memo
 - Stage 3 — FA Preliminary Review Memo (Client or OP)
@@ -79,7 +79,7 @@ the paralegal confirms which stage output is being reviewed:
 - Stage 8 — ED Chart and/or Equalizer
 - Final Output — Any compiled output going to attorney for case strategy
 
-If the stage is unclear, ask the paralegal before running the checklist.
+If the stage is unclear, ask Russ before running the checklist.
 
 ---
 
@@ -96,7 +96,7 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | Internal consistency | Figures cited in narrative match figures in charts — no mismatches between sections |
 | Attorney review flag | Output carries the standard internal work product disclaimer — not for filing, not for client distribution without attorney approval |
 | Completeness | No sections left blank, no "[TBD]" or "[INSERT]" placeholders remaining |
-| {{PM_SYSTEM}} time | the paralegal has logged time for this stage in {{PM_SYSTEM}} before QC runs |
+| {{PM_SYSTEM}} time | Russ has logged time for this stage in {{PM_SYSTEM}} before QC runs |
 
 ---
 
@@ -126,8 +126,8 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | 12.285 checklist cross-referenced | What the FA covers vs. what Rule 12.285 requires — gaps noted |
 | No documents compared yet | Stage 3 is FA-only — if document comparison crept in, flag it |
 
-**the paralegal Fixes:** Math errors, blank field flags, formatting issues, naming errors.
-**Flagged to the senior paralegal and Angela R. Neave:** Income figures that appear implausible, lifestyle-income mismatch, sections left blank that should have entries, any pattern suggesting incomplete or inaccurate disclosure.
+**Russ Fixes:** Math errors, blank field flags, formatting issues, naming errors.
+**Flagged to Marta Estevez and Angela R. Neave:** Income figures that appear implausible, lifestyle-income mismatch, sections left blank that should have entries, any pattern suggesting incomplete or inaccurate disclosure.
 
 ---
 
@@ -135,7 +135,7 @@ If the stage is unclear, ask the paralegal before running the checklist.
 
 | Check | What to Verify |
 |---|---|
-| Every uploaded document accounted for | Each document the paralegal uploaded appears in the chart — no document reviewed without a chart entry |
+| Every uploaded document accounted for | Each document Russ uploaded appears in the chart — no document reviewed without a chart entry |
 | FA figures vs. document figures | Each row correctly states what the FA claims and what the document shows |
 | Status column accurate | Present / Partial / Missing — correctly assigned to each row |
 | Discrepancies described precisely | Not "income differs" but "FA states $5,200/mo gross; W-2 shows $67,000 annual ($5,583/mo) — $383/mo variance" |
@@ -143,8 +143,8 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | Rolling batch notation | If chart was built across multiple batches, all batches reflected |
 | No legal conclusions in chart | Chart states facts and discrepancies only — strategy belongs to attorney |
 
-**the paralegal Fixes:** Missing chart rows, incorrect status assignments, incomplete descriptions, naming errors.
-**Flagged to the senior paralegal and Angela R. Neave:** Income that does not reconcile across documents, accounts appearing in bank records not disclosed on FA, deposit patterns inconsistent with stated income, asset values that differ materially between FA and documents.
+**Russ Fixes:** Missing chart rows, incorrect status assignments, incomplete descriptions, naming errors.
+**Flagged to Marta Estevez and Angela R. Neave:** Income that does not reconcile across documents, accounts appearing in bank records not disclosed on FA, deposit patterns inconsistent with stated income, asset values that differ materially between FA and documents.
 
 ---
 
@@ -161,8 +161,8 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | No child support or alimony calculation | Income analysis does not calculate guideline amounts — that is attorney function |
 | Documents supporting each figure cited | Every income figure traceable to a specific document |
 
-**the paralegal Fixes:** Missing citations, calculation errors, incomplete year coverage, formatting.
-**Flagged to the senior paralegal and Angela R. Neave:** Income figures that cannot be reconciled across sources, unexplained deposit patterns, significant year-over-year variance without explanation, business income that appears understated, rental income with no supporting documentation.
+**Russ Fixes:** Missing citations, calculation errors, incomplete year coverage, formatting.
+**Flagged to Marta Estevez and Angela R. Neave:** Income figures that cannot be reconciled across sources, unexplained deposit patterns, significant year-over-year variance without explanation, business income that appears understated, rental income with no supporting documentation.
 
 ---
 
@@ -178,8 +178,8 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | Advanced discovery recommendations present | Specific items — not vague — that need interrogatories, RFPs, or subpoenas |
 | Stage 4 and 5 completion confirmed | Gap chart does not run until both parties' Stage 4 is complete |
 
-**the paralegal Fixes:** Missing rows, incorrect status, formatting, naming errors.
-**Flagged to the senior paralegal and Angela R. Neave:** Undisclosed accounts or assets, cross-party FA conflicts that affect case value, income discrepancies that change support or alimony exposure, patterns suggesting intentional non-disclosure.
+**Russ Fixes:** Missing rows, incorrect status, formatting, naming errors.
+**Flagged to Marta Estevez and Angela R. Neave:** Undisclosed accounts or assets, cross-party FA conflicts that affect case value, income discrepancies that change support or alimony exposure, patterns suggesting intentional non-disclosure.
 
 ---
 
@@ -191,13 +191,13 @@ If the stage is unclear, ask the paralegal before running the checklist.
 | Every identified liability has a row | All debts from both FAs and documents captured |
 | Values sourced | Each value tied to a document — no unsourced figures |
 | Disputed values flagged | Items where parties disagree on value clearly marked as disputed |
-| Marital vs. non-marital column blank or attorney-flagged | the paralegal does not classify — attorney does; column left for attorney input |
+| Marital vs. non-marital column blank or attorney-flagged | Russ does not classify — attorney does; column left for attorney input |
 | Equalizer math checked | If equalizer was run — total assets, total liabilities, net equity, equalization payment all verified |
 | Scenario modeling labeled | Each scenario clearly labeled — not mixed together |
 | No settlement recommendations | Chart presents data — attorney makes the call |
 
-**the paralegal Fixes:** Missing rows, math errors, unsourced values, formatting, naming.
-**Flagged to the senior paralegal and Angela R. Neave:** Assets with no supporting documentation, liabilities that appear on one FA but not the other, business interests with no valuation support, equalization numbers that shift significantly across scenarios without explanation.
+**Russ Fixes:** Missing rows, math errors, unsourced values, formatting, naming.
+**Flagged to Marta Estevez and Angela R. Neave:** Assets with no supporting documentation, liabilities that appear on one FA but not the other, business interests with no valuation support, equalization numbers that shift significantly across scenarios without explanation.
 
 ---
 
@@ -207,37 +207,37 @@ After running the checklist, deliver one of two outcomes:
 
 ---
 
-### OUTCOME A — the paralegal FIXES
+### OUTCOME A — Russ FIXES
 
-List every issue found in plain language. Tell the paralegal exactly what to fix
+List every issue found in plain language. Tell Russ exactly what to fix
 and where. Keep it direct — one line per issue.
 
 ```
 QC RESULT — [Stage Name] — [Party if applicable] — [Date]
 Matter: [Case Name]
 
-STATUS: NEEDS CORRECTION — the paralegal to fix before sending up
+STATUS: NEEDS CORRECTION — Russ to fix before sending up
 
 CORRECTIONS REQUIRED:
 1. [Specific issue — exactly what is wrong and what the correct version is]
 2. [Next issue]
-3. [Continue for all the paralegal-level fixes]
+3. [Continue for all Russ-level fixes]
 
-After corrections are made, rerun this QC check before sending to the senior paralegal.
+After corrections are made, rerun this QC check before sending to Marta Estevez.
 Log correction time in {{PM_SYSTEM}}.
 ```
 
 ---
 
-### OUTCOME B — FLAGGED MEMO TO the senior paralegal AND Angela R. Neave
+### OUTCOME B — FLAGGED MEMO TO Marta Estevez AND Angela R. Neave
 
-Generate a flagged memo the paralegal sends directly to the senior paralegal and Angela R. Neave in {{PM_SYSTEM}}.
+Generate a flagged memo Russ sends directly to Marta Estevez and Angela R. Neave in {{PM_SYSTEM}}.
 The memo attaches or references the stage output with the issues highlighted.
 
 ```
 DISCOVERY QC FLAG MEMO
-TO:     the senior paralegal / Angela R. Neave
-FROM:   the paralegal
+TO:     Marta Estevez / Angela R. Neave
+FROM:   Russ
 DATE:   [Date]
 RE:     [Case Name] — [Stage Name] QC Flag — Attorney Review Required
 MATTER: [{{PM_SYSTEM}} Matter Name]
@@ -256,16 +256,16 @@ What attorney review should address: [Specific question for Angela R. Neave]
 Issue 2 — [Repeat structure for each flagged issue]
 
 STAGE OUTPUT STATUS: On hold pending attorney review.
-the paralegal will not advance to the next stage until the senior paralegal or Angela R. Neave clears this flag.
+Russ will not advance to the next stage until Marta Estevez or Angela R. Neave clears this flag.
 
-Time logged in {{PM_SYSTEM}}: [Yes / No — the paralegal confirms before sending]
+Time logged in {{PM_SYSTEM}}: [Yes / No — Russ confirms before sending]
 ```
 
 ---
 
 ### OUTCOME C — QC PASS
 
-If no issues are found, confirm clearly so the paralegal can advance.
+If no issues are found, confirm clearly so Russ can advance.
 
 ```
 QC RESULT — [Stage Name] — [Party if applicable] — [Date]
@@ -274,7 +274,7 @@ Matter: [Case Name]
 STATUS: PASS — Ready to advance
 
 No issues found. Output is consistent, complete, and accurate against
-the documents in the record. the paralegal may send to the senior paralegal and advance to the
+the documents in the record. Russ may send to Marta Estevez and advance to the
 next stage.
 
 Log completion in {{PM_SYSTEM}} before closing this session.
@@ -284,22 +284,22 @@ Log completion in {{PM_SYSTEM}} before closing this session.
 
 ## GUARDRAILS
 
-the paralegal does not advance to the next stage until this skill produces either
+Russ does not advance to the next stage until this skill produces either
 a PASS or a confirmed CORRECTIONS COMPLETE result. A stage that has not
 cleared QC does not move up the lane regardless of time pressure.
 
-the paralegal does not resolve flagged items herself. If an issue requires legal
-judgment it goes to the senior paralegal and Angela R. Neave immediately — the paralegal does not interpret,
+Russ does not resolve flagged items herself. If an issue requires legal
+judgment it goes to Marta Estevez and Angela R. Neave immediately — Russ does not interpret,
 speculate, or attempt to explain the discrepancy in the output.
 
-the paralegal does not send flagged output to the client or opposing counsel under
+Russ does not send flagged output to the client or opposing counsel under
 any circumstances. Flagged output is internal work product on hold.
 
-All time — including QC time — is logged in {{PM_SYSTEM}} before the paralegal closes
+All time — including QC time — is logged in {{PM_SYSTEM}} before Russ closes
 the session. QC is billable work. It does not get skipped to save time.
 
 If the same type of error appears repeatedly across stages on the same
-matter, the paralegal notes the pattern in the flag memo so the senior paralegal and Angela R. Neave can
+matter, Russ notes the pattern in the flag memo so Marta Estevez and Angela R. Neave can
 assess whether it reflects a systemic documentation issue.
 
 ---
@@ -351,3 +351,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

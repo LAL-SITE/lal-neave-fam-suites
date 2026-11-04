@@ -12,7 +12,7 @@ this goes out — sending with placeholder links is the single most common
 onboarding error in the source library.
 
 Sequencing observed: retainer transmittal (attorney) → welcome / engagement
-(the paralegal, within 24h) → portal & upload setup (within 48h) → intake
+(Russ, within 24h) → portal & upload setup (within 48h) → intake
 call prep (within 24h of the call being scheduled).
 
 ## Required structure
@@ -28,7 +28,7 @@ call prep (within 24h of the call being scheduled).
 9. HOW WE WORK — communication rules and escalation path
 10. Scope reminder tied back to the signed agreement
 11. Firm promise line
-12. Signature block (the paralegal signs, not the attorney)
+12. Signature block (Russ signs, not the attorney)
 
 ## Subject line bank
 
@@ -60,7 +60,7 @@ convention is legible in a threaded mailbox; the master convention is safer.
 > Welcome to Neave Family Law Group, P.A.. Your file is open and we are ready to go.
 > Your case is: [CONFIRM LOCALLY: matter type and division label as the clerk
 > styles it, e.g. Dissolution of Marriage — {{COUNTY}} County]. Your attorney is
-> Angela R. Neave, Esq. I am the paralegal, who will be
+> Angela R. Neave, Esq. I am Russ, who will be
 > managing your documents and keeping your file moving.
 
 **Situation: portal / upload tooling setup, sent as a companion**
@@ -89,12 +89,12 @@ convention is legible in a threaded mailbox; the master convention is safer.
 with the client's experience rather than with file status, and it names the
 emotional register ("what can often feel like chaos") before any logistics.
 
-**Situation: the paralegal's first contact, portal invitation (matter-sourced)**
+**Situation: Russ's first contact, portal invitation (matter-sourced)**
 > Good afternoon,
-> I am the paralegal, handling your case moving forward. Your
+> I am Russ, handling your case moving forward. Your
 > case has been fully onboarded with us. Therefore, I wanted to introduce myself
 > and send you this Welcome to your portal! email.
-[matter-sourced] — the paralegal introduces themselves before giving instructions.
+[matter-sourced] — Russ introduces themselves before giving instructions.
 Time-of-day greeting rather than a name salutation.
 
 ## Body modules
@@ -110,7 +110,7 @@ by what it is.
 > • Review case notes, upcoming deadlines, and invoices.
 >
 > Important: Check your spam or junk folder if you don't see the email within 24
-> hours. If you have any issues logging in, contact the intake coordinator at
+> hours. If you have any issues logging in, contact Judith at
 > aneave@neavefamilylaw.com or call (954) 981-2200.
 [matter-sourced] — the spam-folder line pre-empts the most common onboarding
 failure. Login trouble routes to the intake role, not the drafting role.
@@ -123,7 +123,7 @@ failure. Login trouble routes to the intake role, not the drafting role.
 >   complete electronically.
 > • Instructions for your mandatory disclosure documents and any other required
 >   uploads.
-> • An introduction to your the paralegal and your Angela R. Neave (if not
+> • An introduction to your Russ and your Angela R. Neave (if not
 >   already provided).
 >
 > Once these items are completed, our team can begin actively working on your
@@ -264,7 +264,7 @@ category, never a single combined link.
 > • If something urgent comes up — a legal deadline, the other party taking
 >   action, anything unexpected — call the office directly. Do not wait for a
 >   portal message.
-> • Your attorney is Angela R. Neave. I (the paralegal) am your day-to-day
+> • Your attorney is Angela R. Neave. I (Russ) am your day-to-day
 >   contact for documents, status updates, and intake.
 > • Your case moves at the speed of your documents. The faster we have what we
 >   need, the faster Angela R. Neave can move your case forward.
@@ -340,14 +340,14 @@ expect, how to prepare, maximizing the call, what you will leave with.
   Buyers must supply their own or delete; do not ship a borrowed tagline.
   [matter-sourced]
 - `Please advise if you have any questions, looking forward to working with you.`
-  [matter-sourced] — the paralegal's standard close on the live welcome email.
+  [matter-sourced] — Russ's standard close on the live welcome email.
 
 ## Signature block
 
-The welcome message is signed by the paralegal, NOT Angela R. Neave. The attorney
+The welcome message is signed by Russ, NOT Angela R. Neave. The attorney
 sends a separate signed transmittal. This split is deliberate.
 
-> the paralegal
+> Russ
 > aneave@neavefamilylaw.com
 > (954) 981-2200
 > Neave Family Law Group, P.A.
@@ -424,7 +424,7 @@ Additional notes from the matter-sourced letters and emails:
 - The single matter-specific question for step 2.
 - Priority document tiers — vary by matter type and by what the division requires
   early.
-- Whether the paralegal or Angela R. Neave signs the welcome message in the buyer's
+- Whether Russ or Angela R. Neave signs the welcome message in the buyer's
   practice.
 - Local intake form set and whether it is provisioned pre- or post-signature.
 - Whether the buyer runs one upload destination or three.
@@ -443,7 +443,7 @@ structural holes closed since the first pass:
 - The first pass harvested no matter-level instances. This pass recovered live
   sent correspondence from four distinct matters: two formal welcome letters
   (byte-equivalent to each other — deduplicated to one variant), and two
-  the paralegal-authored welcome email threads.
+  Russ-authored welcome email threads.
 - Recovered and specified nine matter-sourced modules absent from the masters:
   portal-access-what-it-does, first-few-days-inventory, firm-process-team-framing,
   why-the-portal-three-reasons, general-timeline-banded,

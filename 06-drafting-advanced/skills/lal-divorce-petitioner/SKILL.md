@@ -66,14 +66,14 @@ Ask if unclear:
 ## PHASE 1A — INTAKE & ONBOARDING (New Case)
 
 ### Documents to Gather at Intake
-- [ ] Intake questionnaire (from the intake coordinator/{{PM_SYSTEM}} portal)
+- [ ] Intake questionnaire (from Judith/{{PM_SYSTEM}} portal)
 - [ ] Call transcript or Angela R. Neave's strategy call notes
 - [ ] Any prior court documents client has
 - [ ] ID / proof of residency (if residency not obvious)
 - [ ] Marriage certificate (for records)
 
 ### Staff Tasks
-**the intake coordinator** — runs immediately after retainer signed + paid:
+**Judith** — runs immediately after retainer signed + paid:
 - [ ] Run `lal-retainer-builder` → match to correct contract type
   - Full Representation (hourly) | Limited Scope | Flat Fee | DIY Coaching
 - [ ] Convert lead to active matter in {{PM_SYSTEM}}
@@ -81,7 +81,7 @@ Ask if unclear:
 - [ ] Send portal welcome + intake forms
 - [ ] Stage: INTAKE
 
-**the senior paralegal** — after the intake coordinator completes:
+**Marta Estevez** — after Judith completes:
 - [ ] Run `lal-onboarding` → produces Case Memo + Welcome Email
 - [ ] Confirm venue / county (where client lives OR where OP lives if different)
 - [ ] Confirm residency: 6 months in Florida required; 6 months in county for venue
@@ -100,7 +100,7 @@ Ask if unclear:
 
 When Neave Family Law Group, P.A. is picking up a case already on the docket:
 
-**the senior paralegal — Day 1:**
+**Marta Estevez — Day 1:**
 - [ ] Download full docket from clerk's portal (eCourt / Odyssey for county)
 - [ ] Identify all filed documents chronologically
 - [ ] Identify pending deadlines (discovery cutoffs, hearing dates, CMO dates)
@@ -112,7 +112,7 @@ When Neave Family Law Group, P.A. is picking up a case already on the docket:
 - [ ] Review docket summary
 - [ ] Confirm case direction: contested / uncontested / mediation scheduled
 - [ ] Determine what has been served and what is outstanding
-- [ ] Issue task list → the senior paralegal and the paralegal
+- [ ] Issue task list → Marta Estevez and Russ
 
 → After review, route to the correct **Phase** below based on where the case stands.
 
@@ -287,7 +287,7 @@ OP has filed a response, disputes any issue, or attorney confirms contest.
 | Stage 7 | Case-wide discovery gap analysis | `lal-discovery-gap` |
 | Stage 8 | ED chart + Equalizer model | `lal-ed-chart` |
 
-the paralegal runs Stages 2–8. Discovery does not pause for mediation.
+Russ runs Stages 2–8. Discovery does not pause for mediation.
 
 ### Advanced Discovery (if needed)
 Run `lal-advanced-discovery` when:
@@ -409,7 +409,7 @@ All schedules subject to holiday/vacation overlay — draft separately.
 - [ ] UCCJEA filed (if children)
 - [ ] Case track confirmed with Angela R. Neave (uncontested / contested / default)
 - [ ] OP served OR Answer/Waiver obtained
-- [ ] Discovery scope confirmed (the paralegal)
+- [ ] Discovery scope confirmed (Russ)
 - [ ] MSA/PP drafted and approved (uncontested) OR discovery commenced (contested)
 - [ ] Mediation completed (if applicable)
 - [ ] Final Judgment drafted and reviewed
@@ -508,3 +508,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

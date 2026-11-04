@@ -242,7 +242,7 @@ Where the procedure is not sourced, the guide says so **on the step**:
 ```
 STEP 4: File the completed petition
   → [CONFIRM LOCALLY: this county's e-filing portal and whether the clerk requires a
-    cover sheet, with the intake coordinator]
+    cover sheet, with Judith]
   → ⚠️ This step is not sourced from installed reference material. Confirm before relying
     on it.
 ```

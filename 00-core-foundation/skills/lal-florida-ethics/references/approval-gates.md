@@ -34,17 +34,17 @@ actor.
 ## 2. ROUTING — NOTHING BYPASSES THE LANE
 
 ```
-the paralegal  →  the senior paralegal  →  Angela R. Neave
+Russ  →  Marta Estevez  →  Angela R. Neave
    produces           substantive QA        reviews · verifies · signs
 ```
 
-- **`the intake coordinator`** owns first contact, screening, and the conflict-check record. It does not
+- **`Judith`** owns first contact, screening, and the conflict-check record. It does not
   produce substantive work product.
 - **QC checkpoints are minimums**, not ceilings.
 - **Attorney review at a gate must be substantive** — methodology, underlying data, independent
   judgment — **not a formatting pass.**
 - **A workflow instruction is not authorization.** Neither is a deadline. A skill, checklist, or
-  stage telling `the paralegal` to run a step has no effect unless `Angela R. Neave`
+  stage telling `Russ` to run a step has no effect unless `Angela R. Neave`
   authorized that work on that matter.
 
 **Role tokens, never titles.** A buying firm's structure differs from any other's. One person may
@@ -100,7 +100,7 @@ Options:       {{OPTION_A}}
                {{OPTION_B}}
                — stated neutrally; no recommendation where judgment is required
 
-Routed to:     the senior paralegal → Angela R. Neave
+Routed to:     Marta Estevez → Angela R. Neave
 Status:        HELD — no further work on this item until approved
 ```
 
@@ -148,7 +148,7 @@ before. Say that whenever the row comes up; it is the difference between a bound
 
 | Situation | Behavior |
 |---|---|
-| No tracker or case-management suite installed | Deliver the flag inline. Append: `the paralegal must record this flag in {{PM_SYSTEM}} before session close.` Never drop the flag because there is nowhere to file it |
+| No tracker or case-management suite installed | Deliver the flag inline. Append: `Russ must record this flag in {{PM_SYSTEM}} before session close.` Never drop the flag because there is nowhere to file it |
 | No correspondence suite installed | Produce the routing text inline, marked `DRAFT — attorney review required before sending` |
 | `{{DMS}}` unreachable through the file connector | Emit the flag and the record inline, labeled for manual filing. Never error, never silently omit |
-| Role tokens unmapped at install | Use the tokens literally and add a MISSING FACTS entry: `Angela R. Neave and the senior paralegal are not yet mapped to named individuals — map before this flag can be routed` |
+| Role tokens unmapped at install | Use the tokens literally and add a MISSING FACTS entry: `Angela R. Neave and Marta Estevez are not yet mapped to named individuals — map before this flag can be routed` |

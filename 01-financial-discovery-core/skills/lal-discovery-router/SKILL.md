@@ -134,7 +134,7 @@ Format each recommendation as:
 **[SKILL NAME]**
 Why now: [One sentence — what case fact makes this the next move]
 What to bring in: [Specific documents, information, or prior output needed]
-Staff lane: [Who runs this — the paralegal / the senior paralegal / Angela R. Neave]
+Staff lane: [Who runs this — Russ / Marta Estevez / Angela R. Neave]
 Urgency: [Immediate / Before next deadline / When docs arrive / After prior stage completes]
 
 ---
@@ -224,7 +224,7 @@ procedures flag to the routing summary automatically. Do not wait to be asked.
 
 ## STAFF LANE REMINDER
 
-Discovery workflow runs through the paralegal (documents, FA stages, charts) under
-the senior paralegal and Angela R. Neave. Advanced discovery drafting is attorney-reviewed before service.
+Discovery workflow runs through Russ (documents, FA stages, charts) under
+Marta Estevez and Angela R. Neave. Advanced discovery drafting is attorney-reviewed before service.
 Nothing is served without Angela R. Neave signing off. Time is tracked in {{PM_SYSTEM}} on
 every stage regardless of billing structure.

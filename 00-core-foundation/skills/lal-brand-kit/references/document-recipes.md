@@ -225,6 +225,6 @@ document grants or limits.
 - [ ] No storage provider, path, site, tenant, or unsupplied URL anywhere.
 - [ ] No `Click here to enter text.` and no `XXXXXXXX`.
 - [ ] Every unresolved curly token listed in the handoff note, not guessed.
-- [ ] `the senior paralegal` review before advancing; `Angela R. Neave`
+- [ ] `Marta Estevez` review before advancing; `Angela R. Neave`
       approval before anything leaves.
 - [ ] Work logged in `{{PM_SYSTEM}}`.

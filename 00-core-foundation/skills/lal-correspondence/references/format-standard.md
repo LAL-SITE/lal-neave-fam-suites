@@ -25,7 +25,7 @@ buyer's own letterhead must satisfy; it is a specification, not a thing to rende
 ### 2.1 The letter letterhead block
 
 - **Position:** top of page one, above the date.
-- **Contains:** firm name; `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL`; `(954) 981-2200`; `aneave@neavefamilylaw.com`. A firm website
+- **Contains:** firm name; `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308`; `(954) 981-2200`; `aneave@neavefamilylaw.com`. A firm website
   line is optional and buyer-supplied.
   `[CONFIRM LOCALLY: whether the firm's letterhead carries a website line, and its exact form]`
 - **Continuation pages:** per the buyer's own template. The source library shows no continuation
@@ -40,7 +40,7 @@ An email has no letterhead. The firm's standard email signature block applies, a
 its position the same way.
 
 Observed live email blocks carry: signer, firm name, `aneave@neavefamilylaw.com`, `(954) 981-2200`,
-`2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL`, and a confidentiality footer. Social handles and website links appeared in one
+`2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308`, and a confidentiality footer. Social handles and website links appeared in one
 source and are **stripped** — no handle and no link ships.
 
 ### 2.3 What is never generated
@@ -279,9 +279,9 @@ Signer is set by the sub-type, in the spec, deliberately. Never substitute.
 |---|---|
 | Attorney, counsel-facing or bench | `Angela R. Neave, Esq.` / `Florida Bar No. {{BAR_NO}}` / `aneave@neavefamilylaw.com` |
 | Attorney, client-facing | `Angela R. Neave` / `Neave Family Law Group, P.A.` — bar number optional per firm practice |
-| Staff-signed client email | `the paralegal` / `aneave@neavefamilylaw.com` / `(954) 981-2200` / `Neave Family Law Group, P.A.` |
-| Staff-signed assistant email | `the paralegal` / `Neave Family Law Group, P.A.` / `aneave@neavefamilylaw.com` / `(954) 981-2200` / `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL` / confidentiality footer |
-| Executed-letter full block | `Neave Family Law Group, P.A.` / `By:` signature rule / `Angela R. Neave` / `Florida Bar No. {{BAR_NO}}` / `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL` / `(954) 981-2200` / `Service E-Mail: aneave@neavefamilylaw.com` |
+| Staff-signed client email | `Russ` / `aneave@neavefamilylaw.com` / `(954) 981-2200` / `Neave Family Law Group, P.A.` |
+| Staff-signed assistant email | `Russ` / `Neave Family Law Group, P.A.` / `aneave@neavefamilylaw.com` / `(954) 981-2200` / `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308` / confidentiality footer |
+| Executed-letter full block | `Neave Family Law Group, P.A.` / `By:` signature rule / `Angela R. Neave` / `Florida Bar No. {{BAR_NO}}` / `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308` / `(954) 981-2200` / `Service E-Mail: aneave@neavefamilylaw.com` |
 | Two appearing attorneys | Both blocks, joined by `and`. The count follows who appeared, not house style |
 | Court-appointed neutral | `Angela R. Neave` over the role line. The role line is load-bearing |
 | Instrument | Dual — consenting party above, neutral below, each over a signature rule |

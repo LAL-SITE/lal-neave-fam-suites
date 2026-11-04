@@ -48,7 +48,7 @@ basis of a failed read.
 
 **Role assignments are defaults, not gates.** Anyone may run any skill.
 
-The role tokens — `the paralegal`, `the senior paralegal`, `Angela R. Neave`, `the intake coordinator`
+The role tokens — `Russ`, `Marta Estevez`, `Angela R. Neave`, `Judith`
 — describe *who owns an output by default in a typical install*. They do not describe who is
 permitted to invoke a skill. A firm of one person maps all four tokens to that person. A firm of
 forty maps them to four groups. Both are correct installs.
@@ -78,7 +78,7 @@ Everything else — "route to the attorney," "escalate for review," "get sign-of
 when the approving attorney is the one asking.
 
 **Never state a job title.** Buyer org charts differ and a title asserted in an output is wrong
-somewhere. Write `the paralegal`, not a title. This applies to generated documents, signature
+somewhere. Write `Russ`, not a title. This applies to generated documents, signature
 blocks, and the skill's own conversational output.
 
 ---
@@ -211,10 +211,10 @@ Two classes, both curly. There are no bracket-style placeholders anywhere in any
 
 **Install-time** — resolved once, when the buyer installs:
 
-`Neave Family Law Group, P.A.` · `Angela R. Neave` · `{{BAR_NO}}` · `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL` · `(954) 981-2200` ·
+`Neave Family Law Group, P.A.` · `Angela R. Neave` · `{{BAR_NO}}` · `2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308` · `(954) 981-2200` ·
 `aneave@neavefamilylaw.com` · `{{PM_SYSTEM}}` · `{{DMS}}` · `{{RESEARCH_PROVIDER}}` · `{{UPLOAD_PORTAL}}` ·
-`{{PAYMENT_PROCESSOR}}` · `{{ESIGN_TOOL}}` · `the paralegal` · `the senior paralegal` ·
-`Angela R. Neave` · `the intake coordinator`
+`{{PAYMENT_PROCESSOR}}` · `{{ESIGN_TOOL}}` · `Russ` · `Marta Estevez` ·
+`Angela R. Neave` · `Judith`
 
 **Draft-time** — resolved per matter, per document. **Also curly. This is a deliberate ruling,
 not an oversight:** a single token syntax means one lint rule catches every unresolved

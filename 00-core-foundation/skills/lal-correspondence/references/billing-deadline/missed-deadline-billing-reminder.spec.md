@@ -414,7 +414,7 @@ Neave Family Law Group, P.A.
 Letterhead block above the date, as used:
 ```
 Neave Family Law Group, P.A.
-2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL
+2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308
 Tel: (954) 981-2200 | [CONFIRM LOCALLY: firm website]
 aneave@neavefamilylaw.com
 ```
@@ -537,7 +537,7 @@ This is the most distinctive voice in the whole harvest. Preserve it precisely.
 - [CONFIRM LOCALLY: approved parenting-class providers for this circuit, and whether the clerk requires a specific certificate form]
 - [CONFIRM LOCALLY: whether this division sets a mandatory disclosure deadline by order, and whether that date should appear in the letter]
 - [CONFIRM LOCALLY: {{PM_SYSTEM}} time-entry codes for correspondence drafting vs. document review]
-- [CONFIRM LOCALLY: who signs a document chase — attorney or the paralegal under attorney review]
+- [CONFIRM LOCALLY: who signs a document chase — attorney or Russ under attorney review]
 - [CONFIRM LOCALLY: whether client correspondence carries the bar number, the title, or both — with Angela R. Neave]
 - [CONFIRM LOCALLY: whether the firm's flat fee is in fact earned upon receipt under its own fee agreement]
 - [CONFIRM LOCALLY: whether the firm wants an hourly-equivalent value comparison in fee correspondence at all — with Angela R. Neave]

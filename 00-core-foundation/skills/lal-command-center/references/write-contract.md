@@ -37,7 +37,7 @@ when you can see they are wrong — for that, see rule 4.
 | `position.roadmapVersion` | A case-plan or roadmap skill, if installed |
 | `deadlines[]` | Any skill that computes or discharges a deadline in its own lane |
 | `deadlines[].status` → `waived` | `Angela R. Neave` decisions only |
-| `deadlines[].authorityVerified` → `verified-by-role` | `the senior paralegal` or `Angela R. Neave` only |
+| `deadlines[].authorityVerified` → `verified-by-role` | `Marta Estevez` or `Angela R. Neave` only |
 | `ledger[]` | Every writer, on every write |
 | `flags[]` — raising | Any skill |
 | `flags[]` — resolving | Only per the severity table in rule 5 |
@@ -86,7 +86,7 @@ by way of a `correction` ledger entry naming the entry you are correcting.
 | Severity | May be closed by |
 |---|---|
 | `informational` | Any role |
-| `attorney-review` | `the senior paralegal` may triage; `Angela R. Neave` closes |
+| `attorney-review` | `Marta Estevez` may triage; `Angela R. Neave` closes |
 | `urgent` | `Angela R. Neave` only |
 | `jurisdictional-risk` | `Angela R. Neave` only |
 

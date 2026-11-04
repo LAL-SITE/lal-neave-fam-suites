@@ -128,7 +128,7 @@ One object per deadline. This is the highest-consequence structure in the schema
 | `id` | string | Y | stable, unique | Never reused. |
 | `label` | string | Y | — | Plain-language name a person recognizes on a calendar. |
 | `authority` | string | Y | — | The rule, statute, or order that creates the deadline. Cite the instrument, not a summary of it. An order is cited as the order (title and date), not as the rule the order was entered under. |
-| `authorityVerified` | enum | Y | `unverified` · `verified-by-role` | Starts `unverified`. Only `the senior paralegal` or `Angela R. Neave` may set `verified-by-role`, and only after reading current rule text. The verify warning is displayed regardless. |
+| `authorityVerified` | enum | Y | `unverified` · `verified-by-role` | Starts `unverified`. Only `Marta Estevez` or `Angela R. Neave` may set `verified-by-role`, and only after reading current rule text. The verify warning is displayed regardless. |
 | `computedFrom` | object | Y | § 4.1 | The triggering event. |
 | `computationBasis` | string | Y | — | The counting rule actually applied, in enough detail to be re-checked: the stated period, whether it was under 7 days, how the last day was handled, and whether any days were added for the service method. Free text on purpose — a code cannot capture "last day fell on a clerk-observed closure." |
 | `dueDate` | date \| null | Y | — | `null` only when `status` is `uncomputable`. |
@@ -136,7 +136,7 @@ One object per deadline. This is the highest-consequence structure in the schema
 | `jurisdictional` | enum | Y | `yes` · `no` · `unknown` | Whether missing it may forfeit a right, defense, or the court's ability to act. `unknown` requires a flag. |
 | `extendable` | enum | Y | `yes` · `no` · `only-before-expiry` · `unknown` | Whether the period can be enlarged, and when. |
 | `selfExecuting` | boolean | N | — | `true` where the consequence of missing it attaches automatically without any motion by the other side. Surfaces separately in reporting. |
-| `ownerRole` | enum | Y | `the intake coordinator` · `the paralegal` · `the senior paralegal` · `Angela R. Neave` · `client` | Role tokens only. Never a person. |
+| `ownerRole` | enum | Y | `Judith` · `Russ` · `Marta Estevez` · `Angela R. Neave` · `client` | Role tokens only. Never a person. |
 | `status` | enum | Y | `open` · `satisfied` · `extended` · `waived` · `missed` · `superseded` · `uncomputable` · `not-applicable` | See § 4.2. |
 | `satisfiedBy` | string \| null | C | — | Required when `status` is `satisfied`. What discharged it, and its date. |
 | `warnings` | array of date | N | — | The T-14 / T-7 / T-3 ladder. Internal control, not a rule requirement. |

@@ -208,7 +208,7 @@ What to establish, in order:
    [CONFIRM LOCALLY: the exception period, the required form of exceptions, and whether a hearing on
    exceptions must be separately requested — with the judicial assistant and with Angela R. Neave]
    Operationally: the day a report and recommendation is received, calendar the deadline, notify
-   the senior paralegal and Angela R. Neave the same day, and open the exceptions question — do not
+   Marta Estevez and Angela R. Neave the same day, and open the exceptions question — do not
    wait for the client to raise it.
 5. **Transcript** — exceptions practice generally depends on a transcript of the proceeding before
    the magistrate. Order it immediately rather than after deciding to file, because transcript
@@ -267,7 +267,7 @@ everything else in the session without re-prompting:
 - **Drafting** — correct caption for {{COUNTY}} County and {{CIRCUIT}} Judicial Circuit, correct
   division designation, required certifications, cover sheet, page limits, proposed-order format and
   submission method. Signature block from Angela R. Neave, {{BAR_NO}}, Neave Family Law Group, P.A.,
-  2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL, (954) 981-2200, aneave@neavefamilylaw.com.
+  2400 E. Commercial Blvd., Suite 826, Fort Lauderdale, FL 33308, (954) 981-2200, aneave@neavefamilylaw.com.
 - **Deadlines** — case management order dates, discovery cutoffs, disclosure deadlines, conferral
   timing, mediation prerequisites, and any magistrate exception window. Calendar each in
   {{PM_SYSTEM}} with the source it came from.
@@ -291,7 +291,7 @@ everything else in the session without re-prompting:
 > - [ ] Client arrival time, attire, and meet location; or remote-appearance instructions
 > - [ ] Confirm who is appearing for {{OPPOSING_COUNSEL}}
 > - [ ] *one line per division-specific item surfaced by the live search*
-> Prepared by the paralegal · reviewed by the senior paralegal · cleared by Angela R. Neave
+> Prepared by Russ · reviewed by Marta Estevez · cleared by Angela R. Neave
 
 **Two officers in one session:** if more than one officer is relevant — a judge and a general
 magistrate on the same case, two judges across two matters, or a reassignment mid-session — track
@@ -316,7 +316,7 @@ officer.
   route to the caselaw protocol skill.
 - **Never emit** `Click here to enter text.` or `XXXXXXXX`. Unknown values are tokens or
   `[CONFIRM LOCALLY: ...]` flags.
-- **Nothing is filed or served from this skill.** the paralegal prepares, the senior paralegal
+- **Nothing is filed or served from this skill.** Russ prepares, Marta Estevez
   reviews, Angela R. Neave approves and files. Log the work in {{PM_SYSTEM}}.
 
 ---

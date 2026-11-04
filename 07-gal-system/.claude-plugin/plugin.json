@@ -1,0 +1,10 @@
+{
+  "name": "lal-gal-system",
+  "version": "1.1.0",
+  "description": "GAL System — Guardian ad Litem practice: appointment through final report — intake, tracker, interviews, chronology, reports, documents, QC. Florida family law. Built inside a real, active family law firm.",
+  "author": {
+    "name": "Legal Authority Lab",
+    "url": "https://legalauthoritylab.com"
+  },
+  "license": "Proprietary — see LICENSE"
+}

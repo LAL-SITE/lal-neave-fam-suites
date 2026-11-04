@@ -5,7 +5,7 @@ description: "Rapid first-pass characterization of irregular deposits for suppor
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. non-standard deposit income assessor. Rapid first-pass characterization of irregular deposits for support purposes — the light version of full Stage 5 income analysis. Use when bank statements show deposits that do not match the Financial Affidavit. Triggers on: "assess these deposits," "what are these deposits," "run the income assessor," "characterize the deposits," "are these deposits income," "unexplained deposits," "cash deposits," "Venmo income," "his deposits don't match his FA," or any request to classify non-payroll deposits in a Florida family law matter. Produces the Deposit Characterization Chart with a support-inclusion flag per deposit stream. Escalates to lal-income-analysis when income is genuinely complex (self-employment, multiple businesses, disputed year-over-year variance). Always assign to the paralegal; attorney reviews before any figure is used.
+Neave Family Law Group, P.A. non-standard deposit income assessor. Rapid first-pass characterization of irregular deposits for support purposes — the light version of full Stage 5 income analysis. Use when bank statements show deposits that do not match the Financial Affidavit. Triggers on: "assess these deposits," "what are these deposits," "run the income assessor," "characterize the deposits," "are these deposits income," "unexplained deposits," "cash deposits," "Venmo income," "his deposits don't match his FA," or any request to classify non-payroll deposits in a Florida family law matter. Produces the Deposit Characterization Chart with a support-inclusion flag per deposit stream. Escalates to lal-income-analysis when income is genuinely complex (self-employment, multiple businesses, disputed year-over-year variance). Always assign to Russ; attorney reviews before any figure is used.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -87,5 +87,5 @@ and the routing recommendation.
   and line. No estimates without labeling them as estimates.
 - No support calculation here — guideline math belongs to lal-cs-worksheet with
   attorney-approved income figures.
-- QC via lal-disco-qc before output moves to the senior paralegal. Save to NOTES via
+- QC via lal-disco-qc before output moves to Marta Estevez. Save to NOTES via
   lal-file-connector; update disco tracker and command center; log time in {{PM_SYSTEM}}.

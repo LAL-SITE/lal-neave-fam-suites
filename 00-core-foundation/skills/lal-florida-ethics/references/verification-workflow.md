@@ -14,15 +14,15 @@ current text before relying on this.
 
 | # | Check | Owner |
 |---|---|---|
-| 1 | **Facts traced to the file** — every assertion tied to a specific document, page, or communication | `the paralegal` → `the senior paralegal` |
-| 2 | **Tokens and assumptions resolved** — no unresolved token and no unlabeled assumption survives into a filed document | `the paralegal` |
+| 1 | **Facts traced to the file** — every assertion tied to a specific document, page, or communication | `Russ` → `Marta Estevez` |
+| 2 | **Tokens and assumptions resolved** — no unresolved token and no unlabeled assumption survives into a filed document | `Russ` |
 | 3 | **Every citation verified** — it exists; the holding matches the proposition; it is still current; checked **against the source, not against the AI** | `Angela R. Neave` |
-| 4 | **Every quotation checked against the original**, word for word | `the senior paralegal` |
-| 5 | **Statute and rule text re-pulled from the current official source** — sections, subdivisions, thresholds, deadlines. **Never from a template** | `the senior paralegal` → `Angela R. Neave` |
-| 6 | **Math re-run independently** — support, equalization, arrears, income averaging, date computations. **Re-run, not re-read** | `the senior paralegal` |
-| 7 | **Names, dates, case number, court, division, and party designations confirmed** against the caption and the docket; opposing-party documents correctly attributed | `the paralegal` → `the senior paralegal` |
-| 8 | **Form version current** — the Florida Supreme Court Approved Family Law Form in use is the current one; local form requirements checked | `the senior paralegal` |
-| 9 | **Masking confirmed** — no full account numbers, SSNs, routing numbers, or card numbers anywhere, including exhibits and attachments; masking is permanent, not an annotation layer | `the paralegal` → `the senior paralegal` |
+| 4 | **Every quotation checked against the original**, word for word | `Marta Estevez` |
+| 5 | **Statute and rule text re-pulled from the current official source** — sections, subdivisions, thresholds, deadlines. **Never from a template** | `Marta Estevez` → `Angela R. Neave` |
+| 6 | **Math re-run independently** — support, equalization, arrears, income averaging, date computations. **Re-run, not re-read** | `Marta Estevez` |
+| 7 | **Names, dates, case number, court, division, and party designations confirmed** against the caption and the docket; opposing-party documents correctly attributed | `Russ` → `Marta Estevez` |
+| 8 | **Form version current** — the Florida Supreme Court Approved Family Law Form in use is the current one; local form requirements checked | `Marta Estevez` |
+| 9 | **Masking confirmed** — no full account numbers, SSNs, routing numbers, or card numbers anywhere, including exhibits and attachments; masking is permanent, not an annotation layer | `Russ` → `Marta Estevez` |
 | 10 | **Disclosure / certification block correct for this court and this judge** — fields completed, tool named to the required specificity, no-use statement included if applicable | `Angela R. Neave` |
 | 11 | **All 🛑 flags cleared** — resolved on the record, or consciously accepted on the record | `Angela R. Neave` |
 | 12 | **The attorney has read the document end to end** and it reflects their judgment and the client's position | `Angela R. Neave` |
@@ -31,7 +31,7 @@ current text before relying on this.
 
 ## THE SEND-BACK RULE
 
-**(`the senior paralegal`)** If any line fails, **the document goes back.** It does not go forward with
+**(`Marta Estevez`)** If any line fails, **the document goes back.** It does not go forward with
 a note.
 
 A note is not a fix. "Flagging for the attorney to check step 5" is how an unverified statutory
@@ -70,8 +70,8 @@ proceeding. It is the reason the checklist is written down rather than remembere
 
 | Dependency | If installed | If not installed |
 |---|---|---|
-| **File connector** | Pull the source documents for steps 1, 4, 5, 7, and 9 | Ask `the paralegal` for the specific documents by name. Mark any step you could not perform as `NOT RUN — source unavailable` and list it under MISSING FACTS. **Never mark a step passed that you did not run** |
-| **Case management / tracker** | Log the completed checklist against the matter | Emit the checklist inline labeled `RECORD — must be filed to {{DMS}} and logged in {{PM_SYSTEM}} by the paralegal before session close` |
+| **File connector** | Pull the source documents for steps 1, 4, 5, 7, and 9 | Ask `Russ` for the specific documents by name. Mark any step you could not perform as `NOT RUN — source unavailable` and list it under MISSING FACTS. **Never mark a step passed that you did not run** |
+| **Case management / tracker** | Log the completed checklist against the matter | Emit the checklist inline labeled `RECORD — must be filed to {{DMS}} and logged in {{PM_SYSTEM}} by Russ before session close` |
 | **Judicial procedures** | Route step 10 there for the assigned judge and division | Emit the `[CONFIRM LOCALLY: ...]` marker above and **hold the filing.** Step 10 unconfirmed is a High risk level, not a Low one |
 | **Research provider `{{RESEARCH_PROVIDER}}`** | Use it as a verification source for step 3 — never as a substitute for reading the authority | Step 3 is performed against official sources only. If neither is available, step 3 fails and the document goes back |
 | **Forms library** | Check step 8 against it | Emit `[CONFIRM LOCALLY: current approved form version and any local form requirement, with the clerk of court in {{COUNTY}} County]` |

@@ -13,9 +13,9 @@ once, at install:
 
 | Token | Function |
 |---|---|
-| `the intake coordinator` | First contact and screening |
-| `the paralegal` | Prepares work product |
-| `the senior paralegal` | Reviews before it reaches the attorney |
+| `Judith` | First contact and screening |
+| `Russ` | Prepares work product |
+| `Marta Estevez` | Reviews before it reaches the attorney |
 | `Angela R. Neave` | Signs, files, appears, decides |
 
 ---
@@ -53,23 +53,23 @@ Seventeen stages. `owner` is the role that owns the stage, not the only role tha
 
 | id | Phase | Label | Owner | Gate to clear |
 |---|---|---|---|---|
-| `intake-conflict-check` | `p1` | Intake and conflict check | `the intake coordinator` | Conflict check clear and documented; case type, jurisdiction, and venue answered |
-| `engagement-scope` | `p2` | Engagement and scope definition | `the intake coordinator` → `Angela R. Neave` | Signed scope document in the file; service model recorded on the matter |
-| `case-assessment` | `p2` | Case assessment and issue spotting | `Angela R. Neave` decides, `the paralegal` assembles | Attorney has confirmed case type, service model, and whether emergency or temporary relief applies |
-| `initial-pleadings` | `p2` | Initial pleadings and filing | `the paralegal` → `the senior paralegal` → `Angela R. Neave` | Attorney review complete; jurisdictional facts pled with specificity; every remedy pled; required affidavits attached and internally consistent |
-| `service` | `p3` | Service of process | `the paralegal` mechanics, `Angela R. Neave` method | Return of service filed and reviewed; response deadline calendared; 120-day outside date diaried |
-| `responsive-pleadings` | `p3` | Responsive pleadings and counterpetition | `Angela R. Neave` content, `the paralegal` assembly | Jurisdictional defenses raised by pre-answer motion or in the answer, or they are waived |
+| `intake-conflict-check` | `p1` | Intake and conflict check | `Judith` | Conflict check clear and documented; case type, jurisdiction, and venue answered |
+| `engagement-scope` | `p2` | Engagement and scope definition | `Judith` → `Angela R. Neave` | Signed scope document in the file; service model recorded on the matter |
+| `case-assessment` | `p2` | Case assessment and issue spotting | `Angela R. Neave` decides, `Russ` assembles | Attorney has confirmed case type, service model, and whether emergency or temporary relief applies |
+| `initial-pleadings` | `p2` | Initial pleadings and filing | `Russ` → `Marta Estevez` → `Angela R. Neave` | Attorney review complete; jurisdictional facts pled with specificity; every remedy pled; required affidavits attached and internally consistent |
+| `service` | `p3` | Service of process | `Russ` mechanics, `Angela R. Neave` method | Return of service filed and reviewed; response deadline calendared; 120-day outside date diaried |
+| `responsive-pleadings` | `p3` | Responsive pleadings and counterpetition | `Angela R. Neave` content, `Russ` assembly | Jurisdictional defenses raised by pre-answer motion or in the answer, or they are waived |
 | `temporary-relief` | `p3` | Temporary relief | `Angela R. Neave` | Relief is pled in the pleadings; evidentiary support assembled; hearing set on the evidentiary calendar |
-| `mandatory-disclosure` | `p3` | Mandatory disclosure | `the paralegal` → `the senior paralegal` → `Angela R. Neave` | Production served inside the rule period; certificate of compliance reviewed and signed by the attorney before filing |
-| `discovery` | `p3` | Discovery | `Angela R. Neave` strategy, `the paralegal` production | Three-way audit complete — financial affidavit vs. mandatory disclosure vs. certificate of compliance; documented good-faith conferral before any motion to compel |
+| `mandatory-disclosure` | `p3` | Mandatory disclosure | `Russ` → `Marta Estevez` → `Angela R. Neave` | Production served inside the rule period; certificate of compliance reviewed and signed by the attorney before filing |
+| `discovery` | `p3` | Discovery | `Angela R. Neave` strategy, `Russ` production | Three-way audit complete — financial affidavit vs. mandatory disclosure vs. certificate of compliance; documented good-faith conferral before any motion to compel |
 | `case-management-conference` | `p3` | Case management conference | `Angela R. Neave` | Counsel can state service status, disclosure status, outstanding discovery, mediation posture, and trial time estimate |
 | `experts-evaluations` | `p3` | Experts and evaluations | `Angela R. Neave` | Court authorization obtained where the rule requires it; expert deadlines from the case management order calendared |
 | `mediation` | `p4` | Mediation | `Angela R. Neave`, or the neutral where the firm is mediating | Mandatory disclosure complete and major unknowns resolved; client reality-tested on what a court can and cannot order |
-| `pretrial` | `p4` | Pretrial | `the paralegal` → `Angela R. Neave` | Discovery substantially complete; mediation held or waived; preliminary motions resolved |
+| `pretrial` | `p4` | Pretrial | `Russ` → `Angela R. Neave` | Discovery substantially complete; mediation held or waived; preliminary motions resolved |
 | `trial` | `p4` | Trial | `Angela R. Neave` | Client prepared to testify; exhibits exchanged per local requirements; proposed findings drafted in statutory language |
 | `final-judgment` | `p4` | Final judgment | `Angela R. Neave` | Judgment contains every statutory finding the relief requires; ambiguity removed; all post-judgment obligations calendared |
-| `post-judgment-compliance` | `p5` | Post-judgment compliance | `the paralegal` → `Angela R. Neave` | Rehearing/clarification window and appeal window addressed; transfers, retirement orders, and refinancing deadlines diaried |
-| `file-closing` | `p5` | File closing | `the paralegal` assembles, `Angela R. Neave` approves the letter | Every item in § 5 is true |
+| `post-judgment-compliance` | `p5` | Post-judgment compliance | `Russ` → `Angela R. Neave` | Rehearing/clarification window and appeal window addressed; transfers, retirement orders, and refinancing deadlines diaried |
+| `file-closing` | `p5` | File closing | `Russ` assembles, `Angela R. Neave` approves the letter | Every item in § 5 is true |
 
 **Not every stage occurs in every matter.** A stage that does not apply is recorded in
 `scope.outOfScopeStages` or noted in `position.stageEvidence` as not applicable — never quietly

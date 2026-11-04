@@ -5,7 +5,7 @@ description: "Running discovery tracker. Use whenever documents arrive, a stage 
 
 ## When to use this skill (full trigger reference)
 
-Neave Family Law Group, P.A. discovery document tracker for the paralegal. Use this skill immediately whenever the paralegal needs to create, update, or review the running discovery tracker for a matter. Triggers on: "update the tracker," "add these docs to the tracker," "new documents came in," "what's been produced," "what's still missing," "update the disco log," "tracker needs updating," "log these documents," "what has the OP produced," "what have we produced," "is our disclosure complete," "update the discovery log," or any request to record, review, or report on what has been produced or is still outstanding in a Florida family law discovery matter. This is a running document — the paralegal updates it every time new documents arrive, a stage is completed, or disclosure is served or received. It lives in the NOTES folder in {{DMS}} for the matter. Always update the tracker before running any downstream discovery stage skill and before QC runs. Assign to the paralegal.
+Neave Family Law Group, P.A. discovery document tracker for Russ. Use this skill immediately whenever Russ needs to create, update, or review the running discovery tracker for a matter. Triggers on: "update the tracker," "add these docs to the tracker," "new documents came in," "what's been produced," "what's still missing," "update the disco log," "tracker needs updating," "log these documents," "what has the OP produced," "what have we produced," "is our disclosure complete," "update the discovery log," or any request to record, review, or report on what has been produced or is still outstanding in a Florida family law discovery matter. This is a running document — Russ updates it every time new documents arrive, a stage is completed, or disclosure is served or received. It lives in the NOTES folder in {{DMS}} for the matter. Always update the tracker before running any downstream discovery stage skill and before QC runs. Assign to Russ.
 
 
 ## Neave Family Law Group, P.A. Firm-Wide Conventions (apply to every run of this skill)
@@ -36,11 +36,11 @@ below that conflicts with them.
 ---
 
 # Neave Family Law Group, P.A. Discovery Tracker
-## Staff Lane: the paralegal (default lane — anyone may run this skill)
+## Staff Lane: Russ (default lane — anyone may run this skill)
 ## Type: Running Document — Updated at Every Stage and Document Event
 
 This is the matter's single source of truth for discovery document status.
-the paralegal creates it when the matter opens for discovery and updates it every time
+Russ creates it when the matter opens for discovery and updates it every time
 documents arrive, a stage completes, disclosure is served, or a deficiency
 is identified. It lives in the NOTES folder in {{DMS}} and is referenced
 by every downstream discovery skill.
@@ -49,7 +49,7 @@ by every downstream discovery skill.
 
 ## WHEN TO UPDATE THIS TRACKER
 
-the paralegal updates the tracker at every one of the following events — not just
+Russ updates the tracker at every one of the following events — not just
 at stage completion:
 
 - New documents arrive via {{UPLOAD_PORTAL}} into {{DMS}}
@@ -73,7 +73,7 @@ The tracker is a single running document saved as:
 
 Saved to: **{{DMS}} → [Matter Folder] → NOTES**
 
-the paralegal opens the existing tracker and adds to it — she does not replace it.
+Russ opens the existing tracker and adds to it — she does not replace it.
 Each update is appended with a date stamp. The document grows as the matter
 progresses.
 
@@ -104,7 +104,7 @@ Last Updated: [Date — update every session]
 ## SECTION 2 — MANDATORY DISCLOSURE STATUS
 
 One row per Rule 12.285 category. Updated each time documents arrive.
-the paralegal updates STATUS and NOTES columns only — never deletes rows.
+Russ updates STATUS and NOTES columns only — never deletes rows.
 
 | # | 12.285 Category | Client Status | Client Notes | OP Status | OP Notes |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@ the paralegal updates STATUS and NOTES columns only — never deletes rows.
 
 ## SECTION 3 — DOCUMENT LOG
 
-Running log of every document received. the paralegal adds a row each time a
+Running log of every document received. Russ adds a row each time a
 document arrives. Never delete rows — strike through superseded entries
 if a corrected version arrives.
 
@@ -155,27 +155,27 @@ if a corrected version arrives.
 
 ## SECTION 4 — STAGE COMPLETION LOG
 
-the paralegal logs each stage as it completes and clears QC.
+Russ logs each stage as it completes and clears QC.
 
 | Stage | Description | Date Completed | QC Result | Sent To | Notes |
 |---|---|---|---|---|---|
-| Intake Prep | Document audit, rename, sort | | Pass / Flagged | the senior paralegal | |
-| Stage 2 | Case intake and pleadings memo | | Pass / Flagged | the senior paralegal | |
-| Stage 3 | Client FA preliminary review | | Pass / Flagged | the senior paralegal | |
-| Stage 4 | Client FA crosscheck | | Pass / Flagged | the senior paralegal | |
-| Stage 5 | Client income analysis | | Pass / Flagged / N/A | the senior paralegal | |
-| Stage 3/6 | OP FA preliminary review | | Pass / Flagged | the senior paralegal | |
-| Stage 4/6 | OP FA crosscheck | | Pass / Flagged | the senior paralegal | |
-| Stage 5/6 | OP income analysis | | Pass / Flagged / N/A | the senior paralegal | |
-| Stage 7 | Case-wide gap analysis | | Pass / Flagged | Angela R. Neave / the senior paralegal | |
-| Stage 8 | ED chart | | Pass / Flagged | Angela R. Neave / the senior paralegal | |
-| Stage 8B | Equalizer | | Pass / Flagged | Angela R. Neave / the senior paralegal | |
+| Intake Prep | Document audit, rename, sort | | Pass / Flagged | Marta Estevez | |
+| Stage 2 | Case intake and pleadings memo | | Pass / Flagged | Marta Estevez | |
+| Stage 3 | Client FA preliminary review | | Pass / Flagged | Marta Estevez | |
+| Stage 4 | Client FA crosscheck | | Pass / Flagged | Marta Estevez | |
+| Stage 5 | Client income analysis | | Pass / Flagged / N/A | Marta Estevez | |
+| Stage 3/6 | OP FA preliminary review | | Pass / Flagged | Marta Estevez | |
+| Stage 4/6 | OP FA crosscheck | | Pass / Flagged | Marta Estevez | |
+| Stage 5/6 | OP income analysis | | Pass / Flagged / N/A | Marta Estevez | |
+| Stage 7 | Case-wide gap analysis | | Pass / Flagged | Angela R. Neave / Marta Estevez | |
+| Stage 8 | ED chart | | Pass / Flagged | Angela R. Neave / Marta Estevez | |
+| Stage 8B | Equalizer | | Pass / Flagged | Angela R. Neave / Marta Estevez | |
 
 ---
 
 ## SECTION 5 — DEFICIENCY AND ENFORCEMENT LOG
 
-the paralegal logs every deficiency letter sent, every supplemental production
+Russ logs every deficiency letter sent, every supplemental production
 received, and every enforcement action taken.
 
 | Date | Action | Party | Details | Response Due | Response Received |
@@ -189,7 +189,7 @@ received, and every enforcement action taken.
 
 ## SECTION 6 — OUTSTANDING ITEMS LIST
 
-the paralegal maintains a running list of what is still needed. Updated every
+Russ maintains a running list of what is still needed. Updated every
 session. Resolved items are marked RECEIVED with the date — not deleted.
 
 ```
@@ -206,47 +206,47 @@ OPPOSING PARTY — [First Name]:
 DEFICIENCY LETTERS PENDING RESPONSE:
 [ ] Sent [Date] — Response due [Date] — Items: [Brief description]
 
-NOTES FOR the senior paralegal / Angela R. Neave:
-[Any item the paralegal cannot resolve herself — flags for attorney attention]
+NOTES FOR Marta Estevez / Angela R. Neave:
+[Any item Russ cannot resolve herself — flags for attorney attention]
 ```
 
 ---
 
-## HOW the paralegal UPDATES THE TRACKER IN COWORK
+## HOW Russ UPDATES THE TRACKER IN COWORK
 
 **Opening an existing tracker:**
-the paralegal opens Cowork, navigates to the matter's NOTES folder in {{DMS}},
+Russ opens Cowork, navigates to the matter's NOTES folder in {{DMS}},
 opens the existing tracker file, and makes additions. She does not create
 a new file — she appends to the existing one.
 
 **Adding new documents:**
-the paralegal adds each new document to Section 3 (Document Log) and updates
+Russ adds each new document to Section 3 (Document Log) and updates
 the corresponding row in Section 2 (Mandatory Disclosure Status).
 
 **After a stage completes:**
-the paralegal updates Section 4 (Stage Completion Log) with the date, QC result,
+Russ updates Section 4 (Stage Completion Log) with the date, QC result,
 and who it was sent to.
 
 **After a deficiency letter:**
-the paralegal adds the entry to Section 5 (Deficiency and Enforcement Log) and
+Russ adds the entry to Section 5 (Deficiency and Enforcement Log) and
 updates Section 6 (Outstanding Items List).
 
 **Closing every session:**
-the paralegal reviews Section 6 and confirms it is current before closing Cowork.
+Russ reviews Section 6 and confirms it is current before closing Cowork.
 She logs tracker update time in {{PM_SYSTEM}} before closing.
 
 ---
 
 ## GUARDRAILS
 
-the paralegal does not interpret what a document means legally — she logs what
-arrived and flags anything that looks inconsistent for the senior paralegal and Angela R. Neave.
+Russ does not interpret what a document means legally — she logs what
+arrived and flags anything that looks inconsistent for Marta Estevez and Angela R. Neave.
 
-the paralegal does not mark a category Complete unless she has confirmed the
+Russ does not mark a category Complete unless she has confirmed the
 specific documents required by Rule 12.285 are present and dated correctly.
 Partial is always safer than Complete when in doubt.
 
-the paralegal does not advance any stage skill without first confirming the tracker
+Russ does not advance any stage skill without first confirming the tracker
 reflects current document status. The tracker feeds every downstream skill.
 
 All tracker update time is logged in {{PM_SYSTEM}}. Tracker maintenance is
@@ -258,8 +258,8 @@ billable work — it does not get skipped or absorbed.
 
 | Who | Does What |
 |---|---|
-| the paralegal | Creates tracker at matter open, updates at every document event and stage completion, maintains Section 6 outstanding list, logs time in {{PM_SYSTEM}} |
-| the senior paralegal | Reviews tracker before authorizing next stage, flags tracker issues to Angela R. Neave |
+| Russ | Creates tracker at matter open, updates at every document event and stage completion, maintains Section 6 outstanding list, logs time in {{PM_SYSTEM}} |
+| Marta Estevez | Reviews tracker before authorizing next stage, flags tracker issues to Angela R. Neave |
 | Angela R. Neave | Reviews tracker at Stage 7 and 8, uses outstanding list for strategy decisions |
 
 ---
@@ -285,3 +285,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

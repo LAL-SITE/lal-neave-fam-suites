@@ -822,7 +822,7 @@ STEP 3B — it is not optional.
   → **`Notes/`** (GAL matters: `GAL Notes/`). Mediation matters use the Mediation
   template folder.
 - Angela R. Neave downloads the output and saves it to {{DMS}} manually.
-- Assigned to: drafted by the paralegal or the senior paralegal → reviewed by Angela R. Neave → approved by Angela R. Neave.
+- Assigned to: drafted by Russ or Marta Estevez → reviewed by Angela R. Neave → approved by Angela R. Neave.
   When Neave Family Law Group, P.A. is the neutral mediator, Angela R. Neave reviews and releases directly.
 - Time is tracked in {{PM_SYSTEM}}, including Claude-assisted drafting time.
 
@@ -1044,7 +1044,7 @@ List every `[BRACKETED PLACEHOLDER]` in the draft that still needs to be filled 
 - If Neave Family Law Group, P.A. was the neutral: state that the Mediator Neutrality Package is included
   and that the return-to-mediation clause was omitted for that reason
 - List every deadline created by the Agreement in a calendar table (obligation /
-  responsible party / trigger event / due date) so the senior paralegal can docket them
+  responsible party / trigger event / due date) so Marta Estevez can docket them
 - Flag every statutory and C.F.R. citation for attorney verification
 
 ---
@@ -1154,3 +1154,4 @@ no {{DMS}} path. (`GAL Notes/` on GAL matters.)
 
 Nothing is filed or sent without attorney sign-off. Time is tracked in {{PM_SYSTEM}},
 including Claude-assisted work.
+

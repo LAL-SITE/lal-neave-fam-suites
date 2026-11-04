@@ -103,9 +103,9 @@ check. It does not write the name into a reusable file.
 
 | Step | Owner |
 |---|---|
-| Runs the search, produces the summary and checklist | The assistant, working with the paralegal |
-| Confirms anything marked `[CONFIRM LOCALLY: ...]` | the paralegal, by phone or portal |
-| Reviews the output before it advances | the senior paralegal |
+| Runs the search, produces the summary and checklist | The assistant, working with Russ |
+| Confirms anything marked `[CONFIRM LOCALLY: ...]` | Russ, by phone or portal |
+| Reviews the output before it advances | Marta Estevez |
 | Approves, signs, and files | Angela R. Neave |
 | Time and activity logged | {{PM_SYSTEM}}, before the session closes |
 
