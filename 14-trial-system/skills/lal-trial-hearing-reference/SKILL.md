@@ -3,6 +3,12 @@ name: lal-trial-hearing-reference
 description: "Trial and evidentiary hearing reference. Load for any evidence, foundation, objection, witness, exhibit, or procedure question - Rules 12.400s, Ch. 90, Ch. 92. Reference only; drafts nothing."
 ---
 
+> **⚠️ RULE CHANGE EFFECTIVE JAN 1, 2027, 12:01 a.m. — Fla. Fam. L. R. P. 12.530 is reorganized** (In re Amendments to Fla. R. Civ. P. 1.530, Small Claims R. 7.180, and Fam. L. R. P. 12.530, No. SC2025-1795, Fla. Nov. 12, 2026). <!-- RULE-12530-UPDATE-2026-11-18 -->
+> **The current text governs until then.** Do not apply the new lettering to a judgment or order governed by the current rule. From 1/1/2027: new trial after a jury verdict is **(a)**; rehearing is **(b)** and "may be directed only to a final judgment or final order"; court-initiated relief is **(c)**; the hearing provision is **(d)**; the motion to alter or amend moves to a later subdivision (letter not confirmed — **ATTORNEY VERIFY**).
+> Unchanged in substance per the Committee Note: 15-day service windows; a challenge to missing required findings must still be raised by motion for rehearing (new **(b)(3)**, "Necessity of Motion"); nonjury sufficiency of the evidence needs no motion. New gate: **is the order a final judgment or final order?** If not, rehearing under 12.530 is the wrong vehicle (reconsideration or another vehicle — attorney's call). New-trial orders must state grounds, **(a)(3)** — narrower wording than former (g), which also named rehearing orders.
+> Source: commentary on the opinion and Bar rule notices; the adopted appendix has not been checked against this note. **ATTORNEY VERIFY every subdivision letter and sub-paragraph number against the adopted rule before citing it.** Not final until the firm's approving attorney signs off. Added 2026-11-18.
+
+
 # Neave Family Law Group, P.A. Trial & Evidentiary Hearing Reference
 
 ## When to use this skill (full trigger reference)
